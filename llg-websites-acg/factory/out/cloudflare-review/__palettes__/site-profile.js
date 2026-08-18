@@ -155,7 +155,17 @@
     }
 
     const processImage = document.querySelector('img[src*="images/core/truck.webp"]');
-    const processAsset = selectedSiteMedia?.processImage || serviceMedia[0];
+    // The manifest assigns the same processImage (PULL-CB2CA64F5D824D4A) to Cedar
+    // Rapids, McAllen, and San Antonio, so they show an identical photo here. Pin
+    // distinct, on-topic cards (from the same approved concrete-pavers pool) for
+    // McAllen and San Antonio; Cedar Rapids and Fort Worth keep their defaults.
+    const concretePaversProcessOverrides = {
+      'LOC-059': 'PULL-697EC0DEFDDCC873',
+      'LOC-117': 'PULL-27E643005EF5C3E2',
+    };
+    const overrideKey = concretePaversProcessOverrides[selectedSite?.sourceId];
+    const overrideAsset = overrideKey ? serviceMedia.find((asset) => asset.assetKey === overrideKey) : null;
+    const processAsset = overrideAsset || selectedSiteMedia?.processImage || serviceMedia[0];
     if (processImage && processAsset) {
       processImage.src = processAsset.webUrl;
       processImage.removeAttribute('srcset');
