@@ -1968,6 +1968,10 @@ select{
   background-image: url(images/core/roof.avif);
 }
 
+.bg-\[url\(\/images\/core\/concrete-pavers-hero\.avif\)\]{
+  background-image: url(/images/core/concrete-pavers-hero.avif);
+}
+
 .bg-cover{
   background-size: cover;
 }

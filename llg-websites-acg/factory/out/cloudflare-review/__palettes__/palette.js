@@ -12,7 +12,9 @@
     : theme.mode === 'dark' ? 'dark' : 'light';
   const hero = ['cream-solid', 'navy-photo'].includes(params.get('hero'))
     ? params.get('hero')
-    : theme.hero || (theme.id === 'cream-red-light-blue' ? 'cream-solid' : 'navy-photo');
+    : root.dataset.siteProfile === 'concrete-pavers'
+      ? 'navy-photo'
+      : theme.hero || (theme.id === 'cream-red-light-blue' ? 'cream-solid' : 'navy-photo');
   const estimatePanel = ['brand', 'soft-gray', 'black'].includes(params.get('estimatePanel'))
     ? params.get('estimatePanel')
     : theme.estimatePanel || 'brand';
@@ -139,7 +141,7 @@
     }
   });
 
-  const heroElement = document.querySelector('section[class*="bg-[url(images/core/roof.avif)]"]');
+  const heroElement = document.querySelector('section[class*="bg-[url("][class*="bg-cover"][class*="bg-center"]');
   if (heroElement) {
     heroElement.dataset.brandHero = '';
     heroElement.querySelector(':scope > .absolute.inset-0.bg-dark')?.classList.add('brand-hero-overlay');
