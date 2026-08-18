@@ -10,9 +10,10 @@
   const mode = params.has('mode')
     ? params.get('mode') === 'dark' ? 'dark' : 'light'
     : theme.mode === 'dark' ? 'dark' : 'light';
+  const requestedProfile = params.get('type') || root.dataset.siteProfile;
   const hero = ['cream-solid', 'navy-photo'].includes(params.get('hero'))
     ? params.get('hero')
-    : root.dataset.siteProfile === 'concrete-pavers'
+    : requestedProfile === 'concrete-pavers'
       ? 'navy-photo'
       : theme.hero || (theme.id === 'cream-red-light-blue' ? 'cream-solid' : 'navy-photo');
   const estimatePanel = ['brand', 'soft-gray', 'black'].includes(params.get('estimatePanel'))
