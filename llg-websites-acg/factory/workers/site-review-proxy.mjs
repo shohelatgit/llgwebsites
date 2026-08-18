@@ -42,7 +42,8 @@ function addSiteDefaults(url, env, force = false) {
   set('mode', 'light');
   set('estimatePanel', 'brand');
   if (force || !url.searchParams.has('hero')) {
-    url.searchParams.set('hero', env.THEME_ID === 'cream-red-light-blue' ? 'cream-solid' : 'navy-photo');
+    const cream = env.THEME_ID === 'cream-red-light-blue' && env.PROFILE_ID !== 'concrete-pavers';
+    url.searchParams.set('hero', cream ? 'cream-solid' : 'navy-photo');
   }
 }
 
