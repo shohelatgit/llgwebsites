@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "siteKey": "little-rock-precision-walls",
+  "sourceType": "brand-board-jpeg",
+  "sourceFile": "Little Rock Precision Walls.jpeg",
+  "sha256": "d37b10540571e29951db1ab54591f3f1643131eb997c3adce6b8bdc4ab932856",
+  "dimensions": {
+    "width": 1600,
+    "height": 900
+  },
+  "observations": [
+    "four printed brand colors",
+    "heading, body, and accent font roles",
+    "logo, wordmark, icon, and favicon examples"
+  ],
+  "confidence": "high",
+  "assetPolicy": "board is token evidence; website logo slots remain placeholders until source vector files are supplied"
+}

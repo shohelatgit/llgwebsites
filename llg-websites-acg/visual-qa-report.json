@@ -1,0 +1,69 @@
+{
+  "runDate": "2026-08-08",
+  "viewports": ["1440x900", "390x844", "320x780"],
+  "method": "Local installed-Chrome renders served from the repository root. tools/qa-screenshots.mjs measured HTTP status, document width, viewport width, image load state, robots metadata, console errors, and failed requests after network idle and document.fonts.ready. tools/audit-static-sites.py inspected generated static HTML and local file references.",
+  "portfolio": {
+    "sites": 29,
+    "renderMeasurements": 87,
+    "http200": "87/87",
+    "zeroHorizontalOverflow": "87/87",
+    "zeroBrokenImgElements": "87/87",
+    "noindexPresent": "87/87",
+    "staticAudit": "29/29 passed"
+  },
+  "remainingWave": {
+    "sites": 24,
+    "renderMeasurements": 72,
+    "http200": "72/72",
+    "zeroHorizontalOverflow": "72/72",
+    "zeroBrokenImgElements": "72/72",
+    "noindexPresent": "72/72",
+    "staticAudit": "24/24 passed",
+    "siteSlugs": [
+      "austin-drain-guys",
+      "baltimore-french-drain",
+      "charlotte-crawl-space",
+      "charlotte-precision-walls",
+      "chicago-drainage-guys",
+      "cincinnati-precision-walls",
+      "crawlspace-cary-nc",
+      "crawlspace-durham",
+      "crawlspace-greensboro",
+      "crawlspace-raleigh",
+      "crawlspace-wilmington",
+      "greensboro-drain-guys",
+      "jackson-french-drain",
+      "little-rock-french-drain",
+      "little-rock-precision-walls",
+      "naples-pool-pros",
+      "nashville-crawlspace",
+      "nashville-backyards",
+      "new-orleans-french-drain",
+      "pgh-painting-pros",
+      "pgh-pool-service",
+      "salt-lake-city-precision-walls",
+      "tulsa-drain-pros",
+      "ws-crawl-space"
+    ]
+  },
+  "sourcePackageLimitations": [
+    {
+      "source": "Minuteman",
+      "affectedRemainingSites": ["chicago-drainage-guys", "tulsa-drain-pros"],
+      "measuredEvidence": "14 missing Webflow achunk requests per viewport; 42 failed requests per site across the three renders.",
+      "impact": "The supplied package omits asynchronously requested Webflow chunk files. Static DOM/CSS, responsive composition, images, and noindex checks passed; behavior implemented only in omitted chunks cannot be verified."
+    },
+    {
+      "source": "Cincinnati Painting",
+      "affectedRemainingSites": ["pgh-painting-pros"],
+      "measuredEvidence": "13 missing Webflow achunk requests per viewport; 39 failed requests across the three renders.",
+      "impact": "The supplied package omits asynchronously requested Webflow chunk files. Static DOM/CSS, responsive composition, images, and noindex checks passed; behavior implemented only in omitted chunks cannot be verified."
+    }
+  ],
+  "evidence": {
+    "machineResults": ".qa/smoke-results.json",
+    "staticAudit": ".qa/static-audit.json",
+    "screenshots": ".qa/<site>-<desktop|mobile|mobile-320>.png"
+  },
+  "stagingBoundary": "All 24 remaining sites were deployed only to noindex Cloudflare Pages clone-rebuild preview branches. No production deployment, custom-domain change, indexing, analytics, production form endpoint, phone number, address, GBP profile, review, credential, award, or warranty was added."
+}

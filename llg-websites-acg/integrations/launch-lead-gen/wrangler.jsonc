@@ -1,0 +1,65 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "launch-lead-gen-integrations-staging",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-08-05",
+  "compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
+  "observability": {
+    "enabled": true,
+    "head_sampling_rate": 1
+  },
+  "vars": {
+    "ENVIRONMENT": "staging",
+    "DRY_RUN": "true",
+    "DELIVERY_ENABLED": "false",
+    "DRAINSCAPES_MUTATIONS_ENABLED": "false",
+    "DRAINSCAPES_REPORT_CHANNEL": "dashboard",
+    "WEBSITE_PRODUCTION_ORIGINS_ENABLED": "true",
+    "PUBLIC_BASE_URL": "https://launch-lead-gen-integrations-staging.justin-b75.workers.dev",
+    "SUPABASE_URL": "https://zjhpxhyqdrrrwoadjdbj.supabase.co",
+    "SUPABASE_PUBLISHABLE_KEY": "sb_publishable_XNXU1tC5v7FMlk4VsWy2rg_H317VOz-",
+    "GOOGLE_ADS_API_VERSION": "v25",
+    "GOOGLE_ADS_CUSTOMER_IDS": "5488468890",
+    "GOOGLE_ADS_LOGIN_CUSTOMER_ID": "",
+    "META_GRAPH_VERSION": "v23.0",
+    "META_AD_ACCOUNT_IDS": "8249616688465280",
+    "TEXTMAGIC_USERNAME": "effectlocal",
+    "TEXTMAGIC_DEFAULT_FROM": "+18337689020",
+    "TEXTMAGIC_DELIVERY_ENABLED": "false",
+    "TURNSTILE_EXPECTED_ACTION": "lead_submit"
+  },
+  "queues": {
+    "producers": [
+      {
+        "binding": "EVENTS_QUEUE",
+        "queue": "llg-integration-events-staging"
+      }
+    ],
+    "consumers": [
+      {
+        "queue": "llg-integration-events-staging",
+        "max_batch_size": 10,
+        "max_batch_timeout": 5,
+        "max_retries": 5,
+        "dead_letter_queue": "llg-integration-events-staging-dlq"
+      }
+    ]
+  },
+  "durable_objects": {
+    "bindings": [
+      {
+        "name": "ROUTE_SEQUENCER",
+        "class_name": "RouteSequencer"
+      }
+    ]
+  },
+  "migrations": [
+    {
+      "tag": "v1-route-sequencer",
+      "new_sqlite_classes": ["RouteSequencer"]
+    }
+  ],
+  "triggers": {
+    "crons": ["*/15 * * * *"]
+  }
+}

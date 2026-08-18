@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 160" role="img" aria-labelledby="title desc">
+  <title id="title">DrainScape Solutions droplet mark</title>
+  <desc id="desc">A blue water droplet containing a stylized drainage channel and flowing water.</desc>
+  <defs>
+    <linearGradient id="brand-blue" x1="64" y1="2" x2="64" y2="158" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4FA6FF"/>
+      <stop offset="1" stop-color="#086CF0"/>
+    </linearGradient>
+    <clipPath id="drop-clip">
+      <path d="M64 4C57 27 45 43 34 59C23 75 15 91 15 108C15 136 37 157 64 157C91 157 113 136 113 108C113 91 105 75 94 59C83 43 71 27 64 4Z"/>
+    </clipPath>
+  </defs>
+  <path fill="url(#brand-blue)" d="M64 4C57 27 45 43 34 59C23 75 15 91 15 108C15 136 37 157 64 157C91 157 113 136 113 108C113 91 105 75 94 59C83 43 71 27 64 4Z"/>
+  <g clip-path="url(#drop-clip)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M26 105C45 93 72 86 104 87" stroke-width="8"/>
+    <path d="M42 103L52 88M56 98L64 84M70 94L77 81M84 91L91 79" stroke-width="5"/>
+    <path d="M22 121C35 114 45 114 57 120C69 126 79 126 91 120C99 116 106 115 114 118" stroke-width="6"/>
+    <path d="M21 137C34 130 45 130 57 136C69 142 80 142 92 136C101 131 109 130 117 133" stroke-width="6"/>
+  </g>
+</svg>

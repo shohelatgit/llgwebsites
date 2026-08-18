@@ -1,0 +1,23 @@
+{
+  "name": "launch-lead-gen-integrations",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "bootstrap:airtable": "node scripts/bootstrap-airtable.mjs",
+    "sync:factory-sites": "node scripts/sync-factory-sites.mjs",
+    "check": "tsc --noEmit",
+    "dev": "wrangler dev",
+    "deploy:staging": "wrangler deploy",
+    "dashboard:build": "npm --prefix dashboard run build",
+    "dashboard:check": "npm --prefix dashboard run check",
+    "dashboard:deploy": "wrangler pages deploy dashboard/dist --project-name llg-portfolio-dashboard --branch main",
+    "test": "vitest run",
+    "types": "wrangler types"
+  },
+  "devDependencies": {
+    "typescript": "7.0.2",
+    "vitest": "4.1.10",
+    "wrangler": "4.123.0"
+  }
+}

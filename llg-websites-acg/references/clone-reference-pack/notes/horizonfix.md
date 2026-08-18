@@ -1,0 +1,7 @@
+# HorizonFix
+
+- Source: supplied offline clone package.
+- Rights: design-reference-only; source logo, copy, claims, reviews, and photography must be replaced.
+- Authority: homepage DOM, section order, component geometry, responsive composition, CTA anatomy, and interaction placement.
+- Captures: desktop, tablet, and mobile default states.
+- Observations: `[{"viewport":"desktop","status":200,"bodyChildren":["div.","script.","script.","script.","header.navbar.fixed.top-0.left-0","main.flex.min-h-screen.flex-col","footer.bg-gray-900.text-gray-300","script.","script.","script.","script.","script.","script.","script.","script.","script.","script.","script.","script.","script.","script."],"sections":5,"headings":14,"forms":1,"overflow":0},{"viewport":"tablet","status":200,"bodyChildren":["div.","script.","script.","script.","header.navbar.fixed.top-0.left-0","main.flex.min-h-screen.flex-col","footer.bg-gray-900.text-gray-300","script.","script.","script.","script.","script.","script.","script.","script.","script.","script.","script.","script.","script.","script."],"sections":5,"headings":14,"forms":1,"overflow":0},{"viewport":"mobile","status":200,"bodyChildren":["div.","script.","script.","script.","header.navbar.fixed.top-0.left-0","main.flex.min-h-screen.flex-col","footer.bg-gray-900.text-gray-300","script.","script.","script.","script.","script.","script.","script.","script.","script.","script.","script.","script.","script.","script."],"sections":5,"headings":14,"forms":1,"overflow":0}]`

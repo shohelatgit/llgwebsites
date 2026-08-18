@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "siteKey": "charlotte-crawl-space",
+  "sourceType": "brand-board-jpeg",
+  "sourceFile": "Charlotte Crawl Space.jpeg",
+  "sha256": "01311f19888b28bc04535bc81fd5a992dde307573bf0c11517c67a7187bf5d80",
+  "dimensions": {
+    "width": 1600,
+    "height": 900
+  },
+  "observations": [
+    "four printed brand colors",
+    "heading, body, and accent font roles",
+    "logo, wordmark, icon, and favicon examples"
+  ],
+  "confidence": "high",
+  "assetPolicy": "board is token evidence; website logo slots remain placeholders until source vector files are supplied"
+}

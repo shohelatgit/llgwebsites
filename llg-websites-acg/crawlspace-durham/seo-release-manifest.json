@@ -1,0 +1,66 @@
+{
+  "siteKey": "crawlspace-durham",
+  "stage": "staging",
+  "currentCrawlContract": {
+    "metaRobots": "noindex,nofollow",
+    "robotsTxt": "Disallow: /",
+    "xRobotsTag": "noindex, nofollow",
+    "sitemap": "empty"
+  },
+  "productionCandidate": {
+    "origin": "https://crawlspacedurham.com",
+    "urls": [
+      {
+        "path": "/",
+        "canonical": "https://crawlspacedurham.com/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/",
+        "canonical": "https://crawlspacedurham.com/services/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/crawlspace-encapsulation/",
+        "canonical": "https://crawlspacedurham.com/services/crawlspace-encapsulation/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/crawlspace-drainage/",
+        "canonical": "https://crawlspacedurham.com/services/crawlspace-drainage/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/moisture-control/",
+        "canonical": "https://crawlspacedurham.com/services/moisture-control/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/dehumidifier-solutions/",
+        "canonical": "https://crawlspacedurham.com/services/dehumidifier-solutions/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/service-areas/",
+        "canonical": "https://crawlspacedurham.com/service-areas/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/about/",
+        "canonical": "https://crawlspacedurham.com/about/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/contact/",
+        "canonical": "https://crawlspacedurham.com/contact/",
+        "indexState": "pending-approval"
+      }
+    ]
+  },
+  "releaseBlockers": [
+    "routing approval",
+    "claim review",
+    "phone forwarding test",
+    "canonical/domain approval"
+  ]
+}

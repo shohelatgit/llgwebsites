@@ -1,0 +1,292 @@
+{
+  "version": 1,
+  "source": {
+    "name": "Nine supplied offline clone packages",
+    "baseUrl": "http://127.0.0.1:4174",
+    "capturedAt": "2026-08-08T22:51:06.808Z",
+    "rights": "design-reference-only"
+  },
+  "viewports": [
+    {
+      "id": "desktop",
+      "width": 1440,
+      "height": 1100,
+      "deviceScaleFactor": 1
+    },
+    {
+      "id": "tablet",
+      "width": 1024,
+      "height": 900,
+      "deviceScaleFactor": 1
+    },
+    {
+      "id": "mobile",
+      "width": 390,
+      "height": 844,
+      "deviceScaleFactor": 1
+    }
+  ],
+  "pages": [
+    {
+      "id": "horizonfix",
+      "url": "http://127.0.0.1:4174/llg-clone-sources/horizonfix-clone/horizonfix-clone/site/",
+      "archetype": "home",
+      "notesPath": "notes/horizonfix.md",
+      "captures": [
+        {
+          "viewport": "desktop",
+          "state": "default",
+          "path": "screenshots/horizonfix/desktop/default.png",
+          "fullPage": true,
+          "dynamicRegions": []
+        },
+        {
+          "viewport": "tablet",
+          "state": "default",
+          "path": "screenshots/horizonfix/tablet/default.png",
+          "fullPage": true,
+          "dynamicRegions": []
+        },
+        {
+          "viewport": "mobile",
+          "state": "default",
+          "path": "screenshots/horizonfix/mobile/default.png",
+          "fullPage": true,
+          "dynamicRegions": []
+        }
+      ]
+    },
+    {
+      "id": "minuteman",
+      "url": "http://127.0.0.1:4174/llg-clone-sources-tar/minuteman-clone/minuteman-clone/site/",
+      "archetype": "home",
+      "notesPath": "notes/minuteman.md",
+      "captures": [
+        {
+          "viewport": "desktop",
+          "state": "default",
+          "path": "screenshots/minuteman/desktop/default.png",
+          "fullPage": true,
+          "dynamicRegions": []
+        },
+        {
+          "viewport": "tablet",
+          "state": "default",
+          "path": "screenshots/minuteman/tablet/default.png",
+          "fullPage": true,
+          "dynamicRegions": []
+        },
+        {
+          "viewport": "mobile",
+          "state": "default",
+          "path": "screenshots/minuteman/mobile/default.png",
+          "fullPage": true,
+          "dynamicRegions": []
+        }
+      ]
+    },
+    {
+      "id": "pinks-concrete",
+      "url": "http://127.0.0.1:4174/llg-clone-sources/pinks-concrete-clone/pinks-concrete-clone/",
+      "archetype": "home",
+      "notesPath": "notes/pinks-concrete.md",
+      "captures": [
+        {
+          "viewport": "desktop",
+          "state": "default",
+          "path": "screenshots/pinks-concrete/desktop/default.png",
+          "fullPage": true,
+          "dynamicRegions": []
+        },
+        {
+          "viewport": "tablet",
+          "state": "default",
+          "path": "screenshots/pinks-concrete/tablet/default.png",
+          "fullPage": true,
+          "dynamicRegions": []
+        },
+        {
+          "viewport": "mobile",
+          "state": "default",
+          "path": "screenshots/pinks-concrete/mobile/default.png",
+          "fullPage": true,
+          "dynamicRegions": []
+        }
+      ]
+    },
+    {
+      "id": "roofrightnow",
+      "url": "http://127.0.0.1:4174/llg-clone-sources/roofrightnow-clone/roofrightnow-clone/site/",
+      "archetype": "home",
+      "notesPath": "notes/roofrightnow.md",
+      "captures": [
+        {
+          "viewport": "desktop",
+          "state": "default",
+          "path": "screenshots/roofrightnow/desktop/default.png",
+          "fullPage": true,
+          "dynamicRegions": []
+        },
+        {
+          "viewport": "tablet",
+          "state": "default",
+          "path": "screenshots/roofrightnow/tablet/default.png",
+          "fullPage": true,
+          "dynamicRegions": []
+        },
+        {
+          "viewport": "mobile",
+          "state": "default",
+          "path": "screenshots/roofrightnow/mobile/default.png",
+          "fullPage": true,
+          "dynamicRegions": []
+        }
+      ]
+    },
+    {
+      "id": "welborn-garage",
+      "url": "http://127.0.0.1:4174/llg-clone-sources-tar/welborn-garage-clone/welborn-garage-clone/site/",
+      "archetype": "home",
+      "notesPath": "notes/welborn-garage.md",
+      "captures": [
+        {
+          "viewport": "desktop",
+          "state": "default",
+          "path": "screenshots/welborn-garage/desktop/default.png",
+          "fullPage": true,
+          "dynamicRegions": []
+        },
+        {
+          "viewport": "tablet",
+          "state": "default",
+          "path": "screenshots/welborn-garage/tablet/default.png",
+          "fullPage": true,
+          "dynamicRegions": []
+        },
+        {
+          "viewport": "mobile",
+          "state": "default",
+          "path": "screenshots/welborn-garage/mobile/default.png",
+          "fullPage": true,
+          "dynamicRegions": []
+        }
+      ]
+    },
+    {
+      "id": "cincinnati-painting",
+      "url": "http://127.0.0.1:4174/llg-clone-sources/cincinnati-painting-clone/cincinnati-painting-clone/site/",
+      "archetype": "home",
+      "notesPath": "notes/cincinnati-painting.md",
+      "captures": [
+        {
+          "viewport": "desktop",
+          "state": "default",
+          "path": "screenshots/cincinnati-painting/desktop/default.png",
+          "fullPage": true,
+          "dynamicRegions": []
+        },
+        {
+          "viewport": "tablet",
+          "state": "default",
+          "path": "screenshots/cincinnati-painting/tablet/default.png",
+          "fullPage": true,
+          "dynamicRegions": []
+        },
+        {
+          "viewport": "mobile",
+          "state": "default",
+          "path": "screenshots/cincinnati-painting/mobile/default.png",
+          "fullPage": true,
+          "dynamicRegions": []
+        }
+      ]
+    },
+    {
+      "id": "nextgen-windows",
+      "url": "http://127.0.0.1:4174/llg-clone-sources/nextgen-windows-clone/nextgen-windows-clone/",
+      "archetype": "home",
+      "notesPath": "notes/nextgen-windows.md",
+      "captures": [
+        {
+          "viewport": "desktop",
+          "state": "default",
+          "path": "screenshots/nextgen-windows/desktop/default.png",
+          "fullPage": true,
+          "dynamicRegions": []
+        },
+        {
+          "viewport": "tablet",
+          "state": "default",
+          "path": "screenshots/nextgen-windows/tablet/default.png",
+          "fullPage": true,
+          "dynamicRegions": []
+        },
+        {
+          "viewport": "mobile",
+          "state": "default",
+          "path": "screenshots/nextgen-windows/mobile/default.png",
+          "fullPage": true,
+          "dynamicRegions": []
+        }
+      ]
+    },
+    {
+      "id": "trips-windows-small",
+      "url": "http://127.0.0.1:4174/llg-clone-sources/trips-windows-clone/trips-windows-clone/",
+      "archetype": "home",
+      "notesPath": "notes/trips-windows-small.md",
+      "captures": [
+        {
+          "viewport": "desktop",
+          "state": "default",
+          "path": "screenshots/trips-windows-small/desktop/default.png",
+          "fullPage": true,
+          "dynamicRegions": []
+        },
+        {
+          "viewport": "tablet",
+          "state": "default",
+          "path": "screenshots/trips-windows-small/tablet/default.png",
+          "fullPage": true,
+          "dynamicRegions": []
+        },
+        {
+          "viewport": "mobile",
+          "state": "default",
+          "path": "screenshots/trips-windows-small/mobile/default.png",
+          "fullPage": true,
+          "dynamicRegions": []
+        }
+      ]
+    },
+    {
+      "id": "trips-windows-full",
+      "url": "http://127.0.0.1:4174/llg-clone-sources/tripswindows-clone/tripswindows-clone/site/",
+      "archetype": "home",
+      "notesPath": "notes/trips-windows-full.md",
+      "captures": [
+        {
+          "viewport": "desktop",
+          "state": "default",
+          "path": "screenshots/trips-windows-full/desktop/default.png",
+          "fullPage": true,
+          "dynamicRegions": []
+        },
+        {
+          "viewport": "tablet",
+          "state": "default",
+          "path": "screenshots/trips-windows-full/tablet/default.png",
+          "fullPage": true,
+          "dynamicRegions": []
+        },
+        {
+          "viewport": "mobile",
+          "state": "default",
+          "path": "screenshots/trips-windows-full/mobile/default.png",
+          "fullPage": true,
+          "dynamicRegions": []
+        }
+      ]
+    }
+  ]
+}

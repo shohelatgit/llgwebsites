@@ -1,0 +1,17 @@
+node_modules/
+.codex-node_modules/
+.qa/
+tools/__pycache__/
+lead-router/dist/
+lead-router/.wrangler/
+tracker/~$*.xlsx
+factory/node_modules/
+factory/.wrangler/
+factory/out/worker-site-manifest.json
+factory/out/worker-site-deployments.json
+factory/out/worker-site-verification.json
+factory/out/source-sanitization-verification.json
+integrations/launch-lead-gen/node_modules/
+integrations/launch-lead-gen/.wrangler/
+integrations/launch-lead-gen/coverage/
+integrations/launch-lead-gen/dist/

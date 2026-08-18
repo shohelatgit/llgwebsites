@@ -1,0 +1,66 @@
+{
+  "siteKey": "baltimore-french-drain",
+  "stage": "staging",
+  "currentCrawlContract": {
+    "metaRobots": "noindex,nofollow",
+    "robotsTxt": "Disallow: /",
+    "xRobotsTag": "noindex, nofollow",
+    "sitemap": "empty"
+  },
+  "productionCandidate": {
+    "origin": "https://baltimorefrenchdrain.com",
+    "urls": [
+      {
+        "path": "/",
+        "canonical": "https://baltimorefrenchdrain.com/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/",
+        "canonical": "https://baltimorefrenchdrain.com/services/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/french-drain-installation/",
+        "canonical": "https://baltimorefrenchdrain.com/services/french-drain-installation/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/yard-drainage/",
+        "canonical": "https://baltimorefrenchdrain.com/services/yard-drainage/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/downspout-drainage/",
+        "canonical": "https://baltimorefrenchdrain.com/services/downspout-drainage/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/stormwater-control/",
+        "canonical": "https://baltimorefrenchdrain.com/services/stormwater-control/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/service-areas/",
+        "canonical": "https://baltimorefrenchdrain.com/service-areas/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/about/",
+        "canonical": "https://baltimorefrenchdrain.com/about/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/contact/",
+        "canonical": "https://baltimorefrenchdrain.com/contact/",
+        "indexState": "pending-approval"
+      }
+    ]
+  },
+  "releaseBlockers": [
+    "routing approval",
+    "claim review",
+    "phone forwarding test",
+    "canonical/domain approval"
+  ]
+}

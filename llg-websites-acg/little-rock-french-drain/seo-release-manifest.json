@@ -1,0 +1,66 @@
+{
+  "siteKey": "little-rock-french-drain",
+  "stage": "staging",
+  "currentCrawlContract": {
+    "metaRobots": "noindex,nofollow",
+    "robotsTxt": "Disallow: /",
+    "xRobotsTag": "noindex, nofollow",
+    "sitemap": "empty"
+  },
+  "productionCandidate": {
+    "origin": "https://littlerockfrenchdrain.com",
+    "urls": [
+      {
+        "path": "/",
+        "canonical": "https://littlerockfrenchdrain.com/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/",
+        "canonical": "https://littlerockfrenchdrain.com/services/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/french-drain-installation/",
+        "canonical": "https://littlerockfrenchdrain.com/services/french-drain-installation/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/yard-drainage/",
+        "canonical": "https://littlerockfrenchdrain.com/services/yard-drainage/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/downspout-drainage/",
+        "canonical": "https://littlerockfrenchdrain.com/services/downspout-drainage/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/stormwater-control/",
+        "canonical": "https://littlerockfrenchdrain.com/services/stormwater-control/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/service-areas/",
+        "canonical": "https://littlerockfrenchdrain.com/service-areas/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/about/",
+        "canonical": "https://littlerockfrenchdrain.com/about/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/contact/",
+        "canonical": "https://littlerockfrenchdrain.com/contact/",
+        "indexState": "pending-approval"
+      }
+    ]
+  },
+  "releaseBlockers": [
+    "routing approval",
+    "claim review",
+    "phone forwarding test",
+    "canonical/domain approval"
+  ]
+}

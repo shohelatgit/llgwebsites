@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>LLG Website Design Studio</title>
+    <meta name="description" content="Compare website, market, palette, foreground, page-mode, hero, and estimate-panel treatments across the LLG website system.">
+    <link rel="icon" href="/images/brand/drainscape-mark.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="/__palettes__/lab.css">
+    <script src="/__palettes__/lab.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#brand-controls">Skip to brand controls</a>
+
+    <header class="lab-header">
+      <div class="brand-intro">
+        <div class="brand-mark-shell">
+          <img src="/images/brand/drainscape-mark-white.svg" alt="" width="72" height="90">
+        </div>
+        <div>
+          <h1>Shape the adaptable website system.</h1>
+          <p>Choose a website, market, palette, foreground colors, page mode, hero, and estimate-panel treatment. Content and service areas update for the selected domain.</p>
+        </div>
+      </div>
+      <a class="svg-link" href="/images/brand/drainscape-mark.svg" target="_blank" rel="noopener">
+        <span>Standalone brand mark</span>
+        <strong>Open SVG</strong>
+      </a>
+    </header>
+
+    <main>
+      <section class="control-deck" id="brand-controls" aria-labelledby="controls-title">
+        <div class="control-deck__heading">
+          <div>
+            <h2 id="controls-title">Choose a website and color direction.</h2>
+            <p>Compare twenty-four curated palettes, then tune every surface and foreground color directly.</p>
+          </div>
+          <div class="control-actions">
+            <a id="open-preview" class="open-preview" href="/__palettes__/preview.html" target="_blank" rel="noopener">Open full page</a>
+          </div>
+        </div>
+
+        <div class="gradient-control">
+          <div class="type-control">
+            <div>
+              <label for="website-type">Website</label>
+              <p>Choose a service type, then select its market or website.</p>
+            </div>
+            <select id="website-type"></select>
+            <div class="font-readout profile-readout">
+              <span><b>Selected website</b> <output id="profile-brand-name"></output></span>
+              <span><b>Domain</b> <output id="profile-domain"></output></span>
+              <span><b>Primary market</b> <output id="profile-market"></output></span>
+              <span><b>Location set</b> <output id="profile-locations"></output></span>
+              <span><b>Website type</b> <output id="profile-services"></output></span>
+              <span><b>Hero H1 assignment</b> <output id="profile-h1-variant"></output></span>
+            </div>
+          </div>
+          <div class="control-row-heading">
+            <div>
+              <h3>Color scheme</h3>
+              <p><strong id="active-name">Loading scheme&hellip;</strong> <span id="active-mood"></span></p>
+            </div>
+            <div class="option-switches">
+              <div class="option-switch">
+                <span>Page mode</span>
+                <div class="mode-switch" role="group" aria-label="Preview color mode">
+                  <button type="button" data-mode="light" aria-pressed="true">Light</button>
+                  <button type="button" data-mode="dark" aria-pressed="false">Dark</button>
+                </div>
+              </div>
+              <div class="option-switch">
+                <span>Hero background</span>
+                <div class="mode-switch hero-switch" role="group" aria-label="Hero background treatment">
+                  <button type="button" data-hero="cream-solid" aria-pressed="true">Solid background</button>
+                  <button type="button" data-hero="navy-photo" aria-pressed="false">Dark overlay + photo</button>
+                </div>
+              </div>
+              <div class="option-switch">
+                <span>Estimate panel</span>
+                <div class="mode-switch estimate-panel-switch" role="group" aria-label="Estimate panel surface">
+                  <button type="button" data-estimate-panel="brand" aria-pressed="true">Brand</button>
+                  <button type="button" data-estimate-panel="soft-gray" aria-pressed="false">Soft gray</button>
+                  <button type="button" data-estimate-panel="black" aria-pressed="false">Black</button>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="gradient-grid" id="gradient-grid" aria-live="polite"></div>
+          <div class="color-editor" aria-labelledby="color-editor-title">
+            <div class="color-editor__heading">
+              <div>
+                <h3 id="color-editor-title">Edit brand colors</h3>
+                <p>Each surface supports solid color, gradient, opacity, and angle.</p>
+              </div>
+              <button id="reset-colors" type="button">Reset to scheme</button>
+            </div>
+            <div class="color-editor__grid" id="color-editor-grid"></div>
+            <div class="foreground-editor" aria-labelledby="foreground-editor-title">
+              <div>
+                <h3 id="foreground-editor-title">Foreground colors</h3>
+                <p>Text, icon, CTA-label, and caret colors stay solid for legibility and update instantly.</p>
+              </div>
+              <div class="foreground-editor__grid" id="foreground-editor-grid"></div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="review-stage" aria-label="Selected homepage preview">
+        <div class="review-stage__toolbar">
+          <div>
+            <strong id="preview-name">Selected homepage</strong>
+          </div>
+          <p>Adaptable layout and imagery</p>
+        </div>
+        <div class="browser-frame">
+          <div class="browser-frame__chrome" aria-hidden="true">
+            <i></i><i></i><i></i><span id="preview-address">drainscapesolutions.com</span>
+          </div>
+          <iframe id="homepage-preview" title="Selected website direction preview"></iframe>
+        </div>
+      </section>
+    </main>
+
+  </body>
+</html>

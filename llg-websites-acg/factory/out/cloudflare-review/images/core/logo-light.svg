@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="40" viewBox="0 0 240 40">
+  <defs>
+    <linearGradient id="logo-gradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4FA6FF"/>
+      <stop offset="1" stop-color="#0B6CF0"/>
+    </linearGradient>
+  </defs>
+  <path d="M16 3C11.8 10.4 6.8 15.5 6.8 20.6a9.2 9.2 0 0 0 18.4 0C25.2 15.5 20.2 10.4 16 3z" fill="url(#logo-gradient)"/>
+  <ellipse cx="14" cy="23" rx="3.4" ry="4.4" fill="#fff"/>
+  <text x="34" y="21" font-family="Inter, system-ui, sans-serif" font-size="15.5" font-weight="800" fill="#0F1115" letter-spacing="0.5">DRAINSCAPE</text>
+  <text x="35" y="34" font-family="Inter, system-ui, sans-serif" font-size="9" font-weight="500" fill="#0B6CF0" letter-spacing="4.2">SOLUTIONS</text>
+</svg>

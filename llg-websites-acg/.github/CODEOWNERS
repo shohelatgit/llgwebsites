@@ -1,0 +1,5 @@
+* @acg-data
+/.github/ @acg-data
+/data/sites.json @acg-data
+/tools/ @acg-data
+/lead-router/ @acg-data

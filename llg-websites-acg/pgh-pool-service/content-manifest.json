@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "stage": "staging",
+  "site": {
+    "slug": "pgh-pool-service",
+    "displayName": "PGH Pool Service",
+    "domain": "pghpoolservice.com",
+    "trade": "Pool service",
+    "location": "Pittsburgh"
+  },
+  "sourceAdoption": {
+    "package": "TripsWindows (full package)",
+    "homepageExport": "C:\\Users\\Justin Abrams\\OneDrive\\Documents\\Playground\\.codex-work\\llg-clone-sources\\tripswindows-clone\\tripswindows-clone\\site\\index.html",
+    "preserved": [
+      "homepage DOM and classes",
+      "local CSS/JS/fonts",
+      "section order",
+      "source breakpoints"
+    ]
+  },
+  "brand": {
+    "status": "approved-board-extract",
+    "sourceBoard": "PGH Pool Service.jpeg",
+    "wordmarkFile": "brandmark.svg",
+    "logoFile": "brandmark.png",
+    "iconFile": "brand-icon.png",
+    "faviconFile": "favicon.png"
+  },
+  "photos": {
+    "status": "representative-stock",
+    "disclosure": "Representative imagery is not presented as completed work by this operator.",
+    "slots": [
+      {
+        "file": "media/representative-1.webp",
+        "role": "hero"
+      },
+      {
+        "file": "media/representative-1.webp",
+        "role": "representative"
+      },
+      {
+        "file": "media/representative-2.webp",
+        "role": "representative"
+      },
+      {
+        "file": "media/representative-3.webp",
+        "role": "representative"
+      },
+      {
+        "file": "media/representative-2.webp",
+        "role": "representative"
+      }
+    ]
+  },
+  "reviews": {
+    "status": "interim-copy",
+    "items": [
+      "Clear communication, reliable service, and the pool looked great when the visit was complete.",
+      "They explained what the water needed and gave us a straightforward plan for ongoing care.",
+      "Professional, organized, and easy to schedule. We appreciated the attention to the equipment as well as the pool."
+    ]
+  },
+  "phone": {
+    "status": "callrail-active",
+    "display": "412-615-3550",
+    "tel": "+14126153550"
+  },
+  "address": {
+    "status": "pending-verified-intake",
+    "value": null
+  },
+  "gbp": {
+    "status": "pending-verified-intake",
+    "url": null
+  },
+  "claims": {
+    "status": "pending-verified-intake",
+    "credentials": [],
+    "awards": [],
+    "warranties": []
+  },
+  "intake": {
+    "status": "pending-production-endpoint",
+    "stagingMode": "mailto",
+    "email": "info@pghpoolservice.com",
+    "storesSubmissions": false
+  },
+  "indexing": {
+    "status": "blocked-for-staging",
+    "metaRobots": "noindex,nofollow",
+    "robotsTxt": "Disallow: /",
+    "xRobotsTag": "noindex, nofollow"
+  }
+}

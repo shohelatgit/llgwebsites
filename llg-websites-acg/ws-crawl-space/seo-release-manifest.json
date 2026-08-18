@@ -1,0 +1,66 @@
+{
+  "siteKey": "ws-crawl-space",
+  "stage": "staging",
+  "currentCrawlContract": {
+    "metaRobots": "noindex,nofollow",
+    "robotsTxt": "Disallow: /",
+    "xRobotsTag": "noindex, nofollow",
+    "sitemap": "empty"
+  },
+  "productionCandidate": {
+    "origin": "https://wscrawlspace.com",
+    "urls": [
+      {
+        "path": "/",
+        "canonical": "https://wscrawlspace.com/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/",
+        "canonical": "https://wscrawlspace.com/services/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/crawlspace-encapsulation/",
+        "canonical": "https://wscrawlspace.com/services/crawlspace-encapsulation/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/crawlspace-drainage/",
+        "canonical": "https://wscrawlspace.com/services/crawlspace-drainage/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/moisture-control/",
+        "canonical": "https://wscrawlspace.com/services/moisture-control/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/dehumidifier-solutions/",
+        "canonical": "https://wscrawlspace.com/services/dehumidifier-solutions/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/service-areas/",
+        "canonical": "https://wscrawlspace.com/service-areas/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/about/",
+        "canonical": "https://wscrawlspace.com/about/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/contact/",
+        "canonical": "https://wscrawlspace.com/contact/",
+        "indexState": "pending-approval"
+      }
+    ]
+  },
+  "releaseBlockers": [
+    "routing approval",
+    "claim review",
+    "phone forwarding test",
+    "canonical/domain approval"
+  ]
+}

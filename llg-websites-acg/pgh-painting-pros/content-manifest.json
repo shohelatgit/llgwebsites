@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "stage": "staging",
+  "site": {
+    "slug": "pgh-painting-pros",
+    "displayName": "PGH Painting Pros",
+    "domain": "pghpaintingpros.com",
+    "trade": "Painting",
+    "location": "Pittsburgh"
+  },
+  "sourceAdoption": {
+    "package": "Cincinnati Painting",
+    "homepageExport": "C:\\Users\\Justin Abrams\\OneDrive\\Documents\\Playground\\.codex-work\\llg-clone-sources\\cincinnati-painting-clone\\cincinnati-painting-clone\\site\\index.html",
+    "preserved": [
+      "homepage DOM and classes",
+      "local CSS/JS/fonts",
+      "section order",
+      "source breakpoints"
+    ]
+  },
+  "brand": {
+    "status": "approved-board-extract",
+    "sourceBoard": "PGH Painting Pros.jpeg",
+    "wordmarkFile": "brandmark.svg",
+    "logoFile": "brandmark.png",
+    "iconFile": "brand-icon.png",
+    "faviconFile": "favicon.png"
+  },
+  "photos": {
+    "status": "representative-stock",
+    "disclosure": "Representative imagery is not presented as completed work by this operator.",
+    "slots": [
+      {
+        "file": "media/representative-1.webp",
+        "role": "hero"
+      },
+      {
+        "file": "media/representative-1.webp",
+        "role": "representative"
+      },
+      {
+        "file": "media/representative-2.webp",
+        "role": "representative"
+      },
+      {
+        "file": "media/representative-3.webp",
+        "role": "representative"
+      },
+      {
+        "file": "media/representative-2.webp",
+        "role": "representative"
+      }
+    ]
+  },
+  "reviews": {
+    "status": "interim-copy",
+    "items": [
+      "The preparation was thorough, the crew kept everything protected, and the finished rooms look fantastic.",
+      "They communicated clearly about colors, timing, and the work plan from start to finish.",
+      "Professional and detail-oriented. The clean lines and careful cleanup made a real difference."
+    ]
+  },
+  "phone": {
+    "status": "not-in-callrail-inventory",
+    "display": "Request service online",
+    "tel": null
+  },
+  "address": {
+    "status": "pending-verified-intake",
+    "value": null
+  },
+  "gbp": {
+    "status": "pending-verified-intake",
+    "url": null
+  },
+  "claims": {
+    "status": "pending-verified-intake",
+    "credentials": [],
+    "awards": [],
+    "warranties": []
+  },
+  "intake": {
+    "status": "pending-production-endpoint",
+    "stagingMode": "mailto",
+    "email": "info@pghpaintingpros.com",
+    "storesSubmissions": false
+  },
+  "indexing": {
+    "status": "blocked-for-staging",
+    "metaRobots": "noindex,nofollow",
+    "robotsTxt": "Disallow: /",
+    "xRobotsTag": "noindex, nofollow"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "siteKey": "little-rock-french-drain",
+  "sourceType": "brand-board-jpeg",
+  "sourceFile": "Little Rock French Drain.jpeg",
+  "sha256": "c2c3702f4575f04771b2a3e64e2d0291352e3db81f7433fbc84b32b76c24e725",
+  "dimensions": {
+    "width": 1600,
+    "height": 900
+  },
+  "observations": [
+    "four printed brand colors",
+    "heading, body, and accent font roles",
+    "logo, wordmark, icon, and favicon examples"
+  ],
+  "confidence": "high",
+  "assetPolicy": "board is token evidence; website logo slots remain placeholders until source vector files are supplied"
+}

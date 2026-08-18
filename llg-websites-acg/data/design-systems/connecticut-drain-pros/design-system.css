@@ -1,0 +1,14 @@
+:root {
+  --color-brand-primary: #0A1D3D;
+  --color-brand-secondary: #00B8F1;
+  --color-action-primary: #455A64;
+  --color-surface-soft: #E8ECEF;
+  --spacing-1: 0.25rem;
+  --spacing-2: 0.5rem;
+  --spacing-3: 0.75rem;
+  --spacing-4: 1rem;
+  --spacing-section: clamp(3.75rem, 8vw, 7.5rem);
+  --radius-control: 0.5rem;
+  --radius-card: 0.875rem;
+  --shadow-card: 0 16px 42px rgb(0 0 0 / 0.12);
+}

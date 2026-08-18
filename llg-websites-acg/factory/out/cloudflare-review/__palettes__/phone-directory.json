@@ -1,0 +1,2230 @@
+{
+  "source": "LLG SEO Page Matrix / Websites",
+  "generatedAt": "2026-08-15",
+  "reviewPortfolio": {
+    "provider": "DrainScape Solutions",
+    "minimumCount": 500,
+    "displayText": "500+ Customer Reviews",
+    "displayApproved": true,
+    "scope": "LLG website portfolio",
+    "source": "Operator confirmed on 2026-08-16"
+  },
+  "credentialPortfolio": {
+    "headline": "Locally Licensed and Bonded",
+    "displayApproved": true,
+    "scope": "LLG website portfolio",
+    "source": "Operator confirmed on 2026-08-16"
+  },
+  "trustPortfolio": {
+    "displayApproved": true,
+    "scope": "LLG website portfolio",
+    "source": "Operator confirmed on 2026-08-16",
+    "items": [
+      {
+        "id": "google",
+        "label": "Google",
+        "detail": "500+ Customer Reviews",
+        "displayApproved": true
+      },
+      {
+        "id": "facebook",
+        "label": "Facebook",
+        "detail": "Follow our work",
+        "displayApproved": true
+      },
+      {
+        "id": "bbb",
+        "label": "Trusted by BBB",
+        "detail": "Accredited Business",
+        "displayApproved": true
+      }
+    ]
+  },
+  "sites": {
+    "LOC-025": {
+      "domain": "http://www.jacksonfrenchdrain.com/",
+      "businessName": "Jackson French Drain",
+      "phone": {
+        "e164": "+16016887997",
+        "display": "(601) 688-7997",
+        "source": "Existing public website crawl on 2026-08-15 (jacksonfrenchdrain.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-071": {
+      "domain": "https://www.crawlspaceraleigh.com",
+      "businessName": "Raleigh Crawl Space Guys",
+      "phone": {
+        "e164": "+19194448052",
+        "display": "(919) 444-8052",
+        "source": "Existing public website crawl on 2026-08-15 (crawlspaceraleigh.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-020": {
+      "domain": "http://www.nashvilledrainpros.com/",
+      "businessName": "TN Nashville French Drain",
+      "phone": {
+        "e164": "+16152059182",
+        "display": "(615) 205-9182",
+        "source": "Existing public website crawl on 2026-08-15 (nashvilledrainpros.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-118": {
+      "domain": "https://www.highendretainingwallcontractorstlouismo.com/",
+      "businessName": "High-End Retaining Wall Contractor St. Louis",
+      "phone": {
+        "e164": "+13146288487",
+        "display": "(314) 628-8487",
+        "source": "Launch Lead Gen — Agency OS / Portfolio Properties exact-domain match",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-080": {
+      "domain": "https://morgantownfencepros.com",
+      "businessName": "Morgantown Fence Pros",
+      "phone": {
+        "e164": "+13046484298",
+        "display": "(304) 648-4298",
+        "source": "Existing public website crawl on 2026-08-15 plus operator launch approval on 2026-08-17",
+        "status": "Approved for production"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-065": {
+      "domain": "https://deckbuilderschertztx.com",
+      "businessName": "Deck Builder Schertz TX",
+      "phone": {
+        "e164": "+12108801916",
+        "display": "(210) 880-1916",
+        "source": "Existing public website crawl on 2026-08-15 (deckbuilderschertztx.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-063": {
+      "domain": "https://deckprossanantonio.com/",
+      "businessName": "CK San Antonio Deck Builder",
+      "phone": {
+        "e164": "+12107504081",
+        "display": "(210) 750-4081",
+        "source": "Existing public website crawl on 2026-08-15 (deckprossanantonio.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-060": {
+      "domain": "https://www.cincinnatiprecisionwalls.com",
+      "businessName": "Precision Retaining Walls of Cincinnati",
+      "phone": {
+        "e164": "+15136402487",
+        "display": "(513) 640-2487",
+        "source": "Existing public website crawl on 2026-08-15 (cincinnatiprecisionwalls.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-059": {
+      "domain": "https://concretecontractorsmcallen.com/",
+      "businessName": "EL McAllen Concrete Contractor",
+      "phone": {
+        "e164": "+19566727611",
+        "display": "(956) 672-7611",
+        "source": "Existing public website crawl on 2026-08-15 (concretecontractorsmcallen.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-010": {
+      "domain": "https://tejefrenchdraincontractor.com",
+      "businessName": "Te Je French Drain Contractor",
+      "phone": {
+        "e164": "+14054771163",
+        "display": "(405) 477-1163",
+        "source": "Existing public website crawl on 2026-08-15 (tejefrenchdraincontractor.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-113": {
+      "domain": "https://tusconbathroomremodelingpros.com/",
+      "businessName": "Tucson Bathroom Remodeling Pros",
+      "phone": {
+        "e164": "+15202217955",
+        "display": "(520) 221-7955",
+        "source": "Launch Lead Gen — Agency OS / Portfolio Properties exact-domain match",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-042": {
+      "domain": "https://www.neworleansfrenchdrain.com/",
+      "businessName": "New Orleans French Drain",
+      "phone": {
+        "e164": "+15042218993",
+        "display": "(504) 221-8993",
+        "source": "Existing public website crawl on 2026-08-15 (neworleansfrenchdrain.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-058": {
+      "domain": "https://www.louisvilleprecisionwalls.com",
+      "businessName": "PN Louisville Retaining Wall Contractor",
+      "phone": {
+        "e164": "+15024903600",
+        "display": "(502) 490-3600",
+        "source": "Existing public website crawl on 2026-08-15 (louisvilleprecisionwalls.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-026": {
+      "domain": "https://outdoordrainagesolutionsnewjersey.com",
+      "businessName": "Outdoor Drainage Solutions New Jersey",
+      "phone": {
+        "e164": "+19086392651",
+        "display": "(908) 639-2651",
+        "source": "Existing public website crawl on 2026-08-15 (outdoordrainagesolutionsnewjersey.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-093": {
+      "domain": "https://www.pghpaintingpros.com/",
+      "businessName": "Pittsburgh Painting Pros",
+      "phone": {
+        "e164": "+14127752235",
+        "display": "(412) 775-2235",
+        "source": "Launch Lead Gen — Agency OS / Portfolio Properties exact-domain match",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-092": {
+      "domain": "http://www.wehomewatchnaples.com/",
+      "businessName": "We Home Watch Naples",
+      "phone": {
+        "e164": "+12393452811",
+        "display": "(239) 345-2811",
+        "source": "Launch Lead Gen — Agency OS / Portfolio Properties exact-domain match",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-110": {
+      "domain": "https://www.wscrawlspace.com",
+      "businessName": "Winston-Salem Crawlspace",
+      "phone": {
+        "e164": "+13368420660",
+        "display": "(336) 842-0660",
+        "source": "Launch Lead Gen — Agency OS / Portfolio Properties exact-domain match",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-028": {
+      "domain": "http://www.atlantadrainpros.com/",
+      "businessName": "Atlanta Outdoor Water Solutions",
+      "phone": {
+        "e164": "+17706706451",
+        "display": "(770) 670-6451",
+        "source": "Existing public website crawl on 2026-08-15 (atlantadrainpros.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-072": {
+      "domain": "https://www.crawlspacedurham.com",
+      "businessName": "HQ Durham Crawlspace Encapsulation",
+      "phone": {
+        "e164": "+19844005668",
+        "display": "(984) 400-5668",
+        "source": "Existing public website crawl on 2026-08-15 (crawlspacedurham.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-073": {
+      "domain": "https://www.crawlspacecarync.com",
+      "businessName": "GP Cary Crawlspace Encapsulation",
+      "phone": {
+        "e164": "+19198586704",
+        "display": "(919) 858-6704",
+        "source": "Existing public website crawl on 2026-08-15 (crawlspacecarync.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-009": {
+      "domain": "https://www.okcityfrenchdrain.com/",
+      "businessName": "OK French Drain Oklahoma City",
+      "phone": {
+        "e164": "+14054771163",
+        "display": "(405) 477-1163",
+        "source": "Existing public website crawl on 2026-08-15 (okcityfrenchdrain.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-017": {
+      "domain": "http://www.richmondfrenchdrain.com/",
+      "businessName": "French Drain Pros of Richmond",
+      "phone": {
+        "e164": "+18049664179",
+        "display": "(804) 966-4179",
+        "source": "Existing public website crawl on 2026-08-15 (richmondfrenchdrain.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-046": {
+      "domain": "https://www.austindrainguys.com/",
+      "businessName": "Austin French Drain Pros",
+      "phone": {
+        "e164": "+15122706356",
+        "display": "(512) 270-6356",
+        "source": "Existing public website crawl on 2026-08-15 (austindrainguys.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-022": {
+      "domain": "https://www.savannahdrainguys.com/",
+      "businessName": "GA Savannah French Drain",
+      "phone": {
+        "e164": "+19124556215",
+        "display": "(912) 455-6215",
+        "source": "Existing public website crawl on 2026-08-15 (savannahdrainguys.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-117": {
+      "domain": "https://www.3vsanantoniopaverservices.com/",
+      "businessName": "3V San Antonio Paver Services",
+      "phone": {
+        "e164": "+12107968693",
+        "display": "(210) 796-8693",
+        "source": "Launch Lead Gen — Agency OS / Portfolio Properties exact-domain match",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-075": {
+      "domain": "https://www.crawlspaceencapsulationgastonianc.com/",
+      "businessName": "NK Crawl Space Encapsulation",
+      "phone": {
+        "e164": "+17048127048",
+        "display": "(704) 812-7048",
+        "source": "Existing public website crawl on 2026-08-15 (crawlspaceencapsulationgastonianc.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-084": {
+      "domain": "https://santaclaritatreeservicepros.com/",
+      "businessName": "Santa Clarita Tree Service",
+      "phone": {
+        "e164": "+16613385661",
+        "display": "(661) 338-5661",
+        "source": "Existing public website crawl on 2026-08-15 (santaclaritatreeservicepros.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-094": {
+      "domain": "http://www.napleshurricaneservices.com/",
+      "businessName": "Naples Hurricane Services",
+      "phone": {
+        "e164": "+12393459004",
+        "display": "(239) 345-9004",
+        "source": "Launch Lead Gen — Agency OS / Portfolio Properties exact-domain match",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-030": {
+      "domain": "https://outdoordrainagesolutionsocalafl.com/",
+      "businessName": "Outdoor Drainage Solutions Ocala",
+      "phone": {
+        "e164": "+13526321923",
+        "display": "(352) 632-1923",
+        "source": "Existing public website crawl on 2026-08-15 (outdoordrainagesolutionsocalafl.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-095": {
+      "domain": "http://www.akrondrainpros.com/",
+      "businessName": "Akron Drain Pros",
+      "phone": {
+        "e164": "+13306215527",
+        "display": "(330) 621-5527",
+        "source": "Launch Lead Gen — Agency OS / Portfolio Properties exact-domain match",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-078": {
+      "domain": "https://www.crawlspacegreensboro.com",
+      "businessName": "Greensboro Crawl Space Guys",
+      "phone": {
+        "e164": "+13368155595",
+        "display": "(336) 815-5595",
+        "source": "Existing public website crawl on 2026-08-15 (crawlspacegreensboro.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-003": {
+      "domain": "https://www.portlanddrainguys.com/",
+      "businessName": "Portland Drain Guys",
+      "phone": {
+        "e164": "+19716261166",
+        "display": "(971) 626-1166",
+        "source": "Existing public website crawl on 2026-08-15 (portlanddrainguys.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-115": {
+      "domain": "https://thousandoaksfencingpros.com/",
+      "businessName": "Thousand Oaks Fencing Pros",
+      "phone": {
+        "e164": "+18052503938",
+        "display": "(805) 250-3938",
+        "source": "Launch Lead Gen — Agency OS / Portfolio Properties exact-domain match",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-062": {
+      "domain": "https://www.saltlakecityprecisionwalls.com",
+      "businessName": "Precision Retaining Wall Contractor Salt Lake City",
+      "phone": {
+        "e164": "+18018234285",
+        "display": "(801) 823-4285",
+        "source": "Existing public website crawl on 2026-08-15 (saltlakecityprecisionwalls.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-103": {
+      "domain": "http://www.youngstownfencepros.com/",
+      "businessName": "Youngstown Fence Pros",
+      "phone": {
+        "e164": "+13306484477",
+        "display": "(330) 648-4477",
+        "source": "Launch Lead Gen — Agency OS / Portfolio Properties exact-domain match",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-101": {
+      "domain": "http://www.akronfencepros.com/",
+      "businessName": "Akron Fence Pros",
+      "phone": {
+        "e164": "+13306484755",
+        "display": "(330) 648-4755",
+        "source": "Launch Lead Gen — Agency OS / Portfolio Properties exact-domain match",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LLG-DRAINSCAPE": {
+      "domain": "https://drainscapesolutions.com",
+      "businessName": "DrainScape Solutions",
+      "phone": {
+        "e164": "+14046203299",
+        "display": "(404) 620-3299",
+        "source": "Existing public website crawl on 2026-08-15 (drainscapesolutions.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-032": {
+      "domain": "http://www.indydrainpros.com/",
+      "businessName": "Indianapolis French Drain Pros",
+      "phone": {
+        "e164": "+14638421127",
+        "display": "(463) 842-1127",
+        "source": "Existing public website crawl on 2026-08-15 (indydrainpros.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-013": {
+      "domain": "http://www.stlouisdrainpros.com/",
+      "businessName": "St Louis French Drain",
+      "phone": {
+        "e164": "+13144082228",
+        "display": "(314) 408-2228",
+        "source": "Existing public website crawl on 2026-08-15 (stlouisdrainpros.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-034": {
+      "domain": "http://www.clevelanddrainpros.com/",
+      "businessName": "MM Cleveland French Drain",
+      "phone": {
+        "e164": "+12164804622",
+        "display": "(216) 480-4622",
+        "source": "Existing public website crawl on 2026-08-15 (clevelanddrainpros.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-056": {
+      "domain": "https://www.atlantaprecisionwalls.com",
+      "businessName": "Precision Retaining Walls of Atlanta",
+      "phone": {
+        "e164": "+16789908923",
+        "display": "(678) 990-8923",
+        "source": "Existing public website crawl on 2026-08-15 (atlantaprecisionwalls.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-007": {
+      "domain": "http://www.birminghamdrainpros.com/",
+      "businessName": "Birmingham French Drain",
+      "phone": {
+        "e164": "+12058801332",
+        "display": "(205) 880-1332",
+        "source": "Existing public website crawl on 2026-08-15 (birminghamdrainpros.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-067": {
+      "domain": "https://deckbuildercibolotx.com",
+      "businessName": "CK Cibolo Deck Builder",
+      "phone": {
+        "e164": "+12103616983",
+        "display": "(210) 361-6983",
+        "source": "Existing public website crawl on 2026-08-15 (deckbuildercibolotx.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-049": {
+      "domain": "https://paverinstallationprosfortworthtx.com/",
+      "businessName": "JP Paver Installers Fort Worth",
+      "phone": {
+        "e164": "+18176705278",
+        "display": "(817) 670-5278",
+        "source": "Existing public website crawl on 2026-08-15 (paverinstallationprosfortworthtx.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-036": {
+      "domain": "https://www.greensborodrainguys.com/",
+      "businessName": "Greensboro French Drain Pros",
+      "phone": {
+        "e164": "+13364446048",
+        "display": "(336) 444-6048",
+        "source": "Existing public website crawl on 2026-08-15 (greensborodrainguys.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-038": {
+      "domain": "http://www.pghfrenchdrains.com/",
+      "businessName": "Pittsburgh French Drain",
+      "phone": {
+        "e164": "+14128504615",
+        "display": "(412) 850-4615",
+        "source": "Existing public website crawl on 2026-08-15 (pghfrenchdrains.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-098": {
+      "domain": "http://ohiodraincleaning.com/",
+      "businessName": "Ohio Drain Cleaning",
+      "phone": {
+        "e164": "+14404722414",
+        "display": "(440) 472-2414",
+        "source": "Launch Lead Gen — Agency OS / Portfolio Properties exact-domain match",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-039": {
+      "domain": "http://www.connecticutdrainpros.com/",
+      "businessName": "Connecticut Drain Pros",
+      "phone": {
+        "e164": "+18607445564",
+        "display": "(860) 744-5564",
+        "source": "Existing public website crawl on 2026-08-15 (connecticutdrainpros.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-002": {
+      "domain": "http://www.seattledrainpros.com/",
+      "businessName": "Seattle Drain Pros",
+      "phone": {
+        "e164": "+12062088813",
+        "display": "(206) 208-8813",
+        "source": "Existing public website crawl on 2026-08-15 (seattledrainpros.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-100": {
+      "domain": "http://www.wvdrainpros.com/",
+      "businessName": "West Virginia Drain Pros",
+      "phone": {
+        "e164": "+13048292717",
+        "display": "(304) 829-2717",
+        "source": "Launch Lead Gen — Agency OS / Portfolio Properties exact-domain match",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-037": {
+      "domain": "http://littlerockfrenchdrain.com/",
+      "businessName": "Little Rock French Drain",
+      "phone": {
+        "e164": "+15014597779",
+        "display": "(501) 459-7779",
+        "source": "Launch Lead Gen — Agency OS / Portfolio Properties exact-domain match",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-116": {
+      "domain": "https://salemjunkremovalpro.com/",
+      "businessName": "Salem Junk Removal Pro",
+      "phone": {
+        "e164": "+19712324200",
+        "display": "(971) 232-4200",
+        "source": "Launch Lead Gen — Agency OS / Portfolio Properties exact-domain match",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-070": {
+      "domain": "https://orovalleybathroomremodeling.com/",
+      "businessName": "Oro Valley Bathroom Remodeling",
+      "phone": {
+        "e164": null,
+        "display": null,
+        "source": null,
+        "status": "Missing"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-061": {
+      "domain": "https://www.littlerockprecisionwalls.com",
+      "businessName": "Precision Retaining Wall Contractor Little Rock",
+      "phone": {
+        "e164": "+15013008626",
+        "display": "(501) 300-8626",
+        "source": "Existing public website crawl on 2026-08-15 (littlerockprecisionwalls.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-090": {
+      "domain": "https://schertzlawncare.com/",
+      "businessName": "Schertz Lawn Care",
+      "phone": {
+        "e164": "+12104690399",
+        "display": "(210) 469-0399",
+        "source": "Launch Lead Gen — Agency OS / Portfolio Properties exact-domain match",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-024": {
+      "domain": "https://www.columbusdrainguys.com/",
+      "businessName": "OH Columbus French Drain",
+      "phone": {
+        "e164": "+16148201933",
+        "display": "(614) 820-1933",
+        "source": "Existing public website crawl on 2026-08-15 (columbusdrainguys.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-045": {
+      "domain": "https://www.dallasdrainguys.com/",
+      "businessName": "Dallas French Drain Pros",
+      "phone": {
+        "e164": "+12148336141",
+        "display": "(214) 833-6141",
+        "source": "Existing public website crawl on 2026-08-15 (dallasdrainguys.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-082": {
+      "domain": "https://landclearingserviceswilmingtonnc.com",
+      "businessName": "Wilmington Land Clearing Services",
+      "phone": {
+        "e164": "+19109942412",
+        "display": "(910) 994-2412",
+        "source": "Existing public website crawl on 2026-08-15 (landclearingserviceswilmingtonnc.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-099": {
+      "domain": "http://www.pghguttercleaners.com/",
+      "businessName": "Pittsburgh Gutter Cleaners",
+      "phone": {
+        "e164": "+18778132829",
+        "display": "(877) 813-2829",
+        "source": "Existing public website crawl on 2026-08-15 (pghguttercleaners.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-008": {
+      "domain": "http://www.vbdrainpros.com/",
+      "businessName": "VA French Drain Virginia Beach",
+      "phone": {
+        "e164": "+17578403846",
+        "display": "(757) 840-3846",
+        "source": "Existing public website crawl on 2026-08-15 (vbdrainpros.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-011": {
+      "domain": "https://outdoordrainagesolutionsoklahomacityok.com",
+      "businessName": "Outdoor Drainage Solutions Oklahoma City",
+      "phone": {
+        "e164": "+14053424522",
+        "display": "(405) 342-4522",
+        "source": "Existing public website crawl on 2026-08-15 (outdoordrainagesolutionsoklahomacityok.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-052": {
+      "domain": "https://www.birminghamprecisionwalls.com",
+      "businessName": "Birmingham Precision Walls",
+      "phone": {
+        "e164": "+12056196703",
+        "display": "(205) 619-6703",
+        "source": "Existing public website crawl on 2026-08-15 (birminghamprecisionwalls.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-064": {
+      "domain": "https://deckbuildernewbraunfelstx.com",
+      "businessName": "Deck Builder New Braunfels TX",
+      "phone": {
+        "e164": "+18302242690",
+        "display": "(830) 224-2690",
+        "source": "Existing public website crawl on 2026-08-15 (deckbuildernewbraunfelstx.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-012": {
+      "domain": "https://www.tulsadrainpros.com/",
+      "businessName": "TC French Drain Tulsa",
+      "phone": {
+        "e164": "+19182555206",
+        "display": "(918) 255-5206",
+        "source": "Existing public website crawl on 2026-08-15 (tulsadrainpros.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-079": {
+      "domain": "https://fenceprosofsanantonio.com/",
+      "businessName": "FENCE PROS OF SAN ANTONIO",
+      "phone": {
+        "e164": "+12104651194",
+        "display": "(210) 465-1194",
+        "source": "Existing public website crawl on 2026-08-15 (fenceprosofsanantonio.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-055": {
+      "domain": "https://www.charlotteprecisionwalls.com",
+      "businessName": "PW Retaining Wall Contractor Charlotte",
+      "phone": {
+        "e164": "+19804803201",
+        "display": "(980) 480-3201",
+        "source": "Existing public website crawl on 2026-08-15 (charlotteprecisionwalls.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-001": {
+      "domain": "https://pristinelandscapingsa.com/",
+      "businessName": "Pristine Landscaping",
+      "phone": {
+        "e164": "+12105350752",
+        "display": "(210) 535-0752",
+        "source": "Existing public website crawl on 2026-08-15 (pristinelandscapingsa.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-089": {
+      "domain": "https://treeserviceprosmcallen.com",
+      "businessName": "McAllen Tree Service Pros",
+      "phone": {
+        "e164": "+19563002132",
+        "display": "(956) 300-2132",
+        "source": "Launch Lead Gen — Agency OS / Portfolio Properties exact-domain match",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-040": {
+      "domain": "https://www.outdoordrainagesolutionsbridgeportct.com/",
+      "businessName": "Outdoor Drainage Solutions Bridgeport",
+      "phone": {
+        "e164": "+12034272294",
+        "display": "(203) 427-2294",
+        "source": "Launch Lead Gen — Agency OS / Portfolio Properties exact-domain match",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-104": {
+      "domain": "http://www.naplespoolpros.com/",
+      "businessName": "Naples Pool Pros",
+      "phone": {
+        "e164": "+12393107007",
+        "display": "(239) 310-7007",
+        "source": "Launch Lead Gen — Agency OS / Portfolio Properties exact-domain match",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-051": {
+      "domain": "https://www.tulsaprecisionwalls.com",
+      "businessName": "Precision Retaining Walls Tulsa",
+      "phone": {
+        "e164": "+19188427333",
+        "display": "(918) 842-7333",
+        "source": "Existing public website crawl on 2026-08-15 (tulsaprecisionwalls.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-027": {
+      "domain": "http://www.houstondrainpros.com/",
+      "businessName": "Houston French Drain",
+      "phone": {
+        "e164": "+13465224469",
+        "display": "(346) 522-4469",
+        "source": "Existing public website crawl on 2026-08-15 (houstondrainpros.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-050": {
+      "domain": "https://www.retainingwallcontractorrichmondva.com",
+      "businessName": "Richmond Retaining Wall Contractor",
+      "phone": {
+        "e164": "+18045526032",
+        "display": "(804) 552-6032",
+        "source": "Launch Lead Gen — Agency OS / Portfolio Properties exact-domain match",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-066": {
+      "domain": "https://deckbuilderboernetx.com",
+      "businessName": "CK Boerne Deck Builder",
+      "phone": {
+        "e164": "+18302435331",
+        "display": "(830) 243-5331",
+        "source": "Existing public website crawl on 2026-08-15 (deckbuilderboernetx.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-112": {
+      "domain": "https://www.treeserviceinpittsburgh.com/",
+      "businessName": "Tree Service in Pittsburgh",
+      "phone": {
+        "e164": "+14127753616",
+        "display": "(412) 775-3616",
+        "source": "Launch Lead Gen — Agency OS / Portfolio Properties exact-domain match",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-106": {
+      "domain": "https://www.keepitcoolpittsburgh.com/",
+      "businessName": "Keep It Cool Pittsburgh",
+      "phone": {
+        "e164": "+14127753669",
+        "display": "(412) 775-3669",
+        "source": "Launch Lead Gen — Agency OS / Portfolio Properties exact-domain match",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-108": {
+      "domain": "https://www.crawlspacewilmington.com",
+      "businessName": "Wilmington Crawlspace",
+      "phone": {
+        "e164": "+19104440021",
+        "display": "(910) 444-0021",
+        "source": "Launch Lead Gen — Agency OS / Portfolio Properties exact-domain match",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-021": {
+      "domain": "http://www.wilmingtonfrenchdrain.com/",
+      "businessName": "CM Wilmington French Drain",
+      "phone": {
+        "e164": "+19104001898",
+        "display": "(910) 400-1898",
+        "source": "Existing public website crawl on 2026-08-15 (wilmingtonfrenchdrain.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-053": {
+      "domain": "https://www.seattleprecisionwalls.com",
+      "businessName": "Seattle Precision Retaining Walls",
+      "phone": {
+        "e164": "+12062028162",
+        "display": "(206) 202-8162",
+        "source": "Existing public website crawl on 2026-08-15 (seattleprecisionwalls.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-019": {
+      "domain": "https://outdoordrainagesolutionssanantoniotx.com",
+      "businessName": "Outdoor Drainage Solutions San Antonio",
+      "phone": {
+        "e164": "+12104053767",
+        "display": "(210) 405-3767",
+        "source": "Existing public website crawl on 2026-08-15 (outdoordrainagesolutionssanantoniotx.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-105": {
+      "domain": "https://www.tulsafoundationpros.com/",
+      "businessName": "Tulsa Foundation Pros",
+      "phone": {
+        "e164": "+19183000423",
+        "display": "(918) 300-0423",
+        "source": "Launch Lead Gen — Agency OS / Portfolio Properties exact-domain match",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-041": {
+      "domain": "http://www.cincinnatifrenchdrains.com/",
+      "businessName": "Cincinnati French Drains",
+      "phone": {
+        "e164": "+15139986043",
+        "display": "(513) 998-6043",
+        "source": "Existing public website crawl on 2026-08-15 (cincinnatifrenchdrains.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-088": {
+      "domain": "http://www.pittsburghfencepros.com/",
+      "businessName": "Pittsburgh Fencing - Professional Fence Installation & Repair Services",
+      "phone": {
+        "e164": "+14126681136",
+        "display": "(412) 668-1136",
+        "source": "Launch Lead Gen — Agency OS / Portfolio Properties exact-domain match",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-043": {
+      "domain": "https://www.kansascitydrainguys.com/",
+      "businessName": "Kansas City French Drain Pros",
+      "phone": {
+        "e164": "+18164517119",
+        "display": "(816) 451-7119",
+        "source": "Existing public website crawl on 2026-08-15 (kansascitydrainguys.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-004": {
+      "domain": "https://outdoordrainagesolutionsseattlewa.com",
+      "businessName": "Outdoor Drainage Solutions Seattle",
+      "phone": {
+        "e164": "+12064011981",
+        "display": "(206) 401-1981",
+        "source": "Launch Lead Gen — Agency OS / Portfolio Properties exact-domain match",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-097": {
+      "domain": "http://www.youngstowndrainpros.com/",
+      "businessName": "Youngstown Drain Pros",
+      "phone": {
+        "e164": "+13302497779",
+        "display": "(330) 249-7779",
+        "source": "Launch Lead Gen — Agency OS / Portfolio Properties exact-domain match",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-014": {
+      "domain": "https://www.raleighdrainpros.com/",
+      "businessName": "TMK Raleigh French Drain",
+      "phone": {
+        "e164": "+19842762200",
+        "display": "(984) 276-2200",
+        "source": "Existing public website crawl on 2026-08-15 (raleighdrainpros.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-085": {
+      "domain": "https://www.pghpoolservice.com/",
+      "businessName": "PGH Pool Service",
+      "phone": {
+        "e164": "+14126153550",
+        "display": "(412) 615-3550",
+        "source": "Launch Lead Gen — Agency OS / Portfolio Properties exact-domain match",
+        "status": "Approved for production"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-091": {
+      "domain": "http://lawncareofsanantonio.com/",
+      "businessName": "Lawn Care of San Antonio",
+      "phone": {
+        "e164": "+18304832110",
+        "display": "(830) 483-2110",
+        "source": "Launch Lead Gen — Agency OS / Portfolio Properties exact-domain match",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-016": {
+      "domain": "http://www.fortworthdrainpros.com/",
+      "businessName": "Ft Worth French Drain Pros",
+      "phone": {
+        "e164": "+18172259058",
+        "display": "(817) 225-9058",
+        "source": "Existing public website crawl on 2026-08-15 (fortworthdrainpros.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-086": {
+      "domain": "https://stxdeckandpatio.com/",
+      "businessName": "San Antonio Deck & Patio",
+      "phone": {
+        "e164": null,
+        "display": null,
+        "source": null,
+        "status": "Missing"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-035": {
+      "domain": "http://www.charlestonfrenchdrain.com/",
+      "businessName": "Charleston French Drain Pros",
+      "phone": {
+        "e164": "+18434288723",
+        "display": "(843) 428-8723",
+        "source": "Existing public website crawl on 2026-08-15 (charlestonfrenchdrain.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-087": {
+      "domain": "https://outdoorcontractorssanantonio.com/",
+      "businessName": "San Antonio Outdoor Contractors",
+      "phone": {
+        "e164": null,
+        "display": null,
+        "source": null,
+        "status": "Missing"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-031": {
+      "domain": "https://outdoordrainagesolutionscapecoralfl.com",
+      "businessName": "Outdoor Drainage Solutions Cape Coral",
+      "phone": {
+        "e164": "+12394280586",
+        "display": "(239) 428-0586",
+        "source": "Existing public website crawl on 2026-08-15 (outdoordrainagesolutionscapecoralfl.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-081": {
+      "domain": "https://newjerseyfencingcompany.com",
+      "businessName": "New Jersey Fencing Company",
+      "phone": {
+        "e164": "+13046484298",
+        "display": "(304) 648-4298",
+        "source": "Launch Lead Gen — Agency OS / Portfolio Properties exact-domain match",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-111": {
+      "domain": "https://www.nashvillebackyards.com",
+      "businessName": "Nashville Backyards",
+      "phone": {
+        "e164": "+16152416010",
+        "display": "(615) 241-6010",
+        "source": "Launch Lead Gen — Agency OS / Portfolio Properties exact-domain match",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-096": {
+      "domain": "http://www.cantondrainpros.com/",
+      "businessName": "Canton Drain Pros",
+      "phone": {
+        "e164": "+13306249522",
+        "display": "(330) 624-9522",
+        "source": "Launch Lead Gen — Agency OS / Portfolio Properties exact-domain match",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-069": {
+      "domain": "https://maranabathroomremodeling.com/",
+      "businessName": "Marana Bathroom Remodeling",
+      "phone": {
+        "e164": null,
+        "display": null,
+        "source": null,
+        "status": "Missing"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-029": {
+      "domain": "https://outdoordrainagesolutionsatlantaga.com/",
+      "businessName": "Outdoor Drainage Solutions Atlanta",
+      "phone": {
+        "e164": "+17708841852",
+        "display": "(770) 884-1852",
+        "source": "Existing public website crawl on 2026-08-15 (outdoordrainagesolutionsatlantaga.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-114": {
+      "domain": "https://cedarrapidsconcretecontractorpros.com/",
+      "businessName": "Cedar Rapids Concrete Contractor Pros",
+      "phone": {
+        "e164": "+13192095990",
+        "display": "(319) 209-5990",
+        "source": "Launch Lead Gen — Agency OS / Portfolio Properties exact-domain match",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-109": {
+      "domain": "https://www.nashville-crawlspace.com",
+      "businessName": "Nashville Crawlspace",
+      "phone": {
+        "e164": "+16158055596",
+        "display": "(615) 805-5596",
+        "source": "Launch Lead Gen — Agency OS / Portfolio Properties exact-domain match",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-047": {
+      "domain": "https://www.chicagodrainageguys.com/",
+      "businessName": "Chicago French Drain Pros",
+      "phone": {
+        "e164": "+17737410057",
+        "display": "(773) 741-0057",
+        "source": "Existing public website crawl on 2026-08-15 (chicagodrainageguys.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-102": {
+      "domain": "http://www.clevelandfencepros.com/",
+      "businessName": "Cleveland Fence Pros",
+      "phone": {
+        "e164": "+12166168556",
+        "display": "(216) 616-8556",
+        "source": "Launch Lead Gen — Agency OS / Portfolio Properties exact-domain match",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-018": {
+      "domain": "http://www.jacksonvillefrenchdrain.com/",
+      "businessName": "French Drain Jacksonville",
+      "phone": {
+        "e164": "+19045907699",
+        "display": "(904) 590-7699",
+        "source": "Existing public website crawl on 2026-08-15 (jacksonvillefrenchdrain.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-083": {
+      "domain": "https://www.sprinklersystemsofsanantoniotx.com/",
+      "businessName": "SPRINKLER SYSTEMS OF SAN ANTONIO",
+      "phone": {
+        "e164": "+12107837020",
+        "display": "(210) 783-7020",
+        "source": "Existing public website crawl on 2026-08-15 (sprinklersystemsofsanantoniotx.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-006": {
+      "domain": "https://www.charlottedrainguys.com/",
+      "businessName": "Charlotte French Drain Guy",
+      "phone": {
+        "e164": "+19804807470",
+        "display": "(980) 480-7470",
+        "source": "Existing public website crawl on 2026-08-15 (charlottedrainguys.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-074": {
+      "domain": "https://www.charlottecrawlspace.com",
+      "businessName": "Charlotte Crawl Space Guys",
+      "phone": {
+        "e164": "+17042884170",
+        "display": "(704) 288-4170",
+        "source": "Existing public website crawl on 2026-08-15 (charlottecrawlspace.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-076": {
+      "domain": "http://crawlspaceencapsulationconcordnc.com/",
+      "businessName": "Elite Concord Crawl Space Encapsulation",
+      "phone": {
+        "e164": "+17044453132",
+        "display": "(704) 445-3132",
+        "source": "Existing public website crawl on 2026-08-15 (crawlspaceencapsulationconcordnc.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-044": {
+      "domain": "https://www.baltimorefrenchdrain.com/",
+      "businessName": "Baltimore French Drain Pros",
+      "phone": {
+        "e164": "+14107702644",
+        "display": "(410) 770-2644",
+        "source": "Existing public website crawl on 2026-08-15 (baltimorefrenchdrain.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-107": {
+      "domain": "http://www.handymaninpittsburgh.com/",
+      "businessName": "Handyman in Pittsburgh",
+      "phone": {
+        "e164": "+14127545699",
+        "display": "(412) 754-5699",
+        "source": "Launch Lead Gen — Agency OS / Portfolio Properties exact-domain match",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-068": {
+      "domain": "https://deckbuilderbulverdetx.com",
+      "businessName": "CK Bulverde Deck Builder",
+      "phone": {
+        "e164": "+18302402022",
+        "display": "(830) 240-2022",
+        "source": "Existing public website crawl on 2026-08-15 (deckbuilderbulverdetx.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-057": {
+      "domain": "https://retainingwallcontractorsanantoniotx.com",
+      "businessName": "San Antonio Retaining Wall Contractors",
+      "phone": {
+        "e164": "+12108990160",
+        "display": "(210) 899-0160",
+        "source": "Launch Lead Gen — Agency OS / Portfolio Properties exact-domain match",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-048": {
+      "domain": "https://outdoordrainagesolutionschicagoil.com/",
+      "businessName": "Outdoor Drainage Solutions Chicago",
+      "phone": {
+        "e164": "+17737410057",
+        "display": "(773) 741-0057",
+        "source": "Existing public website crawl on 2026-08-15 (outdoordrainagesolutionschicagoil.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-054": {
+      "domain": "https://www.okcprecisionwalls.com",
+      "businessName": "OKC Precision Retaining Walls",
+      "phone": {
+        "e164": "+14052330223",
+        "display": "(405) 233-0223",
+        "source": "Existing public website crawl on 2026-08-15 (okcprecisionwalls.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    },
+    "LOC-033": {
+      "domain": "https://outdoordrainagesolutionsindianapolisin.com",
+      "businessName": "Outdoor Drainage Solutions Indianapolis",
+      "phone": {
+        "e164": "+14632084340",
+        "display": "(463) 208-4340",
+        "source": "Existing public website crawl on 2026-08-15 (outdoordrainagesolutionsindianapolisin.com); requires operator verification",
+        "status": "Unreviewed"
+      },
+      "reviews": {
+        "count": null,
+        "rating": null,
+        "displayApproved": false
+      },
+      "protection": {
+        "headline": "PROJECT PROTECTION",
+        "detail": "Ask about available options"
+      }
+    }
+  }
+}

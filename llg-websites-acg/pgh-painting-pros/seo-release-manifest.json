@@ -1,0 +1,66 @@
+{
+  "siteKey": "pgh-painting-pros",
+  "stage": "staging",
+  "currentCrawlContract": {
+    "metaRobots": "noindex,nofollow",
+    "robotsTxt": "Disallow: /",
+    "xRobotsTag": "noindex, nofollow",
+    "sitemap": "empty"
+  },
+  "productionCandidate": {
+    "origin": "https://pghpaintingpros.com",
+    "urls": [
+      {
+        "path": "/",
+        "canonical": "https://pghpaintingpros.com/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/",
+        "canonical": "https://pghpaintingpros.com/services/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/interior-painting/",
+        "canonical": "https://pghpaintingpros.com/services/interior-painting/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/exterior-painting/",
+        "canonical": "https://pghpaintingpros.com/services/exterior-painting/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/cabinet-painting/",
+        "canonical": "https://pghpaintingpros.com/services/cabinet-painting/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/commercial-painting/",
+        "canonical": "https://pghpaintingpros.com/services/commercial-painting/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/service-areas/",
+        "canonical": "https://pghpaintingpros.com/service-areas/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/about/",
+        "canonical": "https://pghpaintingpros.com/about/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/contact/",
+        "canonical": "https://pghpaintingpros.com/contact/",
+        "indexState": "pending-approval"
+      }
+    ]
+  },
+  "releaseBlockers": [
+    "routing approval",
+    "claim review",
+    "phone forwarding test",
+    "canonical/domain approval"
+  ]
+}

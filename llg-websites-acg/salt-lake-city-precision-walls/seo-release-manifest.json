@@ -1,0 +1,66 @@
+{
+  "siteKey": "salt-lake-city-precision-walls",
+  "stage": "staging",
+  "currentCrawlContract": {
+    "metaRobots": "noindex,nofollow",
+    "robotsTxt": "Disallow: /",
+    "xRobotsTag": "noindex, nofollow",
+    "sitemap": "empty"
+  },
+  "productionCandidate": {
+    "origin": "https://saltlakecityprecisionwalls.com",
+    "urls": [
+      {
+        "path": "/",
+        "canonical": "https://saltlakecityprecisionwalls.com/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/",
+        "canonical": "https://saltlakecityprecisionwalls.com/services/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/retaining-wall-installation/",
+        "canonical": "https://saltlakecityprecisionwalls.com/services/retaining-wall-installation/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/segmental-block-walls/",
+        "canonical": "https://saltlakecityprecisionwalls.com/services/segmental-block-walls/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/natural-stone-walls/",
+        "canonical": "https://saltlakecityprecisionwalls.com/services/natural-stone-walls/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/retaining-wall-repair/",
+        "canonical": "https://saltlakecityprecisionwalls.com/services/retaining-wall-repair/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/service-areas/",
+        "canonical": "https://saltlakecityprecisionwalls.com/service-areas/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/about/",
+        "canonical": "https://saltlakecityprecisionwalls.com/about/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/contact/",
+        "canonical": "https://saltlakecityprecisionwalls.com/contact/",
+        "indexState": "pending-approval"
+      }
+    ]
+  },
+  "releaseBlockers": [
+    "routing approval",
+    "claim review",
+    "phone forwarding test",
+    "canonical/domain approval"
+  ]
+}

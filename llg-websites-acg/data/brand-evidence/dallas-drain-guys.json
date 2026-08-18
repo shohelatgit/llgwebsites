@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "siteKey": "dallas-drain-guys",
+  "sourceType": "brand-board-jpeg",
+  "sourceFile": "Dallas Drain Guys.jpeg",
+  "sha256": "bef5954af8255f774c4e369aeddcee6485b4cedd750535f69862220036ef8286",
+  "dimensions": {
+    "width": 1600,
+    "height": 900
+  },
+  "observations": [
+    "four printed brand colors",
+    "heading, body, and accent font roles",
+    "logo, wordmark, icon, and favicon examples"
+  ],
+  "confidence": "high",
+  "assetPolicy": "board is token evidence; website logo slots remain placeholders until source vector files are supplied"
+}

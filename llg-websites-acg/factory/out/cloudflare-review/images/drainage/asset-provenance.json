@@ -1,0 +1,314 @@
+[
+  {
+    "slug": "french-drain",
+    "source": "C:\\Users\\Justin Abrams\\OneDrive\\Documents\\Playground\\outputs\\019fce0b-1812-7a13-91e9-097943eb3f86\\images\\B01\\photo-drainage-project_type-french-drain.png",
+    "originalWidth": 1536,
+    "originalHeight": 1024,
+    "variants": [
+      {
+        "path": "images/drainage/french-drain-640.webp",
+        "width": 640,
+        "height": 427,
+        "bytes": 79344
+      },
+      {
+        "path": "images/drainage/french-drain-960.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 162648
+      },
+      {
+        "path": "images/drainage/french-drain-1600.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 352776
+      }
+    ]
+  },
+  {
+    "slug": "yard-drainage",
+    "source": "C:\\Users\\Justin Abrams\\OneDrive\\Documents\\Playground\\outputs\\019fce0b-1812-7a13-91e9-097943eb3f86\\images\\B01\\photo-drainage-project_type-yard-drainage.png",
+    "originalWidth": 1448,
+    "originalHeight": 1086,
+    "variants": [
+      {
+        "path": "images/drainage/yard-drainage-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 99954
+      },
+      {
+        "path": "images/drainage/yard-drainage-960.webp",
+        "width": 960,
+        "height": 720,
+        "bytes": 219458
+      },
+      {
+        "path": "images/drainage/yard-drainage-1600.webp",
+        "width": 1448,
+        "height": 1086,
+        "bytes": 415750
+      }
+    ]
+  },
+  {
+    "slug": "sump-pump",
+    "source": "C:\\Users\\Justin Abrams\\OneDrive\\Documents\\Playground\\outputs\\019fce0b-1812-7a13-91e9-097943eb3f86\\images\\B01\\photo-drainage-project_type-sump-pump.png",
+    "originalWidth": 1448,
+    "originalHeight": 1086,
+    "variants": [
+      {
+        "path": "images/drainage/sump-pump-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 33578
+      },
+      {
+        "path": "images/drainage/sump-pump-960.webp",
+        "width": 960,
+        "height": 720,
+        "bytes": 82148
+      },
+      {
+        "path": "images/drainage/sump-pump-1600.webp",
+        "width": 1448,
+        "height": 1086,
+        "bytes": 175284
+      }
+    ]
+  },
+  {
+    "slug": "downspout-drainage",
+    "source": "C:\\Users\\Justin Abrams\\OneDrive\\Documents\\Playground\\outputs\\019fce0b-1812-7a13-91e9-097943eb3f86\\images\\B01\\photo-drainage-project_type-downspout-drainage.png",
+    "originalWidth": 1448,
+    "originalHeight": 1086,
+    "variants": [
+      {
+        "path": "images/drainage/downspout-drainage-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 92992
+      },
+      {
+        "path": "images/drainage/downspout-drainage-960.webp",
+        "width": 960,
+        "height": 720,
+        "bytes": 200410
+      },
+      {
+        "path": "images/drainage/downspout-drainage-1600.webp",
+        "width": 1448,
+        "height": 1086,
+        "bytes": 390212
+      }
+    ]
+  },
+  {
+    "slug": "channel-drain",
+    "source": "C:\\Users\\Justin Abrams\\OneDrive\\Documents\\Playground\\outputs\\019fce0b-1812-7a13-91e9-097943eb3f86\\images\\B01\\photo-drainage-project_type-channel-drain.png",
+    "originalWidth": 1448,
+    "originalHeight": 1086,
+    "variants": [
+      {
+        "path": "images/drainage/channel-drain-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 76520
+      },
+      {
+        "path": "images/drainage/channel-drain-960.webp",
+        "width": 960,
+        "height": 720,
+        "bytes": 168716
+      },
+      {
+        "path": "images/drainage/channel-drain-1600.webp",
+        "width": 1448,
+        "height": 1086,
+        "bytes": 326638
+      }
+    ]
+  },
+  {
+    "slug": "drain-cleaning",
+    "source": "C:\\Users\\Justin Abrams\\OneDrive\\Documents\\Playground\\outputs\\019fce0b-1812-7a13-91e9-097943eb3f86\\images\\B01\\photo-drainage-project_type-drain-cleaning.png",
+    "originalWidth": 1448,
+    "originalHeight": 1086,
+    "variants": [
+      {
+        "path": "images/drainage/drain-cleaning-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 71412
+      },
+      {
+        "path": "images/drainage/drain-cleaning-960.webp",
+        "width": 960,
+        "height": 720,
+        "bytes": 132090
+      },
+      {
+        "path": "images/drainage/drain-cleaning-1600.webp",
+        "width": 1448,
+        "height": 1086,
+        "bytes": 232916
+      }
+    ]
+  },
+  {
+    "slug": "standing-water-yard",
+    "source": "C:\\Users\\Justin Abrams\\OneDrive\\Documents\\Playground\\outputs\\019fce0b-1812-7a13-91e9-097943eb3f86\\images\\B01\\photo-drainage-water_location-yard.png",
+    "originalWidth": 1448,
+    "originalHeight": 1086,
+    "variants": [
+      {
+        "path": "images/drainage/standing-water-yard-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 92500
+      },
+      {
+        "path": "images/drainage/standing-water-yard-960.webp",
+        "width": 960,
+        "height": 720,
+        "bytes": 219694
+      },
+      {
+        "path": "images/drainage/standing-water-yard-1600.webp",
+        "width": 1448,
+        "height": 1086,
+        "bytes": 458218
+      }
+    ]
+  },
+  {
+    "slug": "foundation-water",
+    "source": "C:\\Users\\Justin Abrams\\OneDrive\\Documents\\Playground\\outputs\\019fce0b-1812-7a13-91e9-097943eb3f86\\images\\B01\\photo-drainage-water_location-foundation.png",
+    "originalWidth": 1448,
+    "originalHeight": 1086,
+    "variants": [
+      {
+        "path": "images/drainage/foundation-water-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 80856
+      },
+      {
+        "path": "images/drainage/foundation-water-960.webp",
+        "width": 960,
+        "height": 720,
+        "bytes": 159604
+      },
+      {
+        "path": "images/drainage/foundation-water-1600.webp",
+        "width": 1448,
+        "height": 1086,
+        "bytes": 282060
+      }
+    ]
+  },
+  {
+    "slug": "basement-water",
+    "source": "C:\\Users\\Justin Abrams\\OneDrive\\Documents\\Playground\\outputs\\019fce0b-1812-7a13-91e9-097943eb3f86\\images\\B01\\photo-drainage-water_location-basement.png",
+    "originalWidth": 1448,
+    "originalHeight": 1086,
+    "variants": [
+      {
+        "path": "images/drainage/basement-water-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 35054
+      },
+      {
+        "path": "images/drainage/basement-water-960.webp",
+        "width": 960,
+        "height": 720,
+        "bytes": 74212
+      },
+      {
+        "path": "images/drainage/basement-water-1600.webp",
+        "width": 1448,
+        "height": 1086,
+        "bytes": 140594
+      }
+    ]
+  },
+  {
+    "slug": "crawlspace-water",
+    "source": "C:\\Users\\Justin Abrams\\OneDrive\\Documents\\Playground\\outputs\\019fce0b-1812-7a13-91e9-097943eb3f86\\images\\B01\\photo-drainage-water_location-crawlspace.png",
+    "originalWidth": 1448,
+    "originalHeight": 1086,
+    "variants": [
+      {
+        "path": "images/drainage/crawlspace-water-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 45726
+      },
+      {
+        "path": "images/drainage/crawlspace-water-960.webp",
+        "width": 960,
+        "height": 720,
+        "bytes": 91620
+      },
+      {
+        "path": "images/drainage/crawlspace-water-1600.webp",
+        "width": 1448,
+        "height": 1086,
+        "bytes": 176790
+      }
+    ]
+  },
+  {
+    "slug": "driveway-water",
+    "source": "C:\\Users\\Justin Abrams\\OneDrive\\Documents\\Playground\\outputs\\019fce0b-1812-7a13-91e9-097943eb3f86\\images\\B01\\photo-drainage-water_location-driveway-or-patio.png",
+    "originalWidth": 1448,
+    "originalHeight": 1086,
+    "variants": [
+      {
+        "path": "images/drainage/driveway-water-640.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 59252
+      },
+      {
+        "path": "images/drainage/driveway-water-960.webp",
+        "width": 960,
+        "height": 720,
+        "bytes": 144030
+      },
+      {
+        "path": "images/drainage/driveway-water-1600.webp",
+        "width": 1448,
+        "height": 1086,
+        "bytes": 306686
+      }
+    ]
+  },
+  {
+    "slug": "dry-garden",
+    "source": "C:\\Dev\\jackson-drains\\public\\images\\hero-garden.jpg",
+    "originalWidth": 1920,
+    "originalHeight": 960,
+    "variants": [
+      {
+        "path": "images/drainage/dry-garden-640.webp",
+        "width": 640,
+        "height": 320,
+        "bytes": 72484
+      },
+      {
+        "path": "images/drainage/dry-garden-960.webp",
+        "width": 960,
+        "height": 480,
+        "bytes": 158342
+      },
+      {
+        "path": "images/drainage/dry-garden-1600.webp",
+        "width": 1600,
+        "height": 800,
+        "bytes": 362640
+      }
+    ]
+  }
+]

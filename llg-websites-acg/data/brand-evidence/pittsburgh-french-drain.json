@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "siteKey": "pittsburgh-french-drain",
+  "sourceType": "brand-board-jpeg",
+  "sourceFile": "Pittsburgh French Drain.jpeg",
+  "sha256": "eb93703412cd97d6222814927fbf616be8375a0e1f9f39798ac41eeb39415519",
+  "dimensions": {
+    "width": 1600,
+    "height": 900
+  },
+  "observations": [
+    "four printed brand colors",
+    "heading, body, and accent font roles",
+    "logo, wordmark, icon, and favicon examples"
+  ],
+  "confidence": "high",
+  "assetPolicy": "board is token evidence; website logo slots remain placeholders until source vector files are supplied"
+}

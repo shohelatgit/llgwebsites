@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "stage": "staging",
+  "site": {
+    "slug": "charlotte-precision-walls",
+    "displayName": "Charlotte Precision Walls",
+    "domain": "charlotteprecisionwalls.com",
+    "trade": "Retaining walls",
+    "location": "Charlotte"
+  },
+  "sourceAdoption": {
+    "package": "Pink's Concrete",
+    "homepageExport": "C:\\Users\\Justin Abrams\\OneDrive\\Documents\\Playground\\.codex-work\\llg-clone-sources\\pinks-concrete-clone\\pinks-concrete-clone\\index.html",
+    "preserved": [
+      "homepage DOM and classes",
+      "local CSS/JS/fonts",
+      "section order",
+      "source breakpoints"
+    ]
+  },
+  "brand": {
+    "status": "approved-board-extract",
+    "sourceBoard": "Charlotte Precision Walls.jpeg",
+    "wordmarkFile": "brandmark.svg",
+    "logoFile": "brandmark.png",
+    "iconFile": "brand-icon.png",
+    "faviconFile": "favicon.png"
+  },
+  "photos": {
+    "status": "representative-stock",
+    "disclosure": "Representative imagery is not presented as completed work by this operator.",
+    "slots": [
+      {
+        "file": "media/representative-1.webp",
+        "role": "hero"
+      },
+      {
+        "file": "media/representative-1.webp",
+        "role": "representative"
+      },
+      {
+        "file": "media/representative-2.webp",
+        "role": "representative"
+      },
+      {
+        "file": "media/representative-3.webp",
+        "role": "representative"
+      },
+      {
+        "file": "media/representative-2.webp",
+        "role": "representative"
+      }
+    ]
+  },
+  "reviews": {
+    "status": "interim-copy",
+    "items": [
+      "The wall looks excellent and the team took time to explain the drainage and site preparation behind it.",
+      "The process was organized from the initial visit through the final walkthrough, with clear communication throughout.",
+      "They respected the property, kept the work area orderly, and delivered a finished wall that fits the landscape."
+    ]
+  },
+  "phone": {
+    "status": "callrail-active",
+    "display": "980-480-3201",
+    "tel": "+19804803201"
+  },
+  "address": {
+    "status": "pending-verified-intake",
+    "value": null
+  },
+  "gbp": {
+    "status": "pending-verified-intake",
+    "url": null
+  },
+  "claims": {
+    "status": "pending-verified-intake",
+    "credentials": [],
+    "awards": [],
+    "warranties": []
+  },
+  "intake": {
+    "status": "pending-production-endpoint",
+    "stagingMode": "mailto",
+    "email": "info@charlotteprecisionwalls.com",
+    "storesSubmissions": false
+  },
+  "indexing": {
+    "status": "blocked-for-staging",
+    "metaRobots": "noindex,nofollow",
+    "robotsTxt": "Disallow: /",
+    "xRobotsTag": "noindex, nofollow"
+  }
+}

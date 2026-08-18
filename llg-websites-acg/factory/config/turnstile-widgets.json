@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "reviewWidget": {
+    "id": "review",
+    "name": "LLG Factory Review",
+    "siteKey": "0x4AAAAAAETRwsS0xZHAMOhA",
+    "secretBinding": "TURNSTILE_SECRET_KEY",
+    "domains": [
+      "127.0.0.1",
+      "aryo-cg-preview.pages.dev",
+      "justin-b75.workers.dev",
+      "localhost"
+    ]
+  },
+  "widgets": [
+    {
+      "id": "production-a",
+      "name": "LLG Production Intake A",
+      "siteKey": "0x4AAAAAAEMpG73Th9fk0cd7",
+      "secretBinding": "TURNSTILE_SECRET_KEY_A",
+      "domains": [
+        "austindrainguys.com",
+        "baltimorefrenchdrain.com",
+        "chicagodrainageguys.com",
+        "connecticutdrainpros.com",
+        "dallasdrainguys.com",
+        "greensborodrainguys.com",
+        "jacksonfrenchdrain.com",
+        "littlerockfrenchdrain.com",
+        "morgantownfencepros.com",
+        "pghpoolservice.com"
+      ]
+    },
+    {
+      "id": "production-b",
+      "name": "LLG Production Intake B",
+      "siteKey": "0x4AAAAAAEMpHHPCZcAK5hVQ",
+      "secretBinding": "TURNSTILE_SECRET_KEY_B",
+      "domains": [
+        "charlotteprecisionwalls.com",
+        "cincinnatiprecisionwalls.com",
+        "littlerockprecisionwalls.com",
+        "louisvilleprecisionwalls.com",
+        "neworleansfrenchdrain.com",
+        "pghfrenchdrains.com",
+        "saltlakecityprecisionwalls.com",
+        "tulsadrainpros.com"
+      ]
+    }
+  ]
+}

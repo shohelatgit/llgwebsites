@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "siteKey": "ws-crawl-space",
+  "sourceType": "brand-board-jpeg",
+  "sourceFile": "WS Crawl Space.jpeg",
+  "sha256": "07934584daf09868e203127ac487c519aeb83f3eb5eba784a7397c57f9eace8e",
+  "dimensions": {
+    "width": 1600,
+    "height": 900
+  },
+  "observations": [
+    "four printed brand colors",
+    "heading, body, and accent font roles",
+    "logo, wordmark, icon, and favicon examples"
+  ],
+  "confidence": "high",
+  "assetPolicy": "board is token evidence; website logo slots remain placeholders until source vector files are supplied"
+}

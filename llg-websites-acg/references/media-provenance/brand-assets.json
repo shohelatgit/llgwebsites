@@ -1,0 +1,1267 @@
+{
+  "generated": "2026-08-09",
+  "items": [
+    {
+      "siteKey": "austin-drain-guys",
+      "brand": "Austin Drain Guys",
+      "sourceBoard": "Austin Drain Guys.jpeg",
+      "sourceSha256": "1cd91abe3926049ce1cf51bd397f5f31557ee56c168d4f1f76bb835efb494b0e",
+      "sourceDimensions": [
+        1600,
+        900
+      ],
+      "method": "Deterministic crop from the approved brand board; near-white board background made transparent; artwork not redrawn.",
+      "assets": {
+        "brandmark-source": {
+          "path": "assets/brand/austin-drain-guys/brandmark-source.png",
+          "width": 642,
+          "height": 230
+        },
+        "brand-icon": {
+          "path": "assets/brand/austin-drain-guys/brand-icon.png",
+          "width": 235,
+          "height": 217
+        },
+        "wordmark": {
+          "path": "assets/brand/austin-drain-guys/wordmark.png",
+          "width": 325,
+          "height": 214
+        },
+        "favicon": {
+          "path": "assets/brand/austin-drain-guys/favicon.png",
+          "width": 154,
+          "height": 223
+        },
+        "brandmark": {
+          "path": "assets/brand/austin-drain-guys/brandmark.png",
+          "width": 642,
+          "height": 230
+        },
+        "brandmark-svg": {
+          "path": "assets/brand/austin-drain-guys/brandmark.svg",
+          "width": 642,
+          "height": 230
+        }
+      }
+    },
+    {
+      "siteKey": "baltimore-french-drain",
+      "brand": "Baltimore French Drain",
+      "sourceBoard": "Blatimore French Drain.jpeg",
+      "sourceSha256": "2cf70a74d9e682507f99805487d78b7a8aa5655217215963f95c7181eda6c6fe",
+      "sourceDimensions": [
+        1600,
+        900
+      ],
+      "method": "Deterministic crop from the approved brand board; near-white board background made transparent; artwork not redrawn.",
+      "assets": {
+        "brandmark-source": {
+          "path": "assets/brand/baltimore-french-drain/brandmark-source.png",
+          "width": 641,
+          "height": 193
+        },
+        "brand-icon": {
+          "path": "assets/brand/baltimore-french-drain/brand-icon.png",
+          "width": 125,
+          "height": 206
+        },
+        "wordmark": {
+          "path": "assets/brand/baltimore-french-drain/wordmark.png",
+          "width": 311,
+          "height": 196
+        },
+        "favicon": {
+          "path": "assets/brand/baltimore-french-drain/favicon.png",
+          "width": 160,
+          "height": 216
+        },
+        "brandmark": {
+          "path": "assets/brand/baltimore-french-drain/brandmark.png",
+          "width": 641,
+          "height": 193
+        },
+        "brandmark-svg": {
+          "path": "assets/brand/baltimore-french-drain/brandmark.svg",
+          "width": 641,
+          "height": 193
+        }
+      }
+    },
+    {
+      "siteKey": "charlotte-crawl-space",
+      "brand": "Charlotte Crawl Space",
+      "sourceBoard": "Charlotte Crawl Space.jpeg",
+      "sourceSha256": "01311f19888b28bc04535bc81fd5a992dde307573bf0c11517c67a7187bf5d80",
+      "sourceDimensions": [
+        1600,
+        900
+      ],
+      "method": "Deterministic crop from the approved brand board; near-white board background made transparent; artwork not redrawn.",
+      "assets": {
+        "brandmark-source": {
+          "path": "assets/brand/charlotte-crawl-space/brandmark-source.png",
+          "width": 547,
+          "height": 403
+        },
+        "brand-icon": {
+          "path": "assets/brand/charlotte-crawl-space/brand-icon.png",
+          "width": 182,
+          "height": 176
+        },
+        "wordmark": {
+          "path": "assets/brand/charlotte-crawl-space/wordmark.png",
+          "width": 386,
+          "height": 132
+        },
+        "favicon": {
+          "path": "assets/brand/charlotte-crawl-space/favicon.png",
+          "width": 167,
+          "height": 170
+        },
+        "brandmark": {
+          "path": "assets/brand/charlotte-crawl-space/brandmark.png",
+          "width": 547,
+          "height": 403
+        },
+        "header-lockup": {
+          "path": "assets/brand/charlotte-crawl-space/header-lockup.png",
+          "width": 579,
+          "height": 170
+        },
+        "brandmark-svg": {
+          "path": "assets/brand/charlotte-crawl-space/brandmark.svg",
+          "width": 579,
+          "height": 170
+        }
+      }
+    },
+    {
+      "siteKey": "charlotte-precision-walls",
+      "brand": "Charlotte Precision Walls",
+      "sourceBoard": "Charlotte Precision Walls.jpeg",
+      "sourceSha256": "8efd30a26ed941d674dba21a7a6d35be5e59957fbd763c30548c4c76a5161f62",
+      "sourceDimensions": [
+        1600,
+        900
+      ],
+      "method": "Deterministic crop from the approved brand board; near-white board background made transparent; artwork not redrawn.",
+      "assets": {
+        "brandmark-source": {
+          "path": "assets/brand/charlotte-precision-walls/brandmark-source.png",
+          "width": 683,
+          "height": 208
+        },
+        "brand-icon": {
+          "path": "assets/brand/charlotte-precision-walls/brand-icon.png",
+          "width": 237,
+          "height": 208
+        },
+        "wordmark": {
+          "path": "assets/brand/charlotte-precision-walls/wordmark.png",
+          "width": 332,
+          "height": 208
+        },
+        "favicon": {
+          "path": "assets/brand/charlotte-precision-walls/favicon.png",
+          "width": 167,
+          "height": 237
+        },
+        "brandmark": {
+          "path": "assets/brand/charlotte-precision-walls/brandmark.png",
+          "width": 683,
+          "height": 208
+        },
+        "brandmark-svg": {
+          "path": "assets/brand/charlotte-precision-walls/brandmark.svg",
+          "width": 683,
+          "height": 208
+        }
+      }
+    },
+    {
+      "siteKey": "chicago-drainage-guys",
+      "brand": "Chicago Drainage Guys",
+      "sourceBoard": "Chicago Drainage Guys.jpeg",
+      "sourceSha256": "b7dea1f2e0a55fe84ffec0a2cb075206b6f2861b8285f44aa5012f826dce43db",
+      "sourceDimensions": [
+        1600,
+        900
+      ],
+      "method": "Deterministic crop from the approved brand board; near-white board background made transparent; artwork not redrawn.",
+      "assets": {
+        "brandmark-source": {
+          "path": "assets/brand/chicago-drainage-guys/brandmark-source.png",
+          "width": 667,
+          "height": 187
+        },
+        "brand-icon": {
+          "path": "assets/brand/chicago-drainage-guys/brand-icon.png",
+          "width": 206,
+          "height": 194
+        },
+        "wordmark": {
+          "path": "assets/brand/chicago-drainage-guys/wordmark.png",
+          "width": 360,
+          "height": 186
+        },
+        "favicon": {
+          "path": "assets/brand/chicago-drainage-guys/favicon.png",
+          "width": 194,
+          "height": 263
+        },
+        "brandmark": {
+          "path": "assets/brand/chicago-drainage-guys/brandmark.png",
+          "width": 667,
+          "height": 187
+        },
+        "brandmark-svg": {
+          "path": "assets/brand/chicago-drainage-guys/brandmark.svg",
+          "width": 667,
+          "height": 187
+        }
+      }
+    },
+    {
+      "siteKey": "cincinnati-precision-walls",
+      "brand": "Cincinnati Precision Walls",
+      "sourceBoard": "Cincinnati Precision Walls.jpeg",
+      "sourceSha256": "714dbd097700c9b19a5ffbd97989406e109e00e631eff23b81e52e989ca28560",
+      "sourceDimensions": [
+        1600,
+        900
+      ],
+      "method": "Deterministic crop from the approved brand board; near-white board background made transparent; artwork not redrawn.",
+      "assets": {
+        "brandmark-source": {
+          "path": "assets/brand/cincinnati-precision-walls/brandmark-source.png",
+          "width": 693,
+          "height": 178
+        },
+        "brand-icon": {
+          "path": "assets/brand/cincinnati-precision-walls/brand-icon.png",
+          "width": 208,
+          "height": 215
+        },
+        "wordmark": {
+          "path": "assets/brand/cincinnati-precision-walls/wordmark.png",
+          "width": 309,
+          "height": 141
+        },
+        "favicon": {
+          "path": "assets/brand/cincinnati-precision-walls/favicon.png",
+          "width": 192,
+          "height": 264
+        },
+        "brandmark": {
+          "path": "assets/brand/cincinnati-precision-walls/brandmark.png",
+          "width": 693,
+          "height": 178
+        },
+        "brandmark-svg": {
+          "path": "assets/brand/cincinnati-precision-walls/brandmark.svg",
+          "width": 693,
+          "height": 178
+        }
+      }
+    },
+    {
+      "siteKey": "connecticut-drain-pros",
+      "brand": "Connecticut Drain Pros",
+      "sourceBoard": "Connecticut Drain PRos.jpeg",
+      "sourceSha256": "a0aa45f533df38f0d6202d0e3a314cf3cec1d908123fe5cd2f9c975223358b18",
+      "sourceDimensions": [
+        1600,
+        900
+      ],
+      "method": "Deterministic crop from the approved brand board; near-white board background made transparent; artwork not redrawn.",
+      "assets": {
+        "brandmark-source": {
+          "path": "assets/brand/connecticut-drain-pros/brandmark-source.png",
+          "width": 671,
+          "height": 214
+        },
+        "brand-icon": {
+          "path": "assets/brand/connecticut-drain-pros/brand-icon.png",
+          "width": 175,
+          "height": 171
+        },
+        "wordmark": {
+          "path": "assets/brand/connecticut-drain-pros/wordmark.png",
+          "width": 360,
+          "height": 173
+        },
+        "favicon": {
+          "path": "assets/brand/connecticut-drain-pros/favicon.png",
+          "width": 194,
+          "height": 264
+        },
+        "brandmark": {
+          "path": "assets/brand/connecticut-drain-pros/brandmark.png",
+          "width": 671,
+          "height": 214
+        },
+        "brandmark-svg": {
+          "path": "assets/brand/connecticut-drain-pros/brandmark.svg",
+          "width": 671,
+          "height": 214
+        }
+      }
+    },
+    {
+      "siteKey": "crawlspace-cary-nc",
+      "brand": "Crawlspace Cary NC",
+      "sourceBoard": "Crawlspace Cary NC.jpeg",
+      "sourceSha256": "e0adef4bdd958759ab1fa597788c9c644c2e8ee93dede248cadf4ee774b54e40",
+      "sourceDimensions": [
+        1600,
+        900
+      ],
+      "method": "Deterministic crop from the approved brand board; near-white board background made transparent; artwork not redrawn.",
+      "assets": {
+        "brandmark-source": {
+          "path": "assets/brand/crawlspace-cary-nc/brandmark-source.png",
+          "width": 690,
+          "height": 201
+        },
+        "brand-icon": {
+          "path": "assets/brand/crawlspace-cary-nc/brand-icon.png",
+          "width": 256,
+          "height": 215
+        },
+        "wordmark": {
+          "path": "assets/brand/crawlspace-cary-nc/wordmark.png",
+          "width": 321,
+          "height": 215
+        },
+        "favicon": {
+          "path": "assets/brand/crawlspace-cary-nc/favicon.png",
+          "width": 171,
+          "height": 251
+        },
+        "brandmark": {
+          "path": "assets/brand/crawlspace-cary-nc/brandmark.png",
+          "width": 690,
+          "height": 201
+        },
+        "brandmark-svg": {
+          "path": "assets/brand/crawlspace-cary-nc/brandmark.svg",
+          "width": 690,
+          "height": 201
+        }
+      }
+    },
+    {
+      "siteKey": "crawlspace-durham",
+      "brand": "Crawlspace Durham",
+      "sourceBoard": "Crawlspace Durham.jpeg",
+      "sourceSha256": "aa3daa9f2d5e60e6368dfb6d096f6f4c053a26bfcf0e9150ce238afc54cfb0cb",
+      "sourceDimensions": [
+        1600,
+        900
+      ],
+      "method": "Deterministic crop from the approved brand board; near-white board background made transparent; artwork not redrawn.",
+      "assets": {
+        "brandmark-source": {
+          "path": "assets/brand/crawlspace-durham/brandmark-source.png",
+          "width": 686,
+          "height": 236
+        },
+        "brand-icon": {
+          "path": "assets/brand/crawlspace-durham/brand-icon.png",
+          "width": 237,
+          "height": 215
+        },
+        "wordmark": {
+          "path": "assets/brand/crawlspace-durham/wordmark.png",
+          "width": 319,
+          "height": 211
+        },
+        "favicon": {
+          "path": "assets/brand/crawlspace-durham/favicon.png",
+          "width": 168,
+          "height": 249
+        },
+        "brandmark": {
+          "path": "assets/brand/crawlspace-durham/brandmark.png",
+          "width": 686,
+          "height": 236
+        },
+        "brandmark-svg": {
+          "path": "assets/brand/crawlspace-durham/brandmark.svg",
+          "width": 686,
+          "height": 236
+        }
+      }
+    },
+    {
+      "siteKey": "crawlspace-greensboro",
+      "brand": "Crawlspace Greensboro",
+      "sourceBoard": "Crawlspace Greensboro.jpeg",
+      "sourceSha256": "1aa10af7703a9afa51756a9d9cebd048fcb40e0b4d83e058834e21f2f27cfa70",
+      "sourceDimensions": [
+        1600,
+        900
+      ],
+      "method": "Deterministic crop from the approved brand board; near-white board background made transparent; artwork not redrawn.",
+      "assets": {
+        "brandmark-source": {
+          "path": "assets/brand/crawlspace-greensboro/brandmark-source.png",
+          "width": 702,
+          "height": 213
+        },
+        "brand-icon": {
+          "path": "assets/brand/crawlspace-greensboro/brand-icon.png",
+          "width": 265,
+          "height": 177
+        },
+        "wordmark": {
+          "path": "assets/brand/crawlspace-greensboro/wordmark.png",
+          "width": 352,
+          "height": 120
+        },
+        "favicon": {
+          "path": "assets/brand/crawlspace-greensboro/favicon.png",
+          "width": 171,
+          "height": 179
+        },
+        "brandmark": {
+          "path": "assets/brand/crawlspace-greensboro/brandmark.png",
+          "width": 702,
+          "height": 213
+        },
+        "brandmark-svg": {
+          "path": "assets/brand/crawlspace-greensboro/brandmark.svg",
+          "width": 702,
+          "height": 213
+        }
+      }
+    },
+    {
+      "siteKey": "crawlspace-raleigh",
+      "brand": "Crawlspace Raleigh",
+      "sourceBoard": "Crawlspace Raleigh.jpeg",
+      "sourceSha256": "e122a470f2ced75b25c8056f5d02235277fab48cb9b6225e5a56afd3dc1ea67f",
+      "sourceDimensions": [
+        1600,
+        900
+      ],
+      "method": "Deterministic crop from the approved brand board; near-white board background made transparent; artwork not redrawn.",
+      "assets": {
+        "brandmark-source": {
+          "path": "assets/brand/crawlspace-raleigh/brandmark-source.png",
+          "width": 722,
+          "height": 196
+        },
+        "brand-icon": {
+          "path": "assets/brand/crawlspace-raleigh/brand-icon.png",
+          "width": 270,
+          "height": 212
+        },
+        "wordmark": {
+          "path": "assets/brand/crawlspace-raleigh/wordmark.png",
+          "width": 325,
+          "height": 197
+        },
+        "favicon": {
+          "path": "assets/brand/crawlspace-raleigh/favicon.png",
+          "width": 163,
+          "height": 227
+        },
+        "brandmark": {
+          "path": "assets/brand/crawlspace-raleigh/brandmark.png",
+          "width": 722,
+          "height": 196
+        },
+        "brandmark-svg": {
+          "path": "assets/brand/crawlspace-raleigh/brandmark.svg",
+          "width": 722,
+          "height": 196
+        }
+      }
+    },
+    {
+      "siteKey": "crawlspace-wilmington",
+      "brand": "Crawlspace Wilmington",
+      "sourceBoard": "Crawlspace Wilmington.jpeg",
+      "sourceSha256": "afd83d551abd685ae689de210831e9d3a851bb86c8d264ee5a1d52df303a4bb5",
+      "sourceDimensions": [
+        1600,
+        900
+      ],
+      "method": "Deterministic crop from the approved brand board; near-white board background made transparent; artwork not redrawn.",
+      "assets": {
+        "brandmark-source": {
+          "path": "assets/brand/crawlspace-wilmington/brandmark-source.png",
+          "width": 722,
+          "height": 204
+        },
+        "brand-icon": {
+          "path": "assets/brand/crawlspace-wilmington/brand-icon.png",
+          "width": 265,
+          "height": 215
+        },
+        "wordmark": {
+          "path": "assets/brand/crawlspace-wilmington/wordmark.png",
+          "width": 341,
+          "height": 112
+        },
+        "favicon": {
+          "path": "assets/brand/crawlspace-wilmington/favicon.png",
+          "width": 166,
+          "height": 172
+        },
+        "brandmark": {
+          "path": "assets/brand/crawlspace-wilmington/brandmark.png",
+          "width": 722,
+          "height": 204
+        },
+        "brandmark-svg": {
+          "path": "assets/brand/crawlspace-wilmington/brandmark.svg",
+          "width": 722,
+          "height": 204
+        }
+      }
+    },
+    {
+      "siteKey": "dallas-drain-guys",
+      "brand": "Dallas Drain Guys",
+      "sourceBoard": "Dallas Drain Guys.jpeg",
+      "sourceSha256": "bef5954af8255f774c4e369aeddcee6485b4cedd750535f69862220036ef8286",
+      "sourceDimensions": [
+        1600,
+        900
+      ],
+      "method": "Deterministic crop from the approved brand board; near-white board background made transparent; artwork not redrawn.",
+      "assets": {
+        "brandmark-source": {
+          "path": "assets/brand/dallas-drain-guys/brandmark-source.png",
+          "width": 624,
+          "height": 213
+        },
+        "brand-icon": {
+          "path": "assets/brand/dallas-drain-guys/brand-icon.png",
+          "width": 171,
+          "height": 169
+        },
+        "wordmark": {
+          "path": "assets/brand/dallas-drain-guys/wordmark.png",
+          "width": 360,
+          "height": 171
+        },
+        "favicon": {
+          "path": "assets/brand/dallas-drain-guys/favicon.png",
+          "width": 194,
+          "height": 265
+        },
+        "brandmark": {
+          "path": "assets/brand/dallas-drain-guys/brandmark.png",
+          "width": 624,
+          "height": 213
+        },
+        "brandmark-svg": {
+          "path": "assets/brand/dallas-drain-guys/brandmark.svg",
+          "width": 624,
+          "height": 213
+        }
+      }
+    },
+    {
+      "siteKey": "greensboro-drain-guys",
+      "brand": "Greensboro Drain Guys",
+      "sourceBoard": "Greensboro Drain Guys.jpeg",
+      "sourceSha256": "94aa1af5fad1208f126712bb9656865dd68fe13a668960929eef7a0e7b6c2ec2",
+      "sourceDimensions": [
+        1600,
+        900
+      ],
+      "method": "Deterministic crop from the approved brand board; near-white board background made transparent; artwork not redrawn.",
+      "assets": {
+        "brandmark-source": {
+          "path": "assets/brand/greensboro-drain-guys/brandmark-source.png",
+          "width": 647,
+          "height": 264
+        },
+        "brand-icon": {
+          "path": "assets/brand/greensboro-drain-guys/brand-icon.png",
+          "width": 270,
+          "height": 200
+        },
+        "wordmark": {
+          "path": "assets/brand/greensboro-drain-guys/wordmark.png",
+          "width": 350,
+          "height": 98
+        },
+        "favicon": {
+          "path": "assets/brand/greensboro-drain-guys/favicon.png",
+          "width": 186,
+          "height": 264
+        },
+        "brandmark": {
+          "path": "assets/brand/greensboro-drain-guys/brandmark.png",
+          "width": 647,
+          "height": 264
+        },
+        "brandmark-svg": {
+          "path": "assets/brand/greensboro-drain-guys/brandmark.svg",
+          "width": 647,
+          "height": 264
+        }
+      }
+    },
+    {
+      "siteKey": "jackson-french-drain",
+      "brand": "Jackson French Drain",
+      "sourceBoard": "Jackson French Drain.jpeg",
+      "sourceSha256": "d13086c52d06b97ff4acd71165573aa468664a233eb222b5a5087e52d148ba2d",
+      "sourceDimensions": [
+        1600,
+        900
+      ],
+      "method": "Deterministic crop from the approved brand board; near-white board background made transparent; artwork not redrawn.",
+      "assets": {
+        "brandmark-source": {
+          "path": "assets/brand/jackson-french-drain/brandmark-source.png",
+          "width": 689,
+          "height": 222
+        },
+        "brand-icon": {
+          "path": "assets/brand/jackson-french-drain/brand-icon.png",
+          "width": 270,
+          "height": 215
+        },
+        "wordmark": {
+          "path": "assets/brand/jackson-french-drain/wordmark.png",
+          "width": 360,
+          "height": 215
+        },
+        "favicon": {
+          "path": "assets/brand/jackson-french-drain/favicon.png",
+          "width": 169,
+          "height": 251
+        },
+        "brandmark": {
+          "path": "assets/brand/jackson-french-drain/brandmark.png",
+          "width": 689,
+          "height": 222
+        },
+        "brandmark-svg": {
+          "path": "assets/brand/jackson-french-drain/brandmark.svg",
+          "width": 689,
+          "height": 222
+        }
+      }
+    },
+    {
+      "siteKey": "little-rock-french-drain",
+      "brand": "Little Rock French Drain",
+      "sourceBoard": "Little Rock French Drain.jpeg",
+      "sourceSha256": "c2c3702f4575f04771b2a3e64e2d0291352e3db81f7433fbc84b32b76c24e725",
+      "sourceDimensions": [
+        1600,
+        900
+      ],
+      "method": "Deterministic crop from the approved brand board; near-white board background made transparent; artwork not redrawn.",
+      "assets": {
+        "brandmark-source": {
+          "path": "assets/brand/little-rock-french-drain/brandmark-source.png",
+          "width": 706,
+          "height": 215
+        },
+        "brand-icon": {
+          "path": "assets/brand/little-rock-french-drain/brand-icon.png",
+          "width": 132,
+          "height": 211
+        },
+        "wordmark": {
+          "path": "assets/brand/little-rock-french-drain/wordmark.png",
+          "width": 295,
+          "height": 173
+        },
+        "favicon": {
+          "path": "assets/brand/little-rock-french-drain/favicon.png",
+          "width": 120,
+          "height": 191
+        },
+        "brandmark": {
+          "path": "assets/brand/little-rock-french-drain/brandmark.png",
+          "width": 706,
+          "height": 215
+        },
+        "brandmark-svg": {
+          "path": "assets/brand/little-rock-french-drain/brandmark.svg",
+          "width": 706,
+          "height": 215
+        }
+      }
+    },
+    {
+      "siteKey": "little-rock-precision-walls",
+      "brand": "Little Rock Precision Walls",
+      "sourceBoard": "Little Rock Precision Walls.jpeg",
+      "sourceSha256": "d37b10540571e29951db1ab54591f3f1643131eb997c3adce6b8bdc4ab932856",
+      "sourceDimensions": [
+        1600,
+        900
+      ],
+      "method": "Deterministic crop from the approved brand board; near-white board background made transparent; artwork not redrawn.",
+      "assets": {
+        "brandmark-source": {
+          "path": "assets/brand/little-rock-precision-walls/brandmark-source.png",
+          "width": 667,
+          "height": 233
+        },
+        "brand-icon": {
+          "path": "assets/brand/little-rock-precision-walls/brand-icon.png",
+          "width": 237,
+          "height": 207
+        },
+        "wordmark": {
+          "path": "assets/brand/little-rock-precision-walls/wordmark.png",
+          "width": 325,
+          "height": 206
+        },
+        "favicon": {
+          "path": "assets/brand/little-rock-precision-walls/favicon.png",
+          "width": 162,
+          "height": 219
+        },
+        "brandmark": {
+          "path": "assets/brand/little-rock-precision-walls/brandmark.png",
+          "width": 667,
+          "height": 233
+        },
+        "brandmark-svg": {
+          "path": "assets/brand/little-rock-precision-walls/brandmark.svg",
+          "width": 667,
+          "height": 233
+        }
+      }
+    },
+    {
+      "siteKey": "louisville-precision-walls",
+      "brand": "Louisville Precision Walls",
+      "sourceBoard": "Louisville Precision Walls.jpeg",
+      "sourceSha256": "7e5b253ceeb5a6d6ac3a2a945f3edca02eda001f10691d8fada2e3be58ca934e",
+      "sourceDimensions": [
+        1600,
+        900
+      ],
+      "method": "Deterministic crop from the approved brand board; near-white board background made transparent; artwork not redrawn.",
+      "assets": {
+        "brandmark-source": {
+          "path": "assets/brand/louisville-precision-walls/brandmark-source.png",
+          "width": 584,
+          "height": 434
+        },
+        "brand-icon": {
+          "path": "assets/brand/louisville-precision-walls/brand-icon.png",
+          "width": 176,
+          "height": 190
+        },
+        "wordmark": {
+          "path": "assets/brand/louisville-precision-walls/wordmark.png",
+          "width": 382,
+          "height": 100
+        },
+        "favicon": {
+          "path": "assets/brand/louisville-precision-walls/favicon.png",
+          "width": 157,
+          "height": 185
+        },
+        "brandmark": {
+          "path": "assets/brand/louisville-precision-walls/brandmark.png",
+          "width": 584,
+          "height": 434
+        },
+        "header-lockup": {
+          "path": "assets/brand/louisville-precision-walls/header-lockup.png",
+          "width": 559,
+          "height": 170
+        },
+        "brandmark-svg": {
+          "path": "assets/brand/louisville-precision-walls/brandmark.svg",
+          "width": 559,
+          "height": 170
+        }
+      }
+    },
+    {
+      "siteKey": "morgantown-fence-pros",
+      "brand": "Morgantown Fence Pros",
+      "sourceBoard": "Morgantown Fence Pros.jpeg",
+      "sourceSha256": "378a1b80fbbf0df1c50a005c5f73f18d765197853a403219bbfe8abbd2cec9ee",
+      "sourceDimensions": [
+        1600,
+        900
+      ],
+      "method": "Deterministic crop from the approved brand board; near-white board background made transparent; artwork not redrawn.",
+      "assets": {
+        "brandmark-source": {
+          "path": "assets/brand/morgantown-fence-pros/brandmark-source.png",
+          "width": 798,
+          "height": 240
+        },
+        "brand-icon": {
+          "path": "assets/brand/morgantown-fence-pros/brand-icon.png",
+          "width": 163,
+          "height": 155
+        },
+        "wordmark": {
+          "path": "assets/brand/morgantown-fence-pros/wordmark.png",
+          "width": 407,
+          "height": 105
+        },
+        "favicon": {
+          "path": "assets/brand/morgantown-fence-pros/favicon.png",
+          "width": 159,
+          "height": 160
+        },
+        "brandmark": {
+          "path": "assets/brand/morgantown-fence-pros/brandmark.png",
+          "width": 798,
+          "height": 240
+        },
+        "brandmark-svg": {
+          "path": "assets/brand/morgantown-fence-pros/brandmark.svg",
+          "width": 798,
+          "height": 240
+        }
+      }
+    },
+    {
+      "siteKey": "naples-pool-pros",
+      "brand": "Naples Pool Pros",
+      "sourceBoard": "Naples Pool PRos.jpeg",
+      "sourceSha256": "4106f8e7a855de370810b142de8fa929d08fca01ad2f64289a062eb630c2d147",
+      "sourceDimensions": [
+        1600,
+        900
+      ],
+      "method": "Deterministic crop from the approved brand board; near-white board background made transparent; artwork not redrawn.",
+      "assets": {
+        "brandmark-source": {
+          "path": "assets/brand/naples-pool-pros/brandmark-source.png",
+          "width": 500,
+          "height": 245
+        },
+        "brand-icon": {
+          "path": "assets/brand/naples-pool-pros/brand-icon.png",
+          "width": 150,
+          "height": 170
+        },
+        "wordmark": {
+          "path": "assets/brand/naples-pool-pros/wordmark.png",
+          "width": 245,
+          "height": 133
+        },
+        "favicon": {
+          "path": "assets/brand/naples-pool-pros/favicon.png",
+          "width": 111,
+          "height": 120
+        },
+        "brandmark": {
+          "path": "assets/brand/naples-pool-pros/brandmark.png",
+          "width": 500,
+          "height": 245
+        },
+        "brandmark-svg": {
+          "path": "assets/brand/naples-pool-pros/brandmark.svg",
+          "width": 500,
+          "height": 245
+        }
+      }
+    },
+    {
+      "siteKey": "nashville-crawlspace",
+      "brand": "Nashville Crawlspace",
+      "sourceBoard": "Nashville Crawlspace.jpeg",
+      "sourceSha256": "b0f4dd73af6748193d81bb95186ce9bdcbc97468dc4c2d72e2cc734adb94a51a",
+      "sourceDimensions": [
+        1600,
+        900
+      ],
+      "method": "Deterministic crop from the approved brand board; near-white board background made transparent; artwork not redrawn.",
+      "assets": {
+        "brandmark-source": {
+          "path": "assets/brand/nashville-crawlspace/brandmark-source.png",
+          "width": 734,
+          "height": 232
+        },
+        "brand-icon": {
+          "path": "assets/brand/nashville-crawlspace/brand-icon.png",
+          "width": 270,
+          "height": 203
+        },
+        "wordmark": {
+          "path": "assets/brand/nashville-crawlspace/wordmark.png",
+          "width": 344,
+          "height": 203
+        },
+        "favicon": {
+          "path": "assets/brand/nashville-crawlspace/favicon.png",
+          "width": 176,
+          "height": 236
+        },
+        "brandmark": {
+          "path": "assets/brand/nashville-crawlspace/brandmark.png",
+          "width": 734,
+          "height": 232
+        },
+        "brandmark-svg": {
+          "path": "assets/brand/nashville-crawlspace/brandmark.svg",
+          "width": 734,
+          "height": 232
+        }
+      }
+    },
+    {
+      "siteKey": "nashville-backyards",
+      "brand": "Nashville Backyards",
+      "sourceBoard": "Nashvlle Backyards.jpeg",
+      "sourceSha256": "e3eee172eb2d89d433b195441e9a44dc166fe790b0a80ee0805edabe95365d15",
+      "sourceDimensions": [
+        1600,
+        900
+      ],
+      "method": "Deterministic crop from the approved brand board; near-white board background made transparent; artwork not redrawn.",
+      "assets": {
+        "brandmark-source": {
+          "path": "assets/brand/nashville-backyards/brandmark-source.png",
+          "width": 743,
+          "height": 183
+        },
+        "brand-icon": {
+          "path": "assets/brand/nashville-backyards/brand-icon.png",
+          "width": 172,
+          "height": 89
+        },
+        "wordmark": {
+          "path": "assets/brand/nashville-backyards/wordmark.png",
+          "width": 266,
+          "height": 195
+        },
+        "favicon": {
+          "path": "assets/brand/nashville-backyards/favicon.png",
+          "width": 153,
+          "height": 154
+        },
+        "brandmark": {
+          "path": "assets/brand/nashville-backyards/brandmark.png",
+          "width": 743,
+          "height": 183
+        },
+        "brandmark-svg": {
+          "path": "assets/brand/nashville-backyards/brandmark.svg",
+          "width": 743,
+          "height": 183
+        }
+      }
+    },
+    {
+      "siteKey": "new-orleans-french-drain",
+      "brand": "New Orleans French Drain",
+      "sourceBoard": "New Orleans French Drain.jpeg",
+      "sourceSha256": "e7ba8c3e3c226ee9f7dacb6d5348e7c95e27aa23d0d0d56c01e4523dfa225875",
+      "sourceDimensions": [
+        1600,
+        900
+      ],
+      "method": "Deterministic crop from the approved brand board; near-white board background made transparent; artwork not redrawn.",
+      "assets": {
+        "brandmark-source": {
+          "path": "assets/brand/new-orleans-french-drain/brandmark-source.png",
+          "width": 723,
+          "height": 195
+        },
+        "brand-icon": {
+          "path": "assets/brand/new-orleans-french-drain/brand-icon.png",
+          "width": 270,
+          "height": 211
+        },
+        "wordmark": {
+          "path": "assets/brand/new-orleans-french-drain/wordmark.png",
+          "width": 323,
+          "height": 171
+        },
+        "favicon": {
+          "path": "assets/brand/new-orleans-french-drain/favicon.png",
+          "width": 169,
+          "height": 243
+        },
+        "brandmark": {
+          "path": "assets/brand/new-orleans-french-drain/brandmark.png",
+          "width": 723,
+          "height": 195
+        },
+        "brandmark-svg": {
+          "path": "assets/brand/new-orleans-french-drain/brandmark.svg",
+          "width": 723,
+          "height": 195
+        }
+      }
+    },
+    {
+      "siteKey": "pgh-painting-pros",
+      "brand": "PGH Painting Pros",
+      "sourceBoard": "PGH Painting Pros.jpeg",
+      "sourceSha256": "fc31c43177056c348c09227a054442368071f60fe6ccf53c7b242a0d074d0e69",
+      "sourceDimensions": [
+        1600,
+        900
+      ],
+      "method": "Deterministic crop from the approved brand board; near-white board background made transparent; artwork not redrawn.",
+      "assets": {
+        "brandmark-source": {
+          "path": "assets/brand/pgh-painting-pros/brandmark-source.png",
+          "width": 567,
+          "height": 254
+        },
+        "brand-icon": {
+          "path": "assets/brand/pgh-painting-pros/brand-icon.png",
+          "width": 212,
+          "height": 215
+        },
+        "wordmark": {
+          "path": "assets/brand/pgh-painting-pros/wordmark.png",
+          "width": 330,
+          "height": 215
+        },
+        "favicon": {
+          "path": "assets/brand/pgh-painting-pros/favicon.png",
+          "width": 170,
+          "height": 261
+        },
+        "brandmark": {
+          "path": "assets/brand/pgh-painting-pros/brandmark.png",
+          "width": 567,
+          "height": 254
+        },
+        "brandmark-svg": {
+          "path": "assets/brand/pgh-painting-pros/brandmark.svg",
+          "width": 567,
+          "height": 254
+        }
+      }
+    },
+    {
+      "siteKey": "pgh-pool-service",
+      "brand": "PGH Pool Service",
+      "sourceBoard": "PGH Pool Service.jpeg",
+      "sourceSha256": "2858bd54de5de6bc46678d9692b492f035b66530e037c6ae24598233744178b3",
+      "sourceDimensions": [
+        1600,
+        900
+      ],
+      "method": "Deterministic crop from the approved brand board; near-white board background made transparent; artwork not redrawn.",
+      "assets": {
+        "brandmark-source": {
+          "path": "assets/brand/pgh-pool-service/brandmark-source.png",
+          "width": 690,
+          "height": 229
+        },
+        "brand-icon": {
+          "path": "assets/brand/pgh-pool-service/brand-icon.png",
+          "width": 270,
+          "height": 215
+        },
+        "wordmark": {
+          "path": "assets/brand/pgh-pool-service/wordmark.png",
+          "width": 358,
+          "height": 215
+        },
+        "favicon": {
+          "path": "assets/brand/pgh-pool-service/favicon.png",
+          "width": 161,
+          "height": 246
+        },
+        "brandmark": {
+          "path": "assets/brand/pgh-pool-service/brandmark.png",
+          "width": 690,
+          "height": 229
+        },
+        "brandmark-svg": {
+          "path": "assets/brand/pgh-pool-service/brandmark.svg",
+          "width": 690,
+          "height": 229
+        }
+      }
+    },
+    {
+      "siteKey": "pittsburgh-french-drain",
+      "brand": "Pittsburgh French Drain",
+      "sourceBoard": "Pittsburgh French Drain.jpeg",
+      "sourceSha256": "eb93703412cd97d6222814927fbf616be8375a0e1f9f39798ac41eeb39415519",
+      "sourceDimensions": [
+        1600,
+        900
+      ],
+      "method": "Deterministic crop from the approved brand board; near-white board background made transparent; artwork not redrawn.",
+      "assets": {
+        "brandmark-source": {
+          "path": "assets/brand/pittsburgh-french-drain/brandmark-source.png",
+          "width": 356,
+          "height": 118
+        },
+        "brand-icon": {
+          "path": "assets/brand/pittsburgh-french-drain/brand-icon.png",
+          "width": 109,
+          "height": 152
+        },
+        "wordmark": {
+          "path": "assets/brand/pittsburgh-french-drain/wordmark.png",
+          "width": 213,
+          "height": 128
+        },
+        "favicon": {
+          "path": "assets/brand/pittsburgh-french-drain/favicon.png",
+          "width": 112,
+          "height": 143
+        },
+        "brandmark": {
+          "path": "assets/brand/pittsburgh-french-drain/brandmark.png",
+          "width": 356,
+          "height": 118
+        },
+        "brandmark-svg": {
+          "path": "assets/brand/pittsburgh-french-drain/brandmark.svg",
+          "width": 356,
+          "height": 118
+        }
+      }
+    },
+    {
+      "siteKey": "salt-lake-city-precision-walls",
+      "brand": "Salt Lake City Precision Walls",
+      "sourceBoard": "Salt Lake City Precision Walls.jpeg",
+      "sourceSha256": "0a95b8437491fea8e7fa17b9a2777fb9cbb4407c6a32d6d22685fa11106e270f",
+      "sourceDimensions": [
+        1600,
+        900
+      ],
+      "method": "Deterministic crop from the approved brand board; near-white board background made transparent; artwork not redrawn.",
+      "assets": {
+        "brandmark-source": {
+          "path": "assets/brand/salt-lake-city-precision-walls/brandmark-source.png",
+          "width": 651,
+          "height": 212
+        },
+        "brand-icon": {
+          "path": "assets/brand/salt-lake-city-precision-walls/brand-icon.png",
+          "width": 151,
+          "height": 224
+        },
+        "wordmark": {
+          "path": "assets/brand/salt-lake-city-precision-walls/wordmark.png",
+          "width": 337,
+          "height": 245
+        },
+        "favicon": {
+          "path": "assets/brand/salt-lake-city-precision-walls/favicon.png",
+          "width": 159,
+          "height": 213
+        },
+        "brandmark": {
+          "path": "assets/brand/salt-lake-city-precision-walls/brandmark.png",
+          "width": 651,
+          "height": 212
+        },
+        "brandmark-svg": {
+          "path": "assets/brand/salt-lake-city-precision-walls/brandmark.svg",
+          "width": 651,
+          "height": 212
+        }
+      }
+    },
+    {
+      "siteKey": "tulsa-drain-pros",
+      "brand": "Tulsa Drain Pros",
+      "sourceBoard": "Tulsa Drain PRos.jpeg",
+      "sourceSha256": "0f537ed68a88d760704b542e4d3e71b244efe137c1e6afe200fd9335f3fd8aa7",
+      "sourceDimensions": [
+        1536,
+        1024
+      ],
+      "method": "Deterministic crop from the approved brand board; near-white board background made transparent; artwork not redrawn.",
+      "assets": {
+        "brandmark-source": {
+          "path": "assets/brand/tulsa-drain-pros/brandmark-source.png",
+          "width": 492,
+          "height": 446
+        },
+        "brand-icon": {
+          "path": "assets/brand/tulsa-drain-pros/brand-icon.png",
+          "width": 176,
+          "height": 175
+        },
+        "wordmark": {
+          "path": "assets/brand/tulsa-drain-pros/wordmark.png",
+          "width": 358,
+          "height": 116
+        },
+        "favicon": {
+          "path": "assets/brand/tulsa-drain-pros/favicon.png",
+          "width": 170,
+          "height": 161
+        },
+        "brandmark": {
+          "path": "assets/brand/tulsa-drain-pros/brandmark.png",
+          "width": 492,
+          "height": 446
+        },
+        "header-lockup": {
+          "path": "assets/brand/tulsa-drain-pros/header-lockup.png",
+          "width": 547,
+          "height": 170
+        },
+        "brandmark-svg": {
+          "path": "assets/brand/tulsa-drain-pros/brandmark.svg",
+          "width": 547,
+          "height": 170
+        }
+      }
+    },
+    {
+      "siteKey": "ws-crawl-space",
+      "brand": "WS Crawl Space",
+      "sourceBoard": "WS Crawl Space.jpeg",
+      "sourceSha256": "07934584daf09868e203127ac487c519aeb83f3eb5eba784a7397c57f9eace8e",
+      "sourceDimensions": [
+        1600,
+        900
+      ],
+      "method": "Deterministic crop from the approved brand board; near-white board background made transparent; artwork not redrawn.",
+      "assets": {
+        "brandmark-source": {
+          "path": "assets/brand/ws-crawl-space/brandmark-source.png",
+          "width": 701,
+          "height": 232
+        },
+        "brand-icon": {
+          "path": "assets/brand/ws-crawl-space/brand-icon.png",
+          "width": 225,
+          "height": 275
+        },
+        "wordmark": {
+          "path": "assets/brand/ws-crawl-space/wordmark.png",
+          "width": 325,
+          "height": 241
+        },
+        "favicon": {
+          "path": "assets/brand/ws-crawl-space/favicon.png",
+          "width": 165,
+          "height": 248
+        },
+        "brandmark": {
+          "path": "assets/brand/ws-crawl-space/brandmark.png",
+          "width": 701,
+          "height": 232
+        },
+        "brandmark-svg": {
+          "path": "assets/brand/ws-crawl-space/brandmark.svg",
+          "width": 701,
+          "height": 232
+        }
+      }
+    }
+  ]
+}

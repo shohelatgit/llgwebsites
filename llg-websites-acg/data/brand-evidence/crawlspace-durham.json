@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "siteKey": "crawlspace-durham",
+  "sourceType": "brand-board-jpeg",
+  "sourceFile": "Crawlspace Durham.jpeg",
+  "sha256": "aa3daa9f2d5e60e6368dfb6d096f6f4c053a26bfcf0e9150ce238afc54cfb0cb",
+  "dimensions": {
+    "width": 1600,
+    "height": 900
+  },
+  "observations": [
+    "four printed brand colors",
+    "heading, body, and accent font roles",
+    "logo, wordmark, icon, and favicon examples"
+  ],
+  "confidence": "high",
+  "assetPolicy": "board is token evidence; website logo slots remain placeholders until source vector files are supplied"
+}

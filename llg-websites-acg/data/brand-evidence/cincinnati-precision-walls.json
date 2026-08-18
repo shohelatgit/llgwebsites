@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "siteKey": "cincinnati-precision-walls",
+  "sourceType": "brand-board-jpeg",
+  "sourceFile": "Cincinnati Precision Walls.jpeg",
+  "sha256": "714dbd097700c9b19a5ffbd97989406e109e00e631eff23b81e52e989ca28560",
+  "dimensions": {
+    "width": 1600,
+    "height": 900
+  },
+  "observations": [
+    "four printed brand colors",
+    "heading, body, and accent font roles",
+    "logo, wordmark, icon, and favicon examples"
+  ],
+  "confidence": "high",
+  "assetPolicy": "board is token evidence; website logo slots remain placeholders until source vector files are supplied"
+}

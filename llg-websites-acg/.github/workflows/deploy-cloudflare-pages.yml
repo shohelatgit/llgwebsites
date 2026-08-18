@@ -1,0 +1,108 @@
+name: Deploy Cloudflare Pages
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+    inputs:
+      site:
+        description: Site key/project name, or "all"
+        required: true
+        default: all
+        type: string
+
+permissions:
+  contents: read
+  deployments: write
+
+jobs:
+  prepare:
+    name: Select changed sites
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.sites.outputs.matrix }}
+      count: ${{ steps.sites.outputs.count }}
+      credentials-ready: ${{ steps.credentials.outputs.ready }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Select deployable site directories
+        id: sites
+        env:
+          BASE_SHA: ${{ github.event.before }}
+          HEAD_SHA: ${{ github.sha }}
+          REQUESTED_SITE: ${{ github.event_name == 'workflow_dispatch' && inputs.site || 'changed' }}
+        run: node tools/select-deploy-sites.mjs --base "$BASE_SHA" --head "$HEAD_SHA" --site "$REQUESTED_SITE"
+
+      - name: Check Cloudflare credentials
+        id: credentials
+        env:
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        shell: bash
+        run: |
+          if [[ -n "$CLOUDFLARE_ACCOUNT_ID" && -n "$CLOUDFLARE_API_TOKEN" ]]; then
+            echo "ready=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "ready=false" >> "$GITHUB_OUTPUT"
+            echo "::warning::Add CLOUDFLARE_ACCOUNT_ID and CLOUDFLARE_API_TOKEN as repository Actions secrets to enable automatic deployment."
+          fi
+
+  credentials-notice:
+    name: Cloudflare credential notice
+    needs: prepare
+    if: needs.prepare.outputs.count != '0' && needs.prepare.outputs.credentials-ready != 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Explain the skipped deployment
+        run: echo "Site validation can continue, but Cloudflare deployment is skipped until the two repository Actions secrets are configured."
+
+  deploy:
+    name: Deploy ${{ matrix.brand }}
+    needs: prepare
+    if: needs.prepare.outputs.count != '0' && needs.prepare.outputs.credentials-ready == 'true'
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      max-parallel: 4
+      matrix: ${{ fromJSON(needs.prepare.outputs.matrix) }}
+    concurrency:
+      group: cloudflare-pages-${{ matrix.project }}
+      cancel-in-progress: true
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - name: Deploy the changed site
+        id: deploy
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+          wranglerVersion: "4.120.0"
+          command: >-
+            pages deploy ${{ matrix.directory }}
+            --project-name=${{ matrix.project }}
+            --branch=clone-rebuild
+            --commit-hash=${{ github.sha }}
+
+      - name: Verify the stable review URL
+        env:
+          REVIEW_URL: https://clone-rebuild.${{ matrix.project }}.pages.dev/
+        shell: bash
+        run: |
+          for attempt in {1..12}; do
+            status="$(curl --location --silent --show-error --output page.html --write-out '%{http_code}' "$REVIEW_URL" || true)"
+            if [[ "$status" == "200" ]] && grep --ignore-case --quiet 'noindex' page.html; then
+              echo "$REVIEW_URL is live and remains noindex."
+              exit 0
+            fi
+            sleep 5
+          done
+          echo "The stable review URL did not pass its post-deploy check: $REVIEW_URL"
+          exit 1

@@ -1,0 +1,40 @@
+/* Target substitutions layered over the adopted clone stylesheet. */
+:root { --target-accent: #6B7280; --target-ink: #101820; }
+html { scroll-behavior: smooth; overflow-x: hidden; }
+body { overflow-x: hidden; font-family: 'DM Sans', Arial, Helvetica, sans-serif; }
+img { max-width: 100%; height: auto; }
+a, button, input, select, textarea, summary { outline-offset: 4px; }
+:focus-visible { outline: 3px solid var(--target-accent) !important; box-shadow: 0 0 0 3px #fff !important; }
+.clone-skip { position: fixed; z-index: 2147483647; left: 1rem; top: -5rem; background: #fff; color: #111; padding: .75rem 1rem; font-weight: 800; }
+.clone-skip:focus { top: 1rem; }
+.clone-wordmark { display: inline-flex; align-items: center; min-width: 180px; max-width: 260px; }
+.clone-wordmark img { display: block; width: 100%; height: auto; }
+header .elementor-widget-image { overflow: visible !important; transform: none !important; }
+header img[src$="brandmark.svg"] { display: block !important; width: 100% !important; max-width: 260px !important; height: auto !important; margin: 0 auto !important; object-fit: contain !important; object-position: center !important; transform: none !important; clip-path: none !important; }
+.clone-field-label { display: block; margin: 0 0 .35rem; color: inherit; font: 700 .8rem/1.2 'DM Sans', Arial, Helvetica, sans-serif; }
+.clone-staging-notice { width: 100%; margin: 0 0 .75rem; padding: .65rem .8rem; border: 1px solid currentColor; border-radius: .25rem; font: 600 .78rem/1.35 'DM Sans', Arial, Helvetica, sans-serif; }
+.llg-review-section { padding: clamp(3.5rem, 7vw, 6.5rem) 1rem; background: #f7f7f5; color: #101820; }
+.llg-review-inner { width: min(76rem, 100%); margin: 0 auto; }
+.llg-review-eyebrow { margin: 0 0 .65rem; color: var(--target-accent); font: 800 .78rem/1.2 'DM Sans', Arial, Helvetica, sans-serif; letter-spacing: .14em; text-transform: uppercase; }
+.llg-review-section h2 { margin: 0 0 1.5rem; font-size: clamp(2rem, 5vw, 4rem); line-height: 1; }
+.llg-review-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1rem; }
+.llg-review-card { margin: 0; padding: clamp(1.25rem, 2vw, 2rem); border-top: 4px solid var(--target-accent); background: #fff; box-shadow: 0 14px 34px rgba(16,24,32,.10); }
+.llg-review-card p { margin: 0 0 1.25rem; font-size: 1rem; line-height: 1.65; }
+.llg-review-card footer { font-weight: 800; }
+.hero, [class*="hero"], [class*="Hero"] { --target-hero-image: url("media/representative-1.webp"); }
+.hero { background-image: linear-gradient(90deg, rgba(7,18,29,.72), rgba(7,18,29,.2)), var(--target-hero-image); background-size: cover; background-position: center; }
+[class*="cookie"], [id*="cookie"], [class*="chat"], [id*="chat"], [class*="popup"], [class*="Popup"], iframe { display: none !important; }
+[id^="cd-"] { font-size: 0 !important; color: transparent !important; }
+[id^="cd-"]::after { content: "--"; font-size: 1rem; color: #101820; }
+[class*="testimonial"] svg, [class*="rating"] svg, [class*="reviews"] svg { visibility: hidden !important; }
+form input, form select, form textarea, form button { min-height: 44px; }
+form textarea { min-height: 96px; }
+@media (max-width: 767px) {
+  .clone-wordmark { min-width: 130px; max-width: 190px; }
+  body { min-width: 0; }
+  h1 { overflow-wrap: anywhere; }
+  .llg-review-grid { grid-template-columns: 1fr; }
+}
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { scroll-behavior: auto !important; animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; }
+}

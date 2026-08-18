@@ -1,0 +1,26 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "llg-lead-router-production",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-08-08",
+  "compatibility_flags": ["nodejs_compat"],
+  "workers_dev": false,
+  "preview_urls": false,
+  "vars": {
+    "MODE": "production",
+    "EMAIL_ENABLED": "true",
+    "DEFAULT_SENDER": "",
+    "TURNSTILE_EXPECTED_ACTION": "lead_submit"
+  },
+  "d1_databases": [{ "binding": "DB", "database_name": "llg-lead-router-production", "database_id": "REPLACE_WITH_PRODUCTION_D1_ID", "migrations_dir": "migrations" }],
+  "queues": {
+    "producers": [{ "binding": "LEAD_QUEUE", "queue": "llg-leads-production" }],
+    "consumers": [{ "queue": "llg-leads-production", "dead_letter_queue": "llg-leads-production-dlq", "max_batch_size": 10, "max_batch_timeout": 5, "max_retries": 5, "retry_delay": 60 }]
+  },
+  "send_email": [{ "name": "EMAIL" }],
+  "observability": {
+    "enabled": true,
+    "logs": { "head_sampling_rate": 1 },
+    "traces": { "enabled": true, "head_sampling_rate": 0.05 }
+  }
+}

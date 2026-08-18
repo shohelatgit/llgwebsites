@@ -1,0 +1,21 @@
+{
+  "name": "llg-site-factory-review",
+  "private": true,
+  "scripts": {
+    "cloudflare:build-review": "node scripts/build-cloudflare-review.js",
+    "cloudflare:deploy-review": "wrangler pages deploy out/cloudflare-review --project-name=aryo-cg-preview --branch=llg-site-factory-review --commit-dirty=true",
+    "cloudflare:prepare-sites": "node scripts/worker-site-manifest.js",
+    "cloudflare:deploy-sites": "node scripts/deploy-worker-sites.js",
+    "cloudflare:verify-sites": "node scripts/verify-worker-sites.js",
+    "cloudflare:build-site-index": "node scripts/build-worker-site-index.js",
+    "cloudflare:deploy-index": "wrangler deploy --name llg-site-review-index --assets out/worker-site-index --compatibility-date 2026-08-17",
+    "factory:validate": "node scripts/validate-factory-release.js",
+    "factory:validate-source": "node scripts/verify-source-sanitization.js",
+    "factory:validate-production": "node scripts/verify-production-worker.mjs",
+    "cloudflare:whoami": "wrangler whoami",
+    "cloudflare:projects": "wrangler pages project list --json"
+  },
+  "devDependencies": {
+    "wrangler": "^4.123.0"
+  }
+}

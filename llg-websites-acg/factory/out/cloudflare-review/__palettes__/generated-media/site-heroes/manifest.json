@@ -1,0 +1,1466 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-16T14:44:39.492893+00:00",
+  "purpose": "One decorative localhost hero candidate per site with downloaded existing-media intake.",
+  "assetCount": 35,
+  "coveredSiteCount": 75,
+  "assets": {
+    "PULLED-HERO-E23B2389247595B1": {
+      "assetKey": "PULLED-HERO-E23B2389247595B1",
+      "sourceAssetKey": "PULL-E23B2389247595B1",
+      "niche": "Drainage & French Drains",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/e23b2389247595b1fa7835926de9a8a9e94d219c12688f255b25e4a8d2fac737.webp",
+      "localSourcePath": "outputs/media-library/objects/e2/e23b2389247595b1fa7835926de9a8a9e94d219c12688f255b25e4a8d2fac737.jpg",
+      "localWebPath": "review/homepage-palettes/generated-media/site-heroes/web/e23b2389247595b1fa7835926de9a8a9e94d219c12688f255b25e4a8d2fac737.webp",
+      "byteLength": 281494,
+      "sha256": "b7d32ec929856d89ae2b94011d9286ab28ba381bcd7dd9ac1cc91a6a88b38254",
+      "width": 3200,
+      "height": 1800,
+      "siteSourceIds": [
+        "LLG-DRAINSCAPE",
+        "LOC-002",
+        "LOC-003",
+        "LOC-006",
+        "LOC-007",
+        "LOC-008",
+        "LOC-011",
+        "LOC-013",
+        "LOC-020",
+        "LOC-026",
+        "LOC-031",
+        "LOC-034",
+        "LOC-041",
+        "LOC-046",
+        "LOC-047"
+      ]
+    },
+    "PULLED-HERO-390DDEB5B461436D": {
+      "assetKey": "PULLED-HERO-390DDEB5B461436D",
+      "sourceAssetKey": "PULL-390DDEB5B461436D",
+      "niche": "Landscaping & Lawn Care",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/390ddeb5b461436d982dcdbd0bb2b7bd2c59900312182aa85201c8297c15301f.webp",
+      "localSourcePath": "outputs/media-library/objects/39/390ddeb5b461436d982dcdbd0bb2b7bd2c59900312182aa85201c8297c15301f.jpg",
+      "localWebPath": "review/homepage-palettes/generated-media/site-heroes/web/390ddeb5b461436d982dcdbd0bb2b7bd2c59900312182aa85201c8297c15301f.webp",
+      "byteLength": 112514,
+      "sha256": "f317576a55d52741951791b8a7136b5ea7fcaff97575397293d766e60da26403",
+      "width": 2000,
+      "height": 1500,
+      "siteSourceIds": [
+        "LOC-001"
+      ]
+    },
+    "PULLED-HERO-2F304BDE80759C08": {
+      "assetKey": "PULLED-HERO-2F304BDE80759C08",
+      "sourceAssetKey": "PULL-2F304BDE80759C08",
+      "niche": "Drainage & French Drains",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/2f304bde80759c086f590eabfa73d423792edef7b8ee712eed2b44b64a04a313.webp",
+      "localSourcePath": "outputs/media-library/objects/2f/2f304bde80759c086f590eabfa73d423792edef7b8ee712eed2b44b64a04a313.webp",
+      "localWebPath": "review/homepage-palettes/generated-media/site-heroes/web/2f304bde80759c086f590eabfa73d423792edef7b8ee712eed2b44b64a04a313.webp",
+      "byteLength": 292736,
+      "sha256": "1f7a1f5e683b7d44e38d4ada1ba70dcf3865f0a3b4a7221bb6e96a9133a4608b",
+      "width": 1536,
+      "height": 1024,
+      "siteSourceIds": [
+        "LOC-012"
+      ]
+    },
+    "PULLED-HERO-848512F1E9272784": {
+      "assetKey": "PULLED-HERO-848512F1E9272784",
+      "sourceAssetKey": "PULL-848512F1E9272784",
+      "niche": "Drainage & French Drains",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/848512f1e92727845e8f4c5039c5fec01a0465b805dd80d6f7988dc270a45d8a.webp",
+      "localSourcePath": "outputs/media-library/objects/84/848512f1e92727845e8f4c5039c5fec01a0465b805dd80d6f7988dc270a45d8a.jpg",
+      "localWebPath": "review/homepage-palettes/generated-media/site-heroes/web/848512f1e92727845e8f4c5039c5fec01a0465b805dd80d6f7988dc270a45d8a.webp",
+      "byteLength": 214398,
+      "sha256": "030a0844e7ab3a65567fba76767008a3cfa25693fa2622e19baf1448fee46674",
+      "width": 1920,
+      "height": 1280,
+      "siteSourceIds": [
+        "LOC-014",
+        "LOC-016",
+        "LOC-017",
+        "LOC-018",
+        "LOC-021",
+        "LOC-022",
+        "LOC-024",
+        "LOC-028",
+        "LOC-032",
+        "LOC-035",
+        "LOC-036",
+        "LOC-039",
+        "LOC-043"
+      ]
+    },
+    "PULLED-HERO-E9BA25FBFC0A8816": {
+      "assetKey": "PULLED-HERO-E9BA25FBFC0A8816",
+      "sourceAssetKey": "PULL-E9BA25FBFC0A8816",
+      "niche": "Drainage & French Drains",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/e9ba25fbfc0a88164057ffbd81b3b87a66f03cb572256edfbd8b4949114219f6.webp",
+      "localSourcePath": "outputs/media-library/objects/e9/e9ba25fbfc0a88164057ffbd81b3b87a66f03cb572256edfbd8b4949114219f6.webp",
+      "localWebPath": "review/homepage-palettes/generated-media/site-heroes/web/e9ba25fbfc0a88164057ffbd81b3b87a66f03cb572256edfbd8b4949114219f6.webp",
+      "byteLength": 23944,
+      "sha256": "55bb943ce57dc7bb1e6b7657e855b22c0bb4bb0a32b7ea457df1e604be476de0",
+      "width": 640,
+      "height": 215,
+      "siteSourceIds": [
+        "LOC-019"
+      ]
+    },
+    "PULLED-HERO-02F1FC9B2C633022": {
+      "assetKey": "PULLED-HERO-02F1FC9B2C633022",
+      "sourceAssetKey": "PULL-02F1FC9B2C633022",
+      "niche": "Drainage & French Drains",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/02f1fc9b2c6330225c091f7d8bbceeff361d99fdec2303c362bff9c72a416580.webp",
+      "localSourcePath": "outputs/media-library/objects/02/02f1fc9b2c6330225c091f7d8bbceeff361d99fdec2303c362bff9c72a416580.webp",
+      "localWebPath": "review/homepage-palettes/generated-media/site-heroes/web/02f1fc9b2c6330225c091f7d8bbceeff361d99fdec2303c362bff9c72a416580.webp",
+      "byteLength": 407890,
+      "sha256": "860a46914f964c886aa8fedbf38beaa09ebb65d96b4b4fd8e43f3e4a98c67f43",
+      "width": 1600,
+      "height": 1000,
+      "siteSourceIds": [
+        "LOC-025"
+      ]
+    },
+    "PULLED-HERO-2DDDB0D4099E1F7C": {
+      "assetKey": "PULLED-HERO-2DDDB0D4099E1F7C",
+      "sourceAssetKey": "PULL-2DDDB0D4099E1F7C",
+      "niche": "Drainage & French Drains",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/2dddb0d4099e1f7c78c2b6583f8c291175660aee299e4420c5b4761960349b2d.webp",
+      "localSourcePath": "outputs/media-library/objects/2d/2dddb0d4099e1f7c78c2b6583f8c291175660aee299e4420c5b4761960349b2d.webp",
+      "localWebPath": "review/homepage-palettes/generated-media/site-heroes/web/2dddb0d4099e1f7c78c2b6583f8c291175660aee299e4420c5b4761960349b2d.webp",
+      "byteLength": 771402,
+      "sha256": "de13bcb4dd47693894d479c06e88da8ed3881c9270a1a197d579120f47cad7ee",
+      "width": 1920,
+      "height": 1440,
+      "siteSourceIds": [
+        "LOC-027"
+      ]
+    },
+    "PULLED-HERO-375ED54F86ECA457": {
+      "assetKey": "PULLED-HERO-375ED54F86ECA457",
+      "sourceAssetKey": "PULL-375ED54F86ECA457",
+      "niche": "Drainage & French Drains",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/375ed54f86eca45771c7d5eecb6b7a3c104b7ccc6900741ff9331a42399d1942.webp",
+      "localSourcePath": "outputs/media-library/objects/37/375ed54f86eca45771c7d5eecb6b7a3c104b7ccc6900741ff9331a42399d1942.jpg",
+      "localWebPath": "review/homepage-palettes/generated-media/site-heroes/web/375ed54f86eca45771c7d5eecb6b7a3c104b7ccc6900741ff9331a42399d1942.webp",
+      "byteLength": 768264,
+      "sha256": "9b712733075de4200b6849ee4141bcea754d36f426bb01c73776ee52092fd7e5",
+      "width": 2880,
+      "height": 2160,
+      "siteSourceIds": [
+        "LOC-029",
+        "LOC-030",
+        "LOC-033"
+      ]
+    },
+    "PULLED-HERO-CB85371F3C8D0C4B": {
+      "assetKey": "PULLED-HERO-CB85371F3C8D0C4B",
+      "sourceAssetKey": "PULL-CB85371F3C8D0C4B",
+      "niche": "Drainage & French Drains",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/cb85371f3c8d0c4b5d4b3f7a473a00a37142f2bf837791bdedc7ba47fbbb7c10.webp",
+      "localSourcePath": "outputs/media-library/objects/cb/cb85371f3c8d0c4b5d4b3f7a473a00a37142f2bf837791bdedc7ba47fbbb7c10.png",
+      "localWebPath": "review/homepage-palettes/generated-media/site-heroes/web/cb85371f3c8d0c4b5d4b3f7a473a00a37142f2bf837791bdedc7ba47fbbb7c10.webp",
+      "byteLength": 213820,
+      "sha256": "9464ce88da9983de11a145f219414e0e928541752b1bb3104ae3bbe0bf89010c",
+      "width": 1536,
+      "height": 1024,
+      "siteSourceIds": [
+        "LOC-038"
+      ]
+    },
+    "PULLED-HERO-3B45D5A9EB0F5A8E": {
+      "assetKey": "PULLED-HERO-3B45D5A9EB0F5A8E",
+      "sourceAssetKey": "PULL-3B45D5A9EB0F5A8E",
+      "niche": "Drainage & French Drains",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/3b45d5a9eb0f5a8e910422c45b67bc3d3d91c57021ac5fee4f2194a9a24302a7.webp",
+      "localSourcePath": "outputs/media-library/objects/3b/3b45d5a9eb0f5a8e910422c45b67bc3d3d91c57021ac5fee4f2194a9a24302a7.webp",
+      "localWebPath": "review/homepage-palettes/generated-media/site-heroes/web/3b45d5a9eb0f5a8e910422c45b67bc3d3d91c57021ac5fee4f2194a9a24302a7.webp",
+      "byteLength": 263000,
+      "sha256": "59f3539e9f493b9c20f56b7bf8b4ff9bac3f1597f0c20f3ba73f6330054ac718",
+      "width": 1672,
+      "height": 941,
+      "siteSourceIds": [
+        "LOC-042"
+      ]
+    },
+    "PULLED-HERO-E9C13C3F85708D5B": {
+      "assetKey": "PULLED-HERO-E9C13C3F85708D5B",
+      "sourceAssetKey": "PULL-E9C13C3F85708D5B",
+      "niche": "Drainage & French Drains",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/e9c13c3f85708d5bc52774fb8488bd339ebf369cac915e8a7851f4cf700cc9a6.webp",
+      "localSourcePath": "outputs/media-library/objects/e9/e9c13c3f85708d5bc52774fb8488bd339ebf369cac915e8a7851f4cf700cc9a6.webp",
+      "localWebPath": "review/homepage-palettes/generated-media/site-heroes/web/e9c13c3f85708d5bc52774fb8488bd339ebf369cac915e8a7851f4cf700cc9a6.webp",
+      "byteLength": 204162,
+      "sha256": "09ce1aebed0d545785fe3599805fce5c39256285f2643b2b51d0b45636599701",
+      "width": 1800,
+      "height": 1200,
+      "siteSourceIds": [
+        "LOC-044"
+      ]
+    },
+    "PULLED-HERO-49E9F2AD454A10EC": {
+      "assetKey": "PULLED-HERO-49E9F2AD454A10EC",
+      "sourceAssetKey": "PULL-49E9F2AD454A10EC",
+      "niche": "Drainage & French Drains",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/49e9f2ad454a10eccc0cf24be52d0d1cba70cc77c23745735f89c417479a38bc.webp",
+      "localSourcePath": "outputs/media-library/objects/49/49e9f2ad454a10eccc0cf24be52d0d1cba70cc77c23745735f89c417479a38bc.jpg",
+      "localWebPath": "review/homepage-palettes/generated-media/site-heroes/web/49e9f2ad454a10eccc0cf24be52d0d1cba70cc77c23745735f89c417479a38bc.webp",
+      "byteLength": 418484,
+      "sha256": "05a5e362dbf6ec78a86c0e4720eecdc9b4b8cd6e7d8063c1903a4e7b0b58ced3",
+      "width": 1920,
+      "height": 1280,
+      "siteSourceIds": [
+        "LOC-045"
+      ]
+    },
+    "PULLED-HERO-5CFD0B5F24DDEF76": {
+      "assetKey": "PULLED-HERO-5CFD0B5F24DDEF76",
+      "sourceAssetKey": "PULL-5CFD0B5F24DDEF76",
+      "niche": "Drainage & French Drains",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/5cfd0b5f24ddef76959f9e62700a01198f904b20f6da25217a344618d9e01e66.webp",
+      "localSourcePath": "outputs/media-library/objects/5c/5cfd0b5f24ddef76959f9e62700a01198f904b20f6da25217a344618d9e01e66.jpg",
+      "localWebPath": "review/homepage-palettes/generated-media/site-heroes/web/5cfd0b5f24ddef76959f9e62700a01198f904b20f6da25217a344618d9e01e66.webp",
+      "byteLength": 385728,
+      "sha256": "f42873935da98ca3fd4a229d0071366e083abb4241f9ca8ef20939700ff1193b",
+      "width": 1885,
+      "height": 1257,
+      "siteSourceIds": [
+        "LOC-048"
+      ]
+    },
+    "PULLED-HERO-132204114B676197": {
+      "assetKey": "PULLED-HERO-132204114B676197",
+      "sourceAssetKey": "PULL-132204114B676197",
+      "niche": "Concrete & Pavers",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/132204114b6761974370cf1bf798d288432d9364d54e6ff88982378f7892ed02.webp",
+      "localSourcePath": "outputs/media-library/objects/13/132204114b6761974370cf1bf798d288432d9364d54e6ff88982378f7892ed02.jpg",
+      "localWebPath": "review/homepage-palettes/generated-media/site-heroes/web/132204114b6761974370cf1bf798d288432d9364d54e6ff88982378f7892ed02.webp",
+      "byteLength": 336880,
+      "sha256": "4cdd9560b5af16b1f920ad4a98a88ba1d0b32d6db8c2149457361dd802221f2c",
+      "width": 2880,
+      "height": 2160,
+      "siteSourceIds": [
+        "LOC-049"
+      ]
+    },
+    "PULLED-HERO-292882C6697BB8C8": {
+      "assetKey": "PULLED-HERO-292882C6697BB8C8",
+      "sourceAssetKey": "PULL-292882C6697BB8C8",
+      "niche": "Retaining Walls",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/292882c6697bb8c8c44e5a7d196db7e355758136a315ed7c278e21a2663b1bf6.webp",
+      "localSourcePath": "outputs/media-library/objects/29/292882c6697bb8c8c44e5a7d196db7e355758136a315ed7c278e21a2663b1bf6.jpg",
+      "localWebPath": "review/homepage-palettes/generated-media/site-heroes/web/292882c6697bb8c8c44e5a7d196db7e355758136a315ed7c278e21a2663b1bf6.webp",
+      "byteLength": 440732,
+      "sha256": "da0325d5a9226f5bfd89c53b54460bbdeb35ba66ec06d62d20dddf9bd05a1964",
+      "width": 1600,
+      "height": 1200,
+      "siteSourceIds": [
+        "LOC-051",
+        "LOC-053",
+        "LOC-056",
+        "LOC-058",
+        "LOC-060"
+      ]
+    },
+    "PULLED-HERO-462F870A02BA31F8": {
+      "assetKey": "PULLED-HERO-462F870A02BA31F8",
+      "sourceAssetKey": "PULL-462F870A02BA31F8",
+      "niche": "Retaining Walls",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/462f870a02ba31f8a5a54e3926555899a3ca93eb907f9469a6c15dd4061e7886.webp",
+      "localSourcePath": "outputs/media-library/objects/46/462f870a02ba31f8a5a54e3926555899a3ca93eb907f9469a6c15dd4061e7886.jpg",
+      "localWebPath": "review/homepage-palettes/generated-media/site-heroes/web/462f870a02ba31f8a5a54e3926555899a3ca93eb907f9469a6c15dd4061e7886.webp",
+      "byteLength": 494142,
+      "sha256": "1f46e94a18b3b5d511c7ac0b0047e6c22947dbb80a1c13170728f797a52df210",
+      "width": 1824,
+      "height": 1368,
+      "siteSourceIds": [
+        "LOC-052",
+        "LOC-054",
+        "LOC-061",
+        "LOC-062"
+      ]
+    },
+    "PULLED-HERO-1F543201E803765D": {
+      "assetKey": "PULLED-HERO-1F543201E803765D",
+      "sourceAssetKey": "PULL-1F543201E803765D",
+      "niche": "Retaining Walls",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/1f543201e803765de8dec7407a037931dd09b16e43e0d0496148a105cb753e22.webp",
+      "localSourcePath": "outputs/media-library/objects/1f/1f543201e803765de8dec7407a037931dd09b16e43e0d0496148a105cb753e22.jpg",
+      "localWebPath": "review/homepage-palettes/generated-media/site-heroes/web/1f543201e803765de8dec7407a037931dd09b16e43e0d0496148a105cb753e22.webp",
+      "byteLength": 740458,
+      "sha256": "c5c7484a0fa6f1978241a4d3913f41c4871dfc03bbc069758d785e59ab92c5cc",
+      "width": 1368,
+      "height": 1824,
+      "siteSourceIds": [
+        "LOC-055"
+      ]
+    },
+    "PULLED-HERO-170F9D50EB4DD6C9": {
+      "assetKey": "PULLED-HERO-170F9D50EB4DD6C9",
+      "sourceAssetKey": "PULL-170F9D50EB4DD6C9",
+      "niche": "Concrete & Pavers",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/170f9d50eb4dd6c9d6821a87327e9888f6d16e691202ef2ee09ad49032c20ac6.webp",
+      "localSourcePath": "outputs/media-library/objects/17/170f9d50eb4dd6c9d6821a87327e9888f6d16e691202ef2ee09ad49032c20ac6.webp",
+      "localWebPath": "review/homepage-palettes/generated-media/site-heroes/web/170f9d50eb4dd6c9d6821a87327e9888f6d16e691202ef2ee09ad49032c20ac6.webp",
+      "byteLength": 40350,
+      "sha256": "939460ba76eb9e1d652eaf1359916ea525d05c60034594d90a1ec3d7d2adae6e",
+      "width": 670,
+      "height": 391,
+      "siteSourceIds": [
+        "LOC-059"
+      ]
+    },
+    "PULLED-HERO-15B4A5D98ACD9F6B": {
+      "assetKey": "PULLED-HERO-15B4A5D98ACD9F6B",
+      "sourceAssetKey": "PULL-15B4A5D98ACD9F6B",
+      "niche": "Decks & Patios",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/15b4a5d98acd9f6b39584e2158e9c74538e12fa7c186680e91224c71b62dc6bf.webp",
+      "localSourcePath": "outputs/media-library/objects/15/15b4a5d98acd9f6b39584e2158e9c74538e12fa7c186680e91224c71b62dc6bf.jpg",
+      "localWebPath": "review/homepage-palettes/generated-media/site-heroes/web/15b4a5d98acd9f6b39584e2158e9c74538e12fa7c186680e91224c71b62dc6bf.webp",
+      "byteLength": 440704,
+      "sha256": "2479f77893745beb71644634a462549f0d15d6aef20f1bc0cd22046a36bc3ae1",
+      "width": 1920,
+      "height": 1080,
+      "siteSourceIds": [
+        "LOC-063"
+      ]
+    },
+    "PULLED-HERO-1F7A405CE80C8BFD": {
+      "assetKey": "PULLED-HERO-1F7A405CE80C8BFD",
+      "sourceAssetKey": "PULL-1F7A405CE80C8BFD",
+      "niche": "Decks & Patios",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/1f7a405ce80c8bfdd0d278f9c27c7efd80cb02229613fc65097881938e937858.webp",
+      "localSourcePath": "outputs/media-library/objects/1f/1f7a405ce80c8bfdd0d278f9c27c7efd80cb02229613fc65097881938e937858.jpg",
+      "localWebPath": "review/homepage-palettes/generated-media/site-heroes/web/1f7a405ce80c8bfdd0d278f9c27c7efd80cb02229613fc65097881938e937858.webp",
+      "byteLength": 130442,
+      "sha256": "64c349149a81e07b5981e819de9dae3cbf667ac9b0ec82b572016b6c3cc4f612",
+      "width": 1024,
+      "height": 768,
+      "siteSourceIds": [
+        "LOC-064"
+      ]
+    },
+    "PULLED-HERO-919098F52AE2E48E": {
+      "assetKey": "PULLED-HERO-919098F52AE2E48E",
+      "sourceAssetKey": "PULL-919098F52AE2E48E",
+      "niche": "Decks & Patios",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/919098f52ae2e48e71e6656aaf27e08ddc9e983e9fe20ba182788020ee8635e8.webp",
+      "localSourcePath": "outputs/media-library/objects/91/919098f52ae2e48e71e6656aaf27e08ddc9e983e9fe20ba182788020ee8635e8.jpg",
+      "localWebPath": "review/homepage-palettes/generated-media/site-heroes/web/919098f52ae2e48e71e6656aaf27e08ddc9e983e9fe20ba182788020ee8635e8.webp",
+      "byteLength": 143998,
+      "sha256": "ab248d16fefdb13897a0b38da899924b259923624ec4c55469fb82805f102825",
+      "width": 1920,
+      "height": 1080,
+      "siteSourceIds": [
+        "LOC-065"
+      ]
+    },
+    "PULLED-HERO-2E648C573DAF67DA": {
+      "assetKey": "PULLED-HERO-2E648C573DAF67DA",
+      "sourceAssetKey": "PULL-2E648C573DAF67DA",
+      "niche": "Decks & Patios",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/2e648c573daf67da742b8a326090f215bce19788c5cb8b05779cf9b5be1fb265.webp",
+      "localSourcePath": "outputs/media-library/objects/2e/2e648c573daf67da742b8a326090f215bce19788c5cb8b05779cf9b5be1fb265.webp",
+      "localWebPath": "review/homepage-palettes/generated-media/site-heroes/web/2e648c573daf67da742b8a326090f215bce19788c5cb8b05779cf9b5be1fb265.webp",
+      "byteLength": 14462,
+      "sha256": "5da58523c78b3dd7f8438b36c2a909994a516f75b6ab10f622f8696cf50b6039",
+      "width": 640,
+      "height": 215,
+      "siteSourceIds": [
+        "LOC-066",
+        "LOC-067"
+      ]
+    },
+    "PULLED-HERO-CA1AF9BCCD76696B": {
+      "assetKey": "PULLED-HERO-CA1AF9BCCD76696B",
+      "sourceAssetKey": "PULL-CA1AF9BCCD76696B",
+      "niche": "Crawlspace",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/ca1af9bccd76696bacc7865c6a7897c594bb5e6db76066113178ec85b49022b2.webp",
+      "localSourcePath": "outputs/media-library/objects/ca/ca1af9bccd76696bacc7865c6a7897c594bb5e6db76066113178ec85b49022b2.webp",
+      "localWebPath": "review/homepage-palettes/generated-media/site-heroes/web/ca1af9bccd76696bacc7865c6a7897c594bb5e6db76066113178ec85b49022b2.webp",
+      "byteLength": 70920,
+      "sha256": "bbf1bfb0cd9f9a42e53f2959470553d725232147d02112ced4eb619dae646262",
+      "width": 640,
+      "height": 425,
+      "siteSourceIds": [
+        "LOC-071",
+        "LOC-078"
+      ]
+    },
+    "PULLED-HERO-C666F420D2F1C121": {
+      "assetKey": "PULLED-HERO-C666F420D2F1C121",
+      "sourceAssetKey": "PULL-C666F420D2F1C121",
+      "niche": "Crawlspace",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/c666f420d2f1c121fb8b6f0228faac945bf52f1d264ca1c1ebf7c9c2878b89ac.webp",
+      "localSourcePath": "outputs/media-library/objects/c6/c666f420d2f1c121fb8b6f0228faac945bf52f1d264ca1c1ebf7c9c2878b89ac.webp",
+      "localWebPath": "review/homepage-palettes/generated-media/site-heroes/web/c666f420d2f1c121fb8b6f0228faac945bf52f1d264ca1c1ebf7c9c2878b89ac.webp",
+      "byteLength": 40046,
+      "sha256": "9f21195d8e887d7b185ce53336dfff096b192e3eedc40a13bd4f62c0443840ce",
+      "width": 640,
+      "height": 427,
+      "siteSourceIds": [
+        "LOC-072",
+        "LOC-073",
+        "LOC-074",
+        "LOC-075"
+      ]
+    },
+    "PULLED-HERO-BFB1B01BB8D41280": {
+      "assetKey": "PULLED-HERO-BFB1B01BB8D41280",
+      "sourceAssetKey": "PULL-BFB1B01BB8D41280",
+      "niche": "Crawlspace",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/bfb1b01bb8d412807d41d3f1fa5129a3bd0f59ff6fd4e54d6bd28e2fbab2b3dc.webp",
+      "localSourcePath": "outputs/media-library/objects/bf/bfb1b01bb8d412807d41d3f1fa5129a3bd0f59ff6fd4e54d6bd28e2fbab2b3dc.jpg",
+      "localWebPath": "review/homepage-palettes/generated-media/site-heroes/web/bfb1b01bb8d412807d41d3f1fa5129a3bd0f59ff6fd4e54d6bd28e2fbab2b3dc.webp",
+      "byteLength": 760962,
+      "sha256": "5842b41e7cd563b39a9f22abe8817008ebd607c07147aa42e54ded85d764d3ca",
+      "width": 2000,
+      "height": 1429,
+      "siteSourceIds": [
+        "LOC-076"
+      ]
+    },
+    "PULLED-HERO-2F16FB095D7C5EC8": {
+      "assetKey": "PULLED-HERO-2F16FB095D7C5EC8",
+      "sourceAssetKey": "PULL-2F16FB095D7C5EC8",
+      "niche": "Fencing",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/2f16fb095d7c5ec8570a28cc0ea7d6c8b943c5f3ce789390520bd378356d454b.webp",
+      "localSourcePath": "outputs/media-library/objects/2f/2f16fb095d7c5ec8570a28cc0ea7d6c8b943c5f3ce789390520bd378356d454b.webp",
+      "localWebPath": "review/homepage-palettes/generated-media/site-heroes/web/2f16fb095d7c5ec8570a28cc0ea7d6c8b943c5f3ce789390520bd378356d454b.webp",
+      "byteLength": 47650,
+      "sha256": "7c9a7d8e77fb9b22ac59711a6ff6221bb2a7020420be27848cdd8daaa5f16853",
+      "width": 626,
+      "height": 418,
+      "siteSourceIds": [
+        "LOC-079"
+      ]
+    },
+    "PULLED-HERO-2A0A32B230B2908C": {
+      "assetKey": "PULLED-HERO-2A0A32B230B2908C",
+      "sourceAssetKey": "PULL-2A0A32B230B2908C",
+      "niche": "Fencing",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/2a0a32b230b2908cba219255eb3c67d6bd341c8c4f992ded0f415637c1ad23f6.webp",
+      "localSourcePath": "outputs/media-library/objects/2a/2a0a32b230b2908cba219255eb3c67d6bd341c8c4f992ded0f415637c1ad23f6.jpg",
+      "localWebPath": "review/homepage-palettes/generated-media/site-heroes/web/2a0a32b230b2908cba219255eb3c67d6bd341c8c4f992ded0f415637c1ad23f6.webp",
+      "byteLength": 44222,
+      "sha256": "985a6b89f27736e8c358356f21009f2c37b69c3e25b9bd7ad243af13c28cfa8d",
+      "width": 1100,
+      "height": 653,
+      "siteSourceIds": [
+        "LOC-080"
+      ]
+    },
+    "PULLED-HERO-1BD3FF22ECDE095E": {
+      "assetKey": "PULLED-HERO-1BD3FF22ECDE095E",
+      "sourceAssetKey": "PULL-1BD3FF22ECDE095E",
+      "niche": "Land Clearing",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/1bd3ff22ecde095e0a12d8972852f02f7559ee0f33ab74b1bbf6e361ae1acee2.webp",
+      "localSourcePath": "outputs/media-library/objects/1b/1bd3ff22ecde095e0a12d8972852f02f7559ee0f33ab74b1bbf6e361ae1acee2.webp",
+      "localWebPath": "review/homepage-palettes/generated-media/site-heroes/web/1bd3ff22ecde095e0a12d8972852f02f7559ee0f33ab74b1bbf6e361ae1acee2.webp",
+      "byteLength": 77198,
+      "sha256": "80ba943cb40be2c7fc46d88d958431631668f89a4fcd8b0795f83a08adcecf76",
+      "width": 640,
+      "height": 360,
+      "siteSourceIds": [
+        "LOC-082"
+      ]
+    },
+    "PULLED-HERO-06A8805429134F62": {
+      "assetKey": "PULLED-HERO-06A8805429134F62",
+      "sourceAssetKey": "PULL-06A8805429134F62",
+      "niche": "Irrigation & Sprinklers",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/06a8805429134f6269ed1943ad538b322527ccab7d5b4e695f3beea8cad32cb9.webp",
+      "localSourcePath": "outputs/media-library/objects/06/06a8805429134f6269ed1943ad538b322527ccab7d5b4e695f3beea8cad32cb9.webp",
+      "localWebPath": "review/homepage-palettes/generated-media/site-heroes/web/06a8805429134f6269ed1943ad538b322527ccab7d5b4e695f3beea8cad32cb9.webp",
+      "byteLength": 69652,
+      "sha256": "dce51d4146a9b3f271c0858e3d174a97349498cb52d03bb10560d14cab7f786e",
+      "width": 640,
+      "height": 360,
+      "siteSourceIds": [
+        "LOC-083"
+      ]
+    },
+    "PULLED-HERO-421BD1C5DD5EF278": {
+      "assetKey": "PULLED-HERO-421BD1C5DD5EF278",
+      "sourceAssetKey": "PULL-421BD1C5DD5EF278",
+      "niche": "Tree Service",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/421bd1c5dd5ef27861fc1520e1539c3a4af84129da161e00622fe596e958e5d4.webp",
+      "localSourcePath": "outputs/media-library/objects/42/421bd1c5dd5ef27861fc1520e1539c3a4af84129da161e00622fe596e958e5d4.webp",
+      "localWebPath": "review/homepage-palettes/generated-media/site-heroes/web/421bd1c5dd5ef27861fc1520e1539c3a4af84129da161e00622fe596e958e5d4.webp",
+      "byteLength": 20358,
+      "sha256": "63039f5f325d4c0a5a64b9c0f35ecbdf64f0f7c9a9370b44ff211918c0232fe6",
+      "width": 640,
+      "height": 214,
+      "siteSourceIds": [
+        "LOC-084"
+      ]
+    },
+    "PULLED-HERO-1AD875B0E3899444": {
+      "assetKey": "PULLED-HERO-1AD875B0E3899444",
+      "sourceAssetKey": "PULL-1AD875B0E3899444",
+      "niche": "Pool Service",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/1ad875b0e389944466aec954e0c6b716a59de4e80966777f85915f96ced58e04.webp",
+      "localSourcePath": "outputs/media-library/objects/1a/1ad875b0e389944466aec954e0c6b716a59de4e80966777f85915f96ced58e04.webp",
+      "localWebPath": "review/homepage-palettes/generated-media/site-heroes/web/1ad875b0e389944466aec954e0c6b716a59de4e80966777f85915f96ced58e04.webp",
+      "byteLength": 194718,
+      "sha256": "d584a242d5b532141a7c2ae54708f2efe787287f460ad59005166290db4a3095",
+      "width": 1600,
+      "height": 1000,
+      "siteSourceIds": [
+        "LOC-085"
+      ]
+    },
+    "PULLED-HERO-ABC080B7EA36F0B3": {
+      "assetKey": "PULLED-HERO-ABC080B7EA36F0B3",
+      "sourceAssetKey": "PULL-ABC080B7EA36F0B3",
+      "niche": "Tree Service",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/abc080b7ea36f0b30bbe1e48d0288b1cc5a4a2935faf258b7b5d23b85dceebbb.webp",
+      "localSourcePath": "outputs/media-library/objects/ab/abc080b7ea36f0b30bbe1e48d0288b1cc5a4a2935faf258b7b5d23b85dceebbb.jpg",
+      "localWebPath": "review/homepage-palettes/generated-media/site-heroes/web/abc080b7ea36f0b30bbe1e48d0288b1cc5a4a2935faf258b7b5d23b85dceebbb.webp",
+      "byteLength": 185242,
+      "sha256": "bd9105699a3091875e9b0b887b2b7196046f604c40ad8a728e0786c65d53d152",
+      "width": 1024,
+      "height": 1024,
+      "siteSourceIds": [
+        "LOC-089"
+      ]
+    },
+    "PULLED-HERO-A9119A330A2C1F63": {
+      "assetKey": "PULLED-HERO-A9119A330A2C1F63",
+      "sourceAssetKey": "PULL-A9119A330A2C1F63",
+      "niche": "Painting",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/a9119a330a2c1f636051fc96e31af730d7bd096d358d7ad1681ac3770630f4a8.webp",
+      "localSourcePath": "outputs/media-library/objects/a9/a9119a330a2c1f636051fc96e31af730d7bd096d358d7ad1681ac3770630f4a8.png",
+      "localWebPath": "review/homepage-palettes/generated-media/site-heroes/web/a9119a330a2c1f636051fc96e31af730d7bd096d358d7ad1681ac3770630f4a8.webp",
+      "byteLength": 22678,
+      "sha256": "4e08f3840b7726100afcee1ea42136a56fe619c076184dbbf38750e370a28ca4",
+      "width": 1430,
+      "height": 982,
+      "siteSourceIds": [
+        "LOC-093"
+      ]
+    },
+    "PULLED-HERO-3EBC834E5F52AFC9": {
+      "assetKey": "PULLED-HERO-3EBC834E5F52AFC9",
+      "sourceAssetKey": "PULL-3EBC834E5F52AFC9",
+      "niche": "Gutter Services",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/3ebc834e5f52afc937adcc0d7a72229803d454a9d6ef10cddaeb423821eee6d6.webp",
+      "localSourcePath": "outputs/media-library/objects/3e/3ebc834e5f52afc937adcc0d7a72229803d454a9d6ef10cddaeb423821eee6d6.webp",
+      "localWebPath": "review/homepage-palettes/generated-media/site-heroes/web/3ebc834e5f52afc937adcc0d7a72229803d454a9d6ef10cddaeb423821eee6d6.webp",
+      "byteLength": 125744,
+      "sha256": "f33afb8b67a448a2491ab72f1509c4097bd14efe0bebf1ee330dbb9f730bfc36",
+      "width": 1024,
+      "height": 1024,
+      "siteSourceIds": [
+        "LOC-099"
+      ]
+    },
+    "PULLED-HERO-AF4784771FD25C9C": {
+      "assetKey": "PULLED-HERO-AF4784771FD25C9C",
+      "sourceAssetKey": "PULL-AF4784771FD25C9C",
+      "niche": "Foundation Repair",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/af4784771fd25c9c0de8e7d253c9251c7a51d87c11e366f19a42595b94b8f645.webp",
+      "localSourcePath": "outputs/media-library/objects/af/af4784771fd25c9c0de8e7d253c9251c7a51d87c11e366f19a42595b94b8f645.webp",
+      "localWebPath": "review/homepage-palettes/generated-media/site-heroes/web/af4784771fd25c9c0de8e7d253c9251c7a51d87c11e366f19a42595b94b8f645.webp",
+      "byteLength": 140136,
+      "sha256": "7f25946023ad540f18dcb4eca1b1818b9cbda9f4ba0038a037ffec60471583db",
+      "width": 1200,
+      "height": 797,
+      "siteSourceIds": [
+        "LOC-105"
+      ]
+    }
+  },
+  "sites": {
+    "LLG-DRAINSCAPE": {
+      "assetKey": "PULLED-HERO-E23B2389247595B1",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/e23b2389247595b1fa7835926de9a8a9e94d219c12688f255b25e4a8d2fac737.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1721.4
+    },
+    "LOC-001": {
+      "assetKey": "PULLED-HERO-390DDEB5B461436D",
+      "niche": "Landscaping & Lawn Care",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/390ddeb5b461436d982dcdbd0bb2b7bd2c59900312182aa85201c8297c15301f.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1643.87
+    },
+    "LOC-002": {
+      "assetKey": "PULLED-HERO-E23B2389247595B1",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/e23b2389247595b1fa7835926de9a8a9e94d219c12688f255b25e4a8d2fac737.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1721.4
+    },
+    "LOC-003": {
+      "assetKey": "PULLED-HERO-E23B2389247595B1",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/e23b2389247595b1fa7835926de9a8a9e94d219c12688f255b25e4a8d2fac737.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1721.4
+    },
+    "LOC-006": {
+      "assetKey": "PULLED-HERO-E23B2389247595B1",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/e23b2389247595b1fa7835926de9a8a9e94d219c12688f255b25e4a8d2fac737.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1721.4
+    },
+    "LOC-007": {
+      "assetKey": "PULLED-HERO-E23B2389247595B1",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/e23b2389247595b1fa7835926de9a8a9e94d219c12688f255b25e4a8d2fac737.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1721.4
+    },
+    "LOC-008": {
+      "assetKey": "PULLED-HERO-E23B2389247595B1",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/e23b2389247595b1fa7835926de9a8a9e94d219c12688f255b25e4a8d2fac737.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1721.4
+    },
+    "LOC-011": {
+      "assetKey": "PULLED-HERO-E23B2389247595B1",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/e23b2389247595b1fa7835926de9a8a9e94d219c12688f255b25e4a8d2fac737.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1721.4
+    },
+    "LOC-012": {
+      "assetKey": "PULLED-HERO-2F304BDE80759C08",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/2f304bde80759c086f590eabfa73d423792edef7b8ee712eed2b44b64a04a313.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1654.02
+    },
+    "LOC-013": {
+      "assetKey": "PULLED-HERO-E23B2389247595B1",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/e23b2389247595b1fa7835926de9a8a9e94d219c12688f255b25e4a8d2fac737.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1721.4
+    },
+    "LOC-014": {
+      "assetKey": "PULLED-HERO-848512F1E9272784",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/848512f1e92727845e8f4c5039c5fec01a0465b805dd80d6f7988dc270a45d8a.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1573.75
+    },
+    "LOC-016": {
+      "assetKey": "PULLED-HERO-848512F1E9272784",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/848512f1e92727845e8f4c5039c5fec01a0465b805dd80d6f7988dc270a45d8a.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1573.75
+    },
+    "LOC-017": {
+      "assetKey": "PULLED-HERO-848512F1E9272784",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/848512f1e92727845e8f4c5039c5fec01a0465b805dd80d6f7988dc270a45d8a.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1573.75
+    },
+    "LOC-018": {
+      "assetKey": "PULLED-HERO-848512F1E9272784",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/848512f1e92727845e8f4c5039c5fec01a0465b805dd80d6f7988dc270a45d8a.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1573.75
+    },
+    "LOC-019": {
+      "assetKey": "PULLED-HERO-E9BA25FBFC0A8816",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/e9ba25fbfc0a88164057ffbd81b3b87a66f03cb572256edfbd8b4949114219f6.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1672.84
+    },
+    "LOC-020": {
+      "assetKey": "PULLED-HERO-E23B2389247595B1",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/e23b2389247595b1fa7835926de9a8a9e94d219c12688f255b25e4a8d2fac737.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1721.4
+    },
+    "LOC-021": {
+      "assetKey": "PULLED-HERO-848512F1E9272784",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/848512f1e92727845e8f4c5039c5fec01a0465b805dd80d6f7988dc270a45d8a.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1573.75
+    },
+    "LOC-022": {
+      "assetKey": "PULLED-HERO-848512F1E9272784",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/848512f1e92727845e8f4c5039c5fec01a0465b805dd80d6f7988dc270a45d8a.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1573.75
+    },
+    "LOC-024": {
+      "assetKey": "PULLED-HERO-848512F1E9272784",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/848512f1e92727845e8f4c5039c5fec01a0465b805dd80d6f7988dc270a45d8a.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1573.75
+    },
+    "LOC-025": {
+      "assetKey": "PULLED-HERO-02F1FC9B2C633022",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/02f1fc9b2c6330225c091f7d8bbceeff361d99fdec2303c362bff9c72a416580.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1654.32
+    },
+    "LOC-026": {
+      "assetKey": "PULLED-HERO-E23B2389247595B1",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/e23b2389247595b1fa7835926de9a8a9e94d219c12688f255b25e4a8d2fac737.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1721.4
+    },
+    "LOC-027": {
+      "assetKey": "PULLED-HERO-2DDDB0D4099E1F7C",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/2dddb0d4099e1f7c78c2b6583f8c291175660aee299e4420c5b4761960349b2d.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1649.45
+    },
+    "LOC-028": {
+      "assetKey": "PULLED-HERO-848512F1E9272784",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/848512f1e92727845e8f4c5039c5fec01a0465b805dd80d6f7988dc270a45d8a.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1573.75
+    },
+    "LOC-029": {
+      "assetKey": "PULLED-HERO-375ED54F86ECA457",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/375ed54f86eca45771c7d5eecb6b7a3c104b7ccc6900741ff9331a42399d1942.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1685.85
+    },
+    "LOC-030": {
+      "assetKey": "PULLED-HERO-375ED54F86ECA457",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/375ed54f86eca45771c7d5eecb6b7a3c104b7ccc6900741ff9331a42399d1942.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1685.85
+    },
+    "LOC-031": {
+      "assetKey": "PULLED-HERO-E23B2389247595B1",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/e23b2389247595b1fa7835926de9a8a9e94d219c12688f255b25e4a8d2fac737.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1721.4
+    },
+    "LOC-032": {
+      "assetKey": "PULLED-HERO-848512F1E9272784",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/848512f1e92727845e8f4c5039c5fec01a0465b805dd80d6f7988dc270a45d8a.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1573.75
+    },
+    "LOC-033": {
+      "assetKey": "PULLED-HERO-375ED54F86ECA457",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/375ed54f86eca45771c7d5eecb6b7a3c104b7ccc6900741ff9331a42399d1942.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1685.85
+    },
+    "LOC-034": {
+      "assetKey": "PULLED-HERO-E23B2389247595B1",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/e23b2389247595b1fa7835926de9a8a9e94d219c12688f255b25e4a8d2fac737.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1721.4
+    },
+    "LOC-035": {
+      "assetKey": "PULLED-HERO-848512F1E9272784",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/848512f1e92727845e8f4c5039c5fec01a0465b805dd80d6f7988dc270a45d8a.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1573.75
+    },
+    "LOC-036": {
+      "assetKey": "PULLED-HERO-848512F1E9272784",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/848512f1e92727845e8f4c5039c5fec01a0465b805dd80d6f7988dc270a45d8a.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1573.75
+    },
+    "LOC-038": {
+      "assetKey": "PULLED-HERO-CB85371F3C8D0C4B",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/cb85371f3c8d0c4b5d4b3f7a473a00a37142f2bf837791bdedc7ba47fbbb7c10.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1647.02
+    },
+    "LOC-039": {
+      "assetKey": "PULLED-HERO-848512F1E9272784",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/848512f1e92727845e8f4c5039c5fec01a0465b805dd80d6f7988dc270a45d8a.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1573.75
+    },
+    "LOC-041": {
+      "assetKey": "PULLED-HERO-E23B2389247595B1",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/e23b2389247595b1fa7835926de9a8a9e94d219c12688f255b25e4a8d2fac737.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1721.4
+    },
+    "LOC-042": {
+      "assetKey": "PULLED-HERO-3B45D5A9EB0F5A8E",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/3b45d5a9eb0f5a8e910422c45b67bc3d3d91c57021ac5fee4f2194a9a24302a7.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1661.17
+    },
+    "LOC-043": {
+      "assetKey": "PULLED-HERO-848512F1E9272784",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/848512f1e92727845e8f4c5039c5fec01a0465b805dd80d6f7988dc270a45d8a.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1573.75
+    },
+    "LOC-044": {
+      "assetKey": "PULLED-HERO-E9C13C3F85708D5B",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/e9c13c3f85708d5bc52774fb8488bd339ebf369cac915e8a7851f4cf700cc9a6.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1546.51
+    },
+    "LOC-045": {
+      "assetKey": "PULLED-HERO-49E9F2AD454A10EC",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/49e9f2ad454a10eccc0cf24be52d0d1cba70cc77c23745735f89c417479a38bc.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1653.75
+    },
+    "LOC-046": {
+      "assetKey": "PULLED-HERO-E23B2389247595B1",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/e23b2389247595b1fa7835926de9a8a9e94d219c12688f255b25e4a8d2fac737.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1721.4
+    },
+    "LOC-047": {
+      "assetKey": "PULLED-HERO-E23B2389247595B1",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/e23b2389247595b1fa7835926de9a8a9e94d219c12688f255b25e4a8d2fac737.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1721.4
+    },
+    "LOC-048": {
+      "assetKey": "PULLED-HERO-5CFD0B5F24DDEF76",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/5cfd0b5f24ddef76959f9e62700a01198f904b20f6da25217a344618d9e01e66.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1690.08
+    },
+    "LOC-049": {
+      "assetKey": "PULLED-HERO-132204114B676197",
+      "niche": "Concrete & Pavers",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/132204114b6761974370cf1bf798d288432d9364d54e6ff88982378f7892ed02.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1636.85
+    },
+    "LOC-051": {
+      "assetKey": "PULLED-HERO-292882C6697BB8C8",
+      "niche": "Retaining Walls",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/292882c6697bb8c8c44e5a7d196db7e355758136a315ed7c278e21a2663b1bf6.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1630.14
+    },
+    "LOC-052": {
+      "assetKey": "PULLED-HERO-462F870A02BA31F8",
+      "niche": "Retaining Walls",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/462f870a02ba31f8a5a54e3926555899a3ca93eb907f9469a6c15dd4061e7886.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1612.68
+    },
+    "LOC-053": {
+      "assetKey": "PULLED-HERO-292882C6697BB8C8",
+      "niche": "Retaining Walls",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/292882c6697bb8c8c44e5a7d196db7e355758136a315ed7c278e21a2663b1bf6.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1630.14
+    },
+    "LOC-054": {
+      "assetKey": "PULLED-HERO-462F870A02BA31F8",
+      "niche": "Retaining Walls",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/462f870a02ba31f8a5a54e3926555899a3ca93eb907f9469a6c15dd4061e7886.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1612.68
+    },
+    "LOC-055": {
+      "assetKey": "PULLED-HERO-1F543201E803765D",
+      "niche": "Retaining Walls",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/1f543201e803765de8dec7407a037931dd09b16e43e0d0496148a105cb753e22.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 566.01
+    },
+    "LOC-056": {
+      "assetKey": "PULLED-HERO-292882C6697BB8C8",
+      "niche": "Retaining Walls",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/292882c6697bb8c8c44e5a7d196db7e355758136a315ed7c278e21a2663b1bf6.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1630.14
+    },
+    "LOC-058": {
+      "assetKey": "PULLED-HERO-292882C6697BB8C8",
+      "niche": "Retaining Walls",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/292882c6697bb8c8c44e5a7d196db7e355758136a315ed7c278e21a2663b1bf6.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1630.14
+    },
+    "LOC-059": {
+      "assetKey": "PULLED-HERO-170F9D50EB4DD6C9",
+      "niche": "Concrete & Pavers",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/170f9d50eb4dd6c9d6821a87327e9888f6d16e691202ef2ee09ad49032c20ac6.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1608.07
+    },
+    "LOC-060": {
+      "assetKey": "PULLED-HERO-292882C6697BB8C8",
+      "niche": "Retaining Walls",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/292882c6697bb8c8c44e5a7d196db7e355758136a315ed7c278e21a2663b1bf6.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1630.14
+    },
+    "LOC-061": {
+      "assetKey": "PULLED-HERO-462F870A02BA31F8",
+      "niche": "Retaining Walls",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/462f870a02ba31f8a5a54e3926555899a3ca93eb907f9469a6c15dd4061e7886.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1612.68
+    },
+    "LOC-062": {
+      "assetKey": "PULLED-HERO-462F870A02BA31F8",
+      "niche": "Retaining Walls",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/462f870a02ba31f8a5a54e3926555899a3ca93eb907f9469a6c15dd4061e7886.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1612.68
+    },
+    "LOC-063": {
+      "assetKey": "PULLED-HERO-15B4A5D98ACD9F6B",
+      "niche": "Decks & Patios",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/15b4a5d98acd9f6b39584e2158e9c74538e12fa7c186680e91224c71b62dc6bf.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1606.03
+    },
+    "LOC-064": {
+      "assetKey": "PULLED-HERO-1F7A405CE80C8BFD",
+      "niche": "Decks & Patios",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/1f7a405ce80c8bfdd0d278f9c27c7efd80cb02229613fc65097881938e937858.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1611.69
+    },
+    "LOC-065": {
+      "assetKey": "PULLED-HERO-919098F52AE2E48E",
+      "niche": "Decks & Patios",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/919098f52ae2e48e71e6656aaf27e08ddc9e983e9fe20ba182788020ee8635e8.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1663.03
+    },
+    "LOC-066": {
+      "assetKey": "PULLED-HERO-2E648C573DAF67DA",
+      "niche": "Decks & Patios",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/2e648c573daf67da742b8a326090f215bce19788c5cb8b05779cf9b5be1fb265.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1675.84
+    },
+    "LOC-067": {
+      "assetKey": "PULLED-HERO-2E648C573DAF67DA",
+      "niche": "Decks & Patios",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/2e648c573daf67da742b8a326090f215bce19788c5cb8b05779cf9b5be1fb265.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1675.84
+    },
+    "LOC-071": {
+      "assetKey": "PULLED-HERO-CA1AF9BCCD76696B",
+      "niche": "Crawlspace",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/ca1af9bccd76696bacc7865c6a7897c594bb5e6db76066113178ec85b49022b2.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1625.11
+    },
+    "LOC-072": {
+      "assetKey": "PULLED-HERO-C666F420D2F1C121",
+      "niche": "Crawlspace",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/c666f420d2f1c121fb8b6f0228faac945bf52f1d264ca1c1ebf7c9c2878b89ac.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1624.63
+    },
+    "LOC-073": {
+      "assetKey": "PULLED-HERO-C666F420D2F1C121",
+      "niche": "Crawlspace",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/c666f420d2f1c121fb8b6f0228faac945bf52f1d264ca1c1ebf7c9c2878b89ac.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1624.63
+    },
+    "LOC-074": {
+      "assetKey": "PULLED-HERO-C666F420D2F1C121",
+      "niche": "Crawlspace",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/c666f420d2f1c121fb8b6f0228faac945bf52f1d264ca1c1ebf7c9c2878b89ac.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1624.63
+    },
+    "LOC-075": {
+      "assetKey": "PULLED-HERO-C666F420D2F1C121",
+      "niche": "Crawlspace",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/c666f420d2f1c121fb8b6f0228faac945bf52f1d264ca1c1ebf7c9c2878b89ac.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1624.63
+    },
+    "LOC-076": {
+      "assetKey": "PULLED-HERO-BFB1B01BB8D41280",
+      "niche": "Crawlspace",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/bfb1b01bb8d412807d41d3f1fa5129a3bd0f59ff6fd4e54d6bd28e2fbab2b3dc.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1658.33
+    },
+    "LOC-078": {
+      "assetKey": "PULLED-HERO-CA1AF9BCCD76696B",
+      "niche": "Crawlspace",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/ca1af9bccd76696bacc7865c6a7897c594bb5e6db76066113178ec85b49022b2.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1625.11
+    },
+    "LOC-079": {
+      "assetKey": "PULLED-HERO-2F16FB095D7C5EC8",
+      "niche": "Fencing",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/2f16fb095d7c5ec8570a28cc0ea7d6c8b943c5f3ce789390520bd378356d454b.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1604.78
+    },
+    "LOC-080": {
+      "assetKey": "PULLED-HERO-2A0A32B230B2908C",
+      "niche": "Fencing",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/2a0a32b230b2908cba219255eb3c67d6bd341c8c4f992ded0f415637c1ad23f6.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1627.21
+    },
+    "LOC-082": {
+      "assetKey": "PULLED-HERO-1BD3FF22ECDE095E",
+      "niche": "Land Clearing",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/1bd3ff22ecde095e0a12d8972852f02f7559ee0f33ab74b1bbf6e361ae1acee2.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1620.99
+    },
+    "LOC-083": {
+      "assetKey": "PULLED-HERO-06A8805429134F62",
+      "niche": "Irrigation & Sprinklers",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/06a8805429134f6269ed1943ad538b322527ccab7d5b4e695f3beea8cad32cb9.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1639.99
+    },
+    "LOC-084": {
+      "assetKey": "PULLED-HERO-421BD1C5DD5EF278",
+      "niche": "Tree Service",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/421bd1c5dd5ef27861fc1520e1539c3a4af84129da161e00622fe596e958e5d4.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1666.76
+    },
+    "LOC-085": {
+      "assetKey": "PULLED-HERO-1AD875B0E3899444",
+      "niche": "Pool Service",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/1ad875b0e389944466aec954e0c6b716a59de4e80966777f85915f96ced58e04.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1632.32
+    },
+    "LOC-089": {
+      "assetKey": "PULLED-HERO-ABC080B7EA36F0B3",
+      "niche": "Tree Service",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/abc080b7ea36f0b30bbe1e48d0288b1cc5a4a2935faf258b7b5d23b85dceebbb.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 495.0
+    },
+    "LOC-093": {
+      "assetKey": "PULLED-HERO-A9119A330A2C1F63",
+      "niche": "Painting",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/a9119a330a2c1f636051fc96e31af730d7bd096d358d7ad1681ac3770630f4a8.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1645.55
+    },
+    "LOC-099": {
+      "assetKey": "PULLED-HERO-3EBC834E5F52AFC9",
+      "niche": "Gutter Services",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/3ebc834e5f52afc937adcc0d7a72229803d454a9d6ef10cddaeb423821eee6d6.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 493.0
+    },
+    "LOC-105": {
+      "assetKey": "PULLED-HERO-AF4784771FD25C9C",
+      "niche": "Foundation Repair",
+      "webUrl": "/__palettes__/generated-media/site-heroes/web/af4784771fd25c9c0de8e7d253c9251c7a51d87c11e366f19a42595b94b8f645.webp",
+      "source": "Existing LLG Media Intake",
+      "approvalStatus": "Intake only",
+      "rightsVerified": false,
+      "usage": "Decorative localhost preview only; never project, review, before/after, or location proof.",
+      "selectionScore": 1630.86
+    }
+  }
+}

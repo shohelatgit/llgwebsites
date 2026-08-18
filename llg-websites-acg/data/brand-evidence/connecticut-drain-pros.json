@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "siteKey": "connecticut-drain-pros",
+  "sourceType": "brand-board-jpeg",
+  "sourceFile": "Connecticut Drain PRos.jpeg",
+  "sha256": "a0aa45f533df38f0d6202d0e3a314cf3cec1d908123fe5cd2f9c975223358b18",
+  "dimensions": {
+    "width": 1600,
+    "height": 900
+  },
+  "observations": [
+    "four printed brand colors",
+    "heading, body, and accent font roles",
+    "logo, wordmark, icon, and favicon examples"
+  ],
+  "confidence": "high",
+  "assetPolicy": "board is token evidence; website logo slots remain placeholders until source vector files are supplied"
+}

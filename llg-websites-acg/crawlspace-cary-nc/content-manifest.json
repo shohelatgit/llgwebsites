@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "stage": "staging",
+  "site": {
+    "slug": "crawlspace-cary-nc",
+    "displayName": "Crawlspace Cary NC",
+    "domain": "crawlspacecarync.com",
+    "trade": "Crawlspace",
+    "location": "Cary, NC"
+  },
+  "sourceAdoption": {
+    "package": "Trips Windows (small package)",
+    "homepageExport": "C:\\Users\\Justin Abrams\\OneDrive\\Documents\\Playground\\.codex-work\\llg-clone-sources\\trips-windows-clone\\trips-windows-clone\\index.html",
+    "preserved": [
+      "homepage DOM and classes",
+      "local CSS/JS/fonts",
+      "section order",
+      "source breakpoints"
+    ]
+  },
+  "brand": {
+    "status": "approved-board-extract",
+    "sourceBoard": "Crawlspace Cary NC.jpeg",
+    "wordmarkFile": "brandmark.svg",
+    "logoFile": "brandmark.png",
+    "iconFile": "brand-icon.png",
+    "faviconFile": "favicon.png"
+  },
+  "photos": {
+    "status": "representative-stock",
+    "disclosure": "Representative imagery is not presented as completed work by this operator.",
+    "slots": [
+      {
+        "file": "media/representative-1.webp",
+        "role": "hero"
+      },
+      {
+        "file": "media/representative-1.webp",
+        "role": "representative"
+      },
+      {
+        "file": "media/representative-2.webp",
+        "role": "representative"
+      },
+      {
+        "file": "media/representative-3.webp",
+        "role": "representative"
+      },
+      {
+        "file": "media/representative-2.webp",
+        "role": "representative"
+      }
+    ]
+  },
+  "reviews": {
+    "status": "interim-copy",
+    "items": [
+      "They explained the moisture problem clearly and gave us a practical plan for the crawlspace.",
+      "The crew was organized, careful inside the house, and left the work area clean when they finished.",
+      "Communication was excellent from the inspection through the final walkthrough, and the space feels much better now."
+    ]
+  },
+  "phone": {
+    "status": "callrail-active",
+    "display": "919-858-6704",
+    "tel": "+19198586704"
+  },
+  "address": {
+    "status": "pending-verified-intake",
+    "value": null
+  },
+  "gbp": {
+    "status": "pending-verified-intake",
+    "url": null
+  },
+  "claims": {
+    "status": "pending-verified-intake",
+    "credentials": [],
+    "awards": [],
+    "warranties": []
+  },
+  "intake": {
+    "status": "pending-production-endpoint",
+    "stagingMode": "mailto",
+    "email": "info@crawlspacecarync.com",
+    "storesSubmissions": false
+  },
+  "indexing": {
+    "status": "blocked-for-staging",
+    "metaRobots": "noindex,nofollow",
+    "robotsTxt": "Disallow: /",
+    "xRobotsTag": "noindex, nofollow"
+  }
+}

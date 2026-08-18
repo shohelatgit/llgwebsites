@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "sourceManifest": "../../brand-evidence/dallas-drain-guys.json",
+  "tokens": {
+    "color": {
+      "brand-primary": "#2F3A2E",
+      "brand-secondary": "#6B7368",
+      "action-primary": "#C15A34",
+      "surface-soft": "#E7E4DD"
+    },
+    "spacing": {
+      "1": "0.25rem",
+      "2": "0.5rem",
+      "3": "0.75rem",
+      "4": "1rem",
+      "section": "clamp(3.75rem, 8vw, 7.5rem)"
+    },
+    "radius": {
+      "control": "0.5rem",
+      "card": "0.875rem"
+    },
+    "shadow": {
+      "card": "0 16px 42px rgb(0 0 0 / 0.12)"
+    }
+  },
+  "typography": {
+    "heading": {
+      "family": "Bungee",
+      "weights": [
+        600,
+        700
+      ],
+      "confidence": "high",
+      "fallback": "'Bungee', Arial, Helvetica, sans-serif"
+    },
+    "body": {
+      "family": "DM Sans",
+      "weights": [
+        400,
+        600
+      ],
+      "confidence": "high",
+      "fallback": "'DM Sans', Arial, Helvetica, sans-serif"
+    },
+    "accent": {
+      "family": "Koulen",
+      "weights": [
+        400,
+        600
+      ],
+      "confidence": "high",
+      "fallback": "'Koulen', Arial, Helvetica, sans-serif"
+    }
+  },
+  "layout": {
+    "containerMax": "80rem",
+    "gutter": "clamp(1rem, 3vw, 2rem)",
+    "observedBreakpoints": [
+      {
+        "at": 768,
+        "change": "navigation collapses according to adopted clone"
+      },
+      {
+        "at": 1024,
+        "change": "clone desktop grids activate"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "CloneHeader",
+      "purpose": "Preserve the assigned clone navigation geometry",
+      "anatomy": [
+        "logo slot",
+        "crawlable navigation",
+        "primary CTA"
+      ],
+      "variants": [
+        "minuteman"
+      ],
+      "contentFields": [
+        "brand",
+        "phone",
+        "navigation"
+      ],
+      "responsiveRules": [
+        "use observed clone collapse behavior"
+      ],
+      "states": [
+        "default",
+        "scrolled",
+        "menu-open"
+      ],
+      "accessibility": [
+        "keyboard operable",
+        "visible focus",
+        "44px targets"
+      ],
+      "evidence": [
+        "Minuteman"
+      ]
+    },
+    {
+      "name": "LeadForm",
+      "purpose": "Collect service requests",
+      "anatomy": [
+        "identity fields",
+        "contact fields",
+        "service",
+        "message",
+        "unchecked SMS consent",
+        "Turnstile",
+        "status"
+      ],
+      "variants": [
+        "full",
+        "compact"
+      ],
+      "contentFields": [
+        "siteKey",
+        "pagePath",
+        "service"
+      ],
+      "responsiveRules": [
+        "single column under 640px"
+      ],
+      "states": [
+        "idle",
+        "submitting",
+        "success",
+        "error"
+      ],
+      "accessibility": [
+        "explicit labels",
+        "error summary",
+        "aria-live status"
+      ],
+      "evidence": [
+        "approved portfolio plan"
+      ]
+    }
+  ],
+  "signatureDetails": [
+    "Homepage section order and component geometry remain from Minuteman",
+    "Brand board palette replaces source-clone palette",
+    "Logo artwork remains an explicit slot until source vectors are supplied"
+  ],
+  "unresolved": [
+    "exact font file or redistribution license not supplied",
+    "final vector logo suite not supplied",
+    "project photo provenance pending"
+  ]
+}

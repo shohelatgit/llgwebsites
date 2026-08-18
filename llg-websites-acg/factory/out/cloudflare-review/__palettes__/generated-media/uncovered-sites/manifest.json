@@ -1,0 +1,626 @@
+{
+  "version": 1,
+  "generatedAt": "2026-08-16T14:44:39.566Z",
+  "purpose": "AI-assisted decorative starter imagery for sites with no usable pulled media. Never use as project proof, review evidence, before/after imagery, or location proof.",
+  "assetCount": 17,
+  "coveredSiteCount": 40,
+  "assets": {
+    "AI-DRAINAGE-DECORATIVE-002": {
+      "assetKey": "AI-DRAINAGE-DECORATIVE-002",
+      "niche": "Drainage & French Drains",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "rightsVerified": true,
+      "usage": "Decorative hero only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/drainage-decorative-v1.webp",
+      "localSourcePath": "generated-media/uncovered-sites/source/drainage-decorative-v1.png",
+      "localWebPath": "generated-media/uncovered-sites/web/drainage-decorative-v1.webp",
+      "byteLength": 220798,
+      "sha256": "965c40d8505be07e9bec92054d25e3b4c16501a28136d8d92d8368f4568626b2",
+      "siteSourceIds": [
+        "LOC-004",
+        "LOC-009",
+        "LOC-010",
+        "LOC-037",
+        "LOC-040",
+        "LOC-095",
+        "LOC-096",
+        "LOC-097",
+        "LOC-100"
+      ]
+    },
+    "AI-RETAINING-WALL-DECORATIVE-001": {
+      "assetKey": "AI-RETAINING-WALL-DECORATIVE-001",
+      "niche": "Retaining Walls",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "rightsVerified": true,
+      "usage": "Decorative hero only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/retaining-wall-decorative-v1.webp",
+      "localSourcePath": "generated-media/uncovered-sites/source/retaining-wall-decorative-v1.png",
+      "localWebPath": "generated-media/uncovered-sites/web/retaining-wall-decorative-v1.webp",
+      "byteLength": 357048,
+      "sha256": "cec7b141309c0795d1cfa72921f8edda79766abd0798ae1b53edf683835c6c3f",
+      "siteSourceIds": [
+        "LOC-050",
+        "LOC-057",
+        "LOC-118"
+      ]
+    },
+    "AI-DECK-PATIO-DECORATIVE-001": {
+      "assetKey": "AI-DECK-PATIO-DECORATIVE-001",
+      "niche": "Decks & Patios",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "rightsVerified": true,
+      "usage": "Decorative hero only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/deck-patio-decorative-v1.webp",
+      "localSourcePath": "generated-media/uncovered-sites/source/deck-patio-decorative-v1.png",
+      "localWebPath": "generated-media/uncovered-sites/web/deck-patio-decorative-v1.webp",
+      "byteLength": 190438,
+      "sha256": "7052221c7532351b8656dc0b4b458d8ac30bae7e09386c16409527dad6bd1a55",
+      "siteSourceIds": [
+        "LOC-068",
+        "LOC-086"
+      ]
+    },
+    "AI-BATHROOM-DECORATIVE-001": {
+      "assetKey": "AI-BATHROOM-DECORATIVE-001",
+      "niche": "Bathroom Remodeling",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "rightsVerified": true,
+      "usage": "Decorative hero only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/bathroom-remodel-decorative-v1.webp",
+      "localSourcePath": "generated-media/uncovered-sites/source/bathroom-remodel-decorative-v1.png",
+      "localWebPath": "generated-media/uncovered-sites/web/bathroom-remodel-decorative-v1.webp",
+      "byteLength": 94986,
+      "sha256": "521f9d095f80214b0cef94156971a4ea78fc1957e1d94caf290742cbb134690c",
+      "siteSourceIds": [
+        "LOC-069",
+        "LOC-070",
+        "LOC-113"
+      ]
+    },
+    "AI-FENCING-DECORATIVE-001": {
+      "assetKey": "AI-FENCING-DECORATIVE-001",
+      "niche": "Fencing",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "rightsVerified": true,
+      "usage": "Decorative hero only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/fencing-decorative-v1.webp",
+      "localSourcePath": "generated-media/uncovered-sites/source/fencing-decorative-v1.png",
+      "localWebPath": "generated-media/uncovered-sites/web/fencing-decorative-v1.webp",
+      "byteLength": 236730,
+      "sha256": "93b8becca80dcc4b58de494d9b4db3948a6623b2419d14ad7e1384b9ce2c358e",
+      "siteSourceIds": [
+        "LOC-081",
+        "LOC-088",
+        "LOC-101",
+        "LOC-102",
+        "LOC-103",
+        "LOC-115"
+      ]
+    },
+    "AI-OUTDOOR-LIVING-DECORATIVE-001": {
+      "assetKey": "AI-OUTDOOR-LIVING-DECORATIVE-001",
+      "niche": "Outdoor Living / Multi-service",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "rightsVerified": true,
+      "usage": "Decorative hero only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/outdoor-living-decorative-v1.webp",
+      "localSourcePath": "generated-media/uncovered-sites/source/outdoor-living-decorative-v1.png",
+      "localWebPath": "generated-media/uncovered-sites/web/outdoor-living-decorative-v1.webp",
+      "byteLength": 173552,
+      "sha256": "b352188ee06b7e2abfc09d48c26486c06deb43117837bbb36ddb7bfa30a6ae51",
+      "siteSourceIds": [
+        "LOC-087",
+        "LOC-111"
+      ]
+    },
+    "AI-LAWN-CARE-DECORATIVE-001": {
+      "assetKey": "AI-LAWN-CARE-DECORATIVE-001",
+      "niche": "Landscaping & Lawn Care",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "rightsVerified": true,
+      "usage": "Decorative hero only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/lawn-care-decorative-v1.webp",
+      "localSourcePath": "generated-media/uncovered-sites/source/lawn-care-decorative-v1.png",
+      "localWebPath": "generated-media/uncovered-sites/web/lawn-care-decorative-v1.webp",
+      "byteLength": 350018,
+      "sha256": "782454ab1718a17208dd99c36c496b20c9af0e7d865e31639a313bdffb20711b",
+      "siteSourceIds": [
+        "LOC-090",
+        "LOC-091"
+      ]
+    },
+    "AI-HOME-WATCH-DECORATIVE-001": {
+      "assetKey": "AI-HOME-WATCH-DECORATIVE-001",
+      "niche": "Home Watch",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "rightsVerified": true,
+      "usage": "Decorative hero only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/home-watch-decorative-v1.webp",
+      "localSourcePath": "generated-media/uncovered-sites/source/home-watch-decorative-v1.png",
+      "localWebPath": "generated-media/uncovered-sites/web/home-watch-decorative-v1.webp",
+      "byteLength": 202156,
+      "sha256": "ba7035620f995be54946b6ec625dfd881bbaaa1e572548111fd5c09812be59a6",
+      "siteSourceIds": [
+        "LOC-092"
+      ]
+    },
+    "AI-HURRICANE-SERVICES-DECORATIVE-001": {
+      "assetKey": "AI-HURRICANE-SERVICES-DECORATIVE-001",
+      "niche": "Hurricane Services",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "rightsVerified": true,
+      "usage": "Decorative hero only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/hurricane-preparation-decorative-v1.webp",
+      "localSourcePath": "generated-media/uncovered-sites/source/hurricane-preparation-decorative-v1.png",
+      "localWebPath": "generated-media/uncovered-sites/web/hurricane-preparation-decorative-v1.webp",
+      "byteLength": 127352,
+      "sha256": "57df1ccb93091662b83b65e397f43f4fde222b53429cbb4d2172d03e66d28888",
+      "siteSourceIds": [
+        "LOC-094"
+      ]
+    },
+    "AI-HOME-SERVICES-DECORATIVE-001": {
+      "assetKey": "AI-HOME-SERVICES-DECORATIVE-001",
+      "niche": "Needs Review / Neutral Home Services",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "rightsVerified": true,
+      "usage": "Decorative hero only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/home-services-neutral-decorative-v1.webp",
+      "localSourcePath": "generated-media/uncovered-sites/source/home-services-neutral-decorative-v1.png",
+      "localWebPath": "generated-media/uncovered-sites/web/home-services-neutral-decorative-v1.webp",
+      "byteLength": 97010,
+      "sha256": "b4c3977e7225998f12f5308f5ed3f186c2b5ed5fb7ee74af6b31b9a0a55d6224",
+      "siteSourceIds": [
+        "LOC-098"
+      ]
+    },
+    "AI-POOL-SERVICE-DECORATIVE-001": {
+      "assetKey": "AI-POOL-SERVICE-DECORATIVE-001",
+      "niche": "Pool Service",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "rightsVerified": true,
+      "usage": "Decorative hero only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/pool-service-decorative-v1.webp",
+      "localSourcePath": "generated-media/uncovered-sites/source/pool-service-decorative-v1.png",
+      "localWebPath": "generated-media/uncovered-sites/web/pool-service-decorative-v1.webp",
+      "byteLength": 136552,
+      "sha256": "bb5fbb0b97843ab2a48185f144f0549e524f279c3a57f994bc2805fde536df29",
+      "siteSourceIds": [
+        "LOC-104"
+      ]
+    },
+    "AI-HVAC-DECORATIVE-001": {
+      "assetKey": "AI-HVAC-DECORATIVE-001",
+      "niche": "HVAC",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "rightsVerified": true,
+      "usage": "Decorative hero only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/hvac-decorative-v1.webp",
+      "localSourcePath": "generated-media/uncovered-sites/source/hvac-decorative-v1.png",
+      "localWebPath": "generated-media/uncovered-sites/web/hvac-decorative-v1.webp",
+      "byteLength": 152242,
+      "sha256": "f7018300fef946d98825d5b453e9160cdadc9cf5593976941956cc2117c515ee",
+      "siteSourceIds": [
+        "LOC-106"
+      ]
+    },
+    "AI-HANDYMAN-DECORATIVE-001": {
+      "assetKey": "AI-HANDYMAN-DECORATIVE-001",
+      "niche": "Handyman",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "rightsVerified": true,
+      "usage": "Decorative hero only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/handyman-decorative-v1.webp",
+      "localSourcePath": "generated-media/uncovered-sites/source/handyman-decorative-v1.png",
+      "localWebPath": "generated-media/uncovered-sites/web/handyman-decorative-v1.webp",
+      "byteLength": 70704,
+      "sha256": "315fd18840029e0ed3cd686ae189a7e62ef803d8df9803b488adafa35758d5eb",
+      "siteSourceIds": [
+        "LOC-107"
+      ]
+    },
+    "AI-CRAWLSPACE-DECORATIVE-001": {
+      "assetKey": "AI-CRAWLSPACE-DECORATIVE-001",
+      "niche": "Crawlspace",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "rightsVerified": true,
+      "usage": "Decorative hero only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/crawlspace-decorative-v1.webp",
+      "localSourcePath": "generated-media/uncovered-sites/source/crawlspace-decorative-v1.png",
+      "localWebPath": "generated-media/uncovered-sites/web/crawlspace-decorative-v1.webp",
+      "byteLength": 125946,
+      "sha256": "85bdec1c8257bdabc281a456e9c58eeb2779fd07e3389522927b97f402c31b64",
+      "siteSourceIds": [
+        "LOC-108",
+        "LOC-109",
+        "LOC-110"
+      ]
+    },
+    "AI-TREE-SERVICE-DECORATIVE-001": {
+      "assetKey": "AI-TREE-SERVICE-DECORATIVE-001",
+      "niche": "Tree Service",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "rightsVerified": true,
+      "usage": "Decorative hero only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/tree-service-decorative-v1.webp",
+      "localSourcePath": "generated-media/uncovered-sites/source/tree-service-decorative-v1.png",
+      "localWebPath": "generated-media/uncovered-sites/web/tree-service-decorative-v1.webp",
+      "byteLength": 327018,
+      "sha256": "5ecc29d42c402155c8caa2b3bb33c9e9ad37e634fdcbfcf4351891de7a035082",
+      "siteSourceIds": [
+        "LOC-112"
+      ]
+    },
+    "AI-CONCRETE-PAVERS-DECORATIVE-001": {
+      "assetKey": "AI-CONCRETE-PAVERS-DECORATIVE-001",
+      "niche": "Concrete & Pavers",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "rightsVerified": true,
+      "usage": "Decorative hero only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/concrete-pavers-decorative-v1.webp",
+      "localSourcePath": "generated-media/uncovered-sites/source/concrete-pavers-decorative-v1.png",
+      "localWebPath": "generated-media/uncovered-sites/web/concrete-pavers-decorative-v1.webp",
+      "byteLength": 207672,
+      "sha256": "7e2b3f745b5b8f1f91fb488dbc231135cd25c87f3761d903b9d0816a7ff94f5d",
+      "siteSourceIds": [
+        "LOC-114",
+        "LOC-117"
+      ]
+    },
+    "AI-JUNK-REMOVAL-DECORATIVE-001": {
+      "assetKey": "AI-JUNK-REMOVAL-DECORATIVE-001",
+      "niche": "Junk Removal",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "rightsVerified": true,
+      "usage": "Decorative hero only; never project, review, before/after, or location proof.",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/junk-removal-decorative-v1.webp",
+      "localSourcePath": "generated-media/uncovered-sites/source/junk-removal-decorative-v1.png",
+      "localWebPath": "generated-media/uncovered-sites/web/junk-removal-decorative-v1.webp",
+      "byteLength": 149812,
+      "sha256": "02e602b0036645082135653cf9085c4221a81e9cc79f5b01692ea3536cf3f16e",
+      "siteSourceIds": [
+        "LOC-116"
+      ]
+    }
+  },
+  "sites": {
+    "LOC-004": {
+      "assetKey": "AI-DRAINAGE-DECORATIVE-002",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/drainage-decorative-v1.webp",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "usage": "Decorative hero only; never project, review, before/after, or location proof."
+    },
+    "LOC-009": {
+      "assetKey": "AI-DRAINAGE-DECORATIVE-002",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/drainage-decorative-v1.webp",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "usage": "Decorative hero only; never project, review, before/after, or location proof."
+    },
+    "LOC-010": {
+      "assetKey": "AI-DRAINAGE-DECORATIVE-002",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/drainage-decorative-v1.webp",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "usage": "Decorative hero only; never project, review, before/after, or location proof."
+    },
+    "LOC-037": {
+      "assetKey": "AI-DRAINAGE-DECORATIVE-002",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/drainage-decorative-v1.webp",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "usage": "Decorative hero only; never project, review, before/after, or location proof."
+    },
+    "LOC-040": {
+      "assetKey": "AI-DRAINAGE-DECORATIVE-002",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/drainage-decorative-v1.webp",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "usage": "Decorative hero only; never project, review, before/after, or location proof."
+    },
+    "LOC-095": {
+      "assetKey": "AI-DRAINAGE-DECORATIVE-002",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/drainage-decorative-v1.webp",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "usage": "Decorative hero only; never project, review, before/after, or location proof."
+    },
+    "LOC-096": {
+      "assetKey": "AI-DRAINAGE-DECORATIVE-002",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/drainage-decorative-v1.webp",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "usage": "Decorative hero only; never project, review, before/after, or location proof."
+    },
+    "LOC-097": {
+      "assetKey": "AI-DRAINAGE-DECORATIVE-002",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/drainage-decorative-v1.webp",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "usage": "Decorative hero only; never project, review, before/after, or location proof."
+    },
+    "LOC-100": {
+      "assetKey": "AI-DRAINAGE-DECORATIVE-002",
+      "niche": "Drainage & French Drains",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/drainage-decorative-v1.webp",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "usage": "Decorative hero only; never project, review, before/after, or location proof."
+    },
+    "LOC-050": {
+      "assetKey": "AI-RETAINING-WALL-DECORATIVE-001",
+      "niche": "Retaining Walls",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/retaining-wall-decorative-v1.webp",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "usage": "Decorative hero only; never project, review, before/after, or location proof."
+    },
+    "LOC-057": {
+      "assetKey": "AI-RETAINING-WALL-DECORATIVE-001",
+      "niche": "Retaining Walls",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/retaining-wall-decorative-v1.webp",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "usage": "Decorative hero only; never project, review, before/after, or location proof."
+    },
+    "LOC-118": {
+      "assetKey": "AI-RETAINING-WALL-DECORATIVE-001",
+      "niche": "Retaining Walls",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/retaining-wall-decorative-v1.webp",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "usage": "Decorative hero only; never project, review, before/after, or location proof."
+    },
+    "LOC-068": {
+      "assetKey": "AI-DECK-PATIO-DECORATIVE-001",
+      "niche": "Decks & Patios",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/deck-patio-decorative-v1.webp",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "usage": "Decorative hero only; never project, review, before/after, or location proof."
+    },
+    "LOC-086": {
+      "assetKey": "AI-DECK-PATIO-DECORATIVE-001",
+      "niche": "Decks & Patios",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/deck-patio-decorative-v1.webp",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "usage": "Decorative hero only; never project, review, before/after, or location proof."
+    },
+    "LOC-069": {
+      "assetKey": "AI-BATHROOM-DECORATIVE-001",
+      "niche": "Bathroom Remodeling",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/bathroom-remodel-decorative-v1.webp",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "usage": "Decorative hero only; never project, review, before/after, or location proof."
+    },
+    "LOC-070": {
+      "assetKey": "AI-BATHROOM-DECORATIVE-001",
+      "niche": "Bathroom Remodeling",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/bathroom-remodel-decorative-v1.webp",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "usage": "Decorative hero only; never project, review, before/after, or location proof."
+    },
+    "LOC-113": {
+      "assetKey": "AI-BATHROOM-DECORATIVE-001",
+      "niche": "Bathroom Remodeling",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/bathroom-remodel-decorative-v1.webp",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "usage": "Decorative hero only; never project, review, before/after, or location proof."
+    },
+    "LOC-081": {
+      "assetKey": "AI-FENCING-DECORATIVE-001",
+      "niche": "Fencing",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/fencing-decorative-v1.webp",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "usage": "Decorative hero only; never project, review, before/after, or location proof."
+    },
+    "LOC-088": {
+      "assetKey": "AI-FENCING-DECORATIVE-001",
+      "niche": "Fencing",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/fencing-decorative-v1.webp",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "usage": "Decorative hero only; never project, review, before/after, or location proof."
+    },
+    "LOC-101": {
+      "assetKey": "AI-FENCING-DECORATIVE-001",
+      "niche": "Fencing",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/fencing-decorative-v1.webp",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "usage": "Decorative hero only; never project, review, before/after, or location proof."
+    },
+    "LOC-102": {
+      "assetKey": "AI-FENCING-DECORATIVE-001",
+      "niche": "Fencing",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/fencing-decorative-v1.webp",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "usage": "Decorative hero only; never project, review, before/after, or location proof."
+    },
+    "LOC-103": {
+      "assetKey": "AI-FENCING-DECORATIVE-001",
+      "niche": "Fencing",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/fencing-decorative-v1.webp",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "usage": "Decorative hero only; never project, review, before/after, or location proof."
+    },
+    "LOC-115": {
+      "assetKey": "AI-FENCING-DECORATIVE-001",
+      "niche": "Fencing",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/fencing-decorative-v1.webp",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "usage": "Decorative hero only; never project, review, before/after, or location proof."
+    },
+    "LOC-087": {
+      "assetKey": "AI-OUTDOOR-LIVING-DECORATIVE-001",
+      "niche": "Outdoor Living / Multi-service",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/outdoor-living-decorative-v1.webp",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "usage": "Decorative hero only; never project, review, before/after, or location proof."
+    },
+    "LOC-111": {
+      "assetKey": "AI-OUTDOOR-LIVING-DECORATIVE-001",
+      "niche": "Outdoor Living / Multi-service",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/outdoor-living-decorative-v1.webp",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "usage": "Decorative hero only; never project, review, before/after, or location proof."
+    },
+    "LOC-090": {
+      "assetKey": "AI-LAWN-CARE-DECORATIVE-001",
+      "niche": "Landscaping & Lawn Care",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/lawn-care-decorative-v1.webp",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "usage": "Decorative hero only; never project, review, before/after, or location proof."
+    },
+    "LOC-091": {
+      "assetKey": "AI-LAWN-CARE-DECORATIVE-001",
+      "niche": "Landscaping & Lawn Care",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/lawn-care-decorative-v1.webp",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "usage": "Decorative hero only; never project, review, before/after, or location proof."
+    },
+    "LOC-092": {
+      "assetKey": "AI-HOME-WATCH-DECORATIVE-001",
+      "niche": "Home Watch",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/home-watch-decorative-v1.webp",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "usage": "Decorative hero only; never project, review, before/after, or location proof."
+    },
+    "LOC-094": {
+      "assetKey": "AI-HURRICANE-SERVICES-DECORATIVE-001",
+      "niche": "Hurricane Services",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/hurricane-preparation-decorative-v1.webp",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "usage": "Decorative hero only; never project, review, before/after, or location proof."
+    },
+    "LOC-098": {
+      "assetKey": "AI-HOME-SERVICES-DECORATIVE-001",
+      "niche": "Needs Review / Neutral Home Services",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/home-services-neutral-decorative-v1.webp",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "usage": "Decorative hero only; never project, review, before/after, or location proof."
+    },
+    "LOC-104": {
+      "assetKey": "AI-POOL-SERVICE-DECORATIVE-001",
+      "niche": "Pool Service",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/pool-service-decorative-v1.webp",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "usage": "Decorative hero only; never project, review, before/after, or location proof."
+    },
+    "LOC-106": {
+      "assetKey": "AI-HVAC-DECORATIVE-001",
+      "niche": "HVAC",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/hvac-decorative-v1.webp",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "usage": "Decorative hero only; never project, review, before/after, or location proof."
+    },
+    "LOC-107": {
+      "assetKey": "AI-HANDYMAN-DECORATIVE-001",
+      "niche": "Handyman",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/handyman-decorative-v1.webp",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "usage": "Decorative hero only; never project, review, before/after, or location proof."
+    },
+    "LOC-108": {
+      "assetKey": "AI-CRAWLSPACE-DECORATIVE-001",
+      "niche": "Crawlspace",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/crawlspace-decorative-v1.webp",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "usage": "Decorative hero only; never project, review, before/after, or location proof."
+    },
+    "LOC-109": {
+      "assetKey": "AI-CRAWLSPACE-DECORATIVE-001",
+      "niche": "Crawlspace",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/crawlspace-decorative-v1.webp",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "usage": "Decorative hero only; never project, review, before/after, or location proof."
+    },
+    "LOC-110": {
+      "assetKey": "AI-CRAWLSPACE-DECORATIVE-001",
+      "niche": "Crawlspace",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/crawlspace-decorative-v1.webp",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "usage": "Decorative hero only; never project, review, before/after, or location proof."
+    },
+    "LOC-112": {
+      "assetKey": "AI-TREE-SERVICE-DECORATIVE-001",
+      "niche": "Tree Service",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/tree-service-decorative-v1.webp",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "usage": "Decorative hero only; never project, review, before/after, or location proof."
+    },
+    "LOC-114": {
+      "assetKey": "AI-CONCRETE-PAVERS-DECORATIVE-001",
+      "niche": "Concrete & Pavers",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/concrete-pavers-decorative-v1.webp",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "usage": "Decorative hero only; never project, review, before/after, or location proof."
+    },
+    "LOC-117": {
+      "assetKey": "AI-CONCRETE-PAVERS-DECORATIVE-001",
+      "niche": "Concrete & Pavers",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/concrete-pavers-decorative-v1.webp",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "usage": "Decorative hero only; never project, review, before/after, or location proof."
+    },
+    "LOC-116": {
+      "assetKey": "AI-JUNK-REMOVAL-DECORATIVE-001",
+      "niche": "Junk Removal",
+      "webUrl": "/__palettes__/generated-media/uncovered-sites/web/junk-removal-decorative-v1.webp",
+      "source": "AI-Assisted",
+      "approvalStatus": "Shortlisted",
+      "usage": "Decorative hero only; never project, review, before/after, or location proof."
+    }
+  }
+}

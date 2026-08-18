@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "siteKey": "baltimore-french-drain",
+  "sourceType": "brand-board-jpeg",
+  "sourceFile": "Blatimore French Drain.jpeg",
+  "sha256": "2cf70a74d9e682507f99805487d78b7a8aa5655217215963f95c7181eda6c6fe",
+  "dimensions": {
+    "width": 1600,
+    "height": 900
+  },
+  "observations": [
+    "four printed brand colors",
+    "heading, body, and accent font roles",
+    "logo, wordmark, icon, and favicon examples"
+  ],
+  "confidence": "high",
+  "assetPolicy": "board is token evidence; website logo slots remain placeholders until source vector files are supplied"
+}

@@ -1,0 +1,26 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "llg-lead-router",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-08-08",
+  "compatibility_flags": ["nodejs_compat"],
+  "workers_dev": true,
+  "preview_urls": true,
+  "vars": {
+    "MODE": "staging",
+    "EMAIL_ENABLED": "false",
+    "DEFAULT_SENDER": "",
+    "TURNSTILE_EXPECTED_ACTION": "lead_submit",
+    "TURNSTILE_SECRET_KEY": "1x0000000000000000000000000000000AA"
+  },
+  "d1_databases": [{ "binding": "DB", "database_name": "llg-lead-router-staging", "database_id": "52d32821-7f00-4f4d-9931-a399c1b7c467", "migrations_dir": "migrations" }],
+  "queues": {
+    "producers": [{ "binding": "LEAD_QUEUE", "queue": "llg-leads-staging" }],
+    "consumers": [{ "queue": "llg-leads-staging", "dead_letter_queue": "llg-leads-staging-dlq", "max_batch_size": 10, "max_batch_timeout": 5, "max_retries": 5, "retry_delay": 30 }]
+  },
+  "observability": {
+    "enabled": true,
+    "logs": { "head_sampling_rate": 1 },
+    "traces": { "enabled": true, "head_sampling_rate": 0.05 }
+  }
+}

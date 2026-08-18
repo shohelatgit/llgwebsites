@@ -1,0 +1,66 @@
+{
+  "siteKey": "pgh-pool-service",
+  "stage": "staging",
+  "currentCrawlContract": {
+    "metaRobots": "noindex,nofollow",
+    "robotsTxt": "Disallow: /",
+    "xRobotsTag": "noindex, nofollow",
+    "sitemap": "empty"
+  },
+  "productionCandidate": {
+    "origin": "https://pghpoolservice.com",
+    "urls": [
+      {
+        "path": "/",
+        "canonical": "https://pghpoolservice.com/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/",
+        "canonical": "https://pghpoolservice.com/services/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/pool-cleaning/",
+        "canonical": "https://pghpoolservice.com/services/pool-cleaning/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/pool-maintenance/",
+        "canonical": "https://pghpoolservice.com/services/pool-maintenance/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/pool-equipment-service/",
+        "canonical": "https://pghpoolservice.com/services/pool-equipment-service/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/water-care/",
+        "canonical": "https://pghpoolservice.com/services/water-care/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/service-areas/",
+        "canonical": "https://pghpoolservice.com/service-areas/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/about/",
+        "canonical": "https://pghpoolservice.com/about/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/contact/",
+        "canonical": "https://pghpoolservice.com/contact/",
+        "indexState": "pending-approval"
+      }
+    ]
+  },
+  "releaseBlockers": [
+    "routing approval",
+    "claim review",
+    "phone forwarding test",
+    "canonical/domain approval"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "siteKey": "crawlspace-cary-nc",
+  "sourceType": "brand-board-jpeg",
+  "sourceFile": "Crawlspace Cary NC.jpeg",
+  "sha256": "e0adef4bdd958759ab1fa597788c9c644c2e8ee93dede248cadf4ee774b54e40",
+  "dimensions": {
+    "width": 1600,
+    "height": 900
+  },
+  "observations": [
+    "four printed brand colors",
+    "heading, body, and accent font roles",
+    "logo, wordmark, icon, and favicon examples"
+  ],
+  "confidence": "high",
+  "assetPolicy": "board is token evidence; website logo slots remain placeholders until source vector files are supplied"
+}

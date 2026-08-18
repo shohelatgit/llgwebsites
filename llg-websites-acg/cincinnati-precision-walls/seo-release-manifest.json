@@ -1,0 +1,66 @@
+{
+  "siteKey": "cincinnati-precision-walls",
+  "stage": "staging",
+  "currentCrawlContract": {
+    "metaRobots": "noindex,nofollow",
+    "robotsTxt": "Disallow: /",
+    "xRobotsTag": "noindex, nofollow",
+    "sitemap": "empty"
+  },
+  "productionCandidate": {
+    "origin": "https://cincinnatiprecisionwalls.com",
+    "urls": [
+      {
+        "path": "/",
+        "canonical": "https://cincinnatiprecisionwalls.com/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/",
+        "canonical": "https://cincinnatiprecisionwalls.com/services/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/retaining-wall-installation/",
+        "canonical": "https://cincinnatiprecisionwalls.com/services/retaining-wall-installation/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/segmental-block-walls/",
+        "canonical": "https://cincinnatiprecisionwalls.com/services/segmental-block-walls/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/natural-stone-walls/",
+        "canonical": "https://cincinnatiprecisionwalls.com/services/natural-stone-walls/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/retaining-wall-repair/",
+        "canonical": "https://cincinnatiprecisionwalls.com/services/retaining-wall-repair/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/service-areas/",
+        "canonical": "https://cincinnatiprecisionwalls.com/service-areas/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/about/",
+        "canonical": "https://cincinnatiprecisionwalls.com/about/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/contact/",
+        "canonical": "https://cincinnatiprecisionwalls.com/contact/",
+        "indexState": "pending-approval"
+      }
+    ]
+  },
+  "releaseBlockers": [
+    "routing approval",
+    "claim review",
+    "phone forwarding test",
+    "canonical/domain approval"
+  ]
+}

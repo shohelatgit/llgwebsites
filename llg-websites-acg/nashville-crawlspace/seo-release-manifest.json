@@ -1,0 +1,66 @@
+{
+  "siteKey": "nashville-crawlspace",
+  "stage": "staging",
+  "currentCrawlContract": {
+    "metaRobots": "noindex,nofollow",
+    "robotsTxt": "Disallow: /",
+    "xRobotsTag": "noindex, nofollow",
+    "sitemap": "empty"
+  },
+  "productionCandidate": {
+    "origin": "https://nashville-crawlspace.com",
+    "urls": [
+      {
+        "path": "/",
+        "canonical": "https://nashville-crawlspace.com/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/",
+        "canonical": "https://nashville-crawlspace.com/services/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/crawlspace-encapsulation/",
+        "canonical": "https://nashville-crawlspace.com/services/crawlspace-encapsulation/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/crawlspace-drainage/",
+        "canonical": "https://nashville-crawlspace.com/services/crawlspace-drainage/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/moisture-control/",
+        "canonical": "https://nashville-crawlspace.com/services/moisture-control/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/dehumidifier-solutions/",
+        "canonical": "https://nashville-crawlspace.com/services/dehumidifier-solutions/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/service-areas/",
+        "canonical": "https://nashville-crawlspace.com/service-areas/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/about/",
+        "canonical": "https://nashville-crawlspace.com/about/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/contact/",
+        "canonical": "https://nashville-crawlspace.com/contact/",
+        "indexState": "pending-approval"
+      }
+    ]
+  },
+  "releaseBlockers": [
+    "routing approval",
+    "claim review",
+    "phone forwarding test",
+    "canonical/domain approval"
+  ]
+}

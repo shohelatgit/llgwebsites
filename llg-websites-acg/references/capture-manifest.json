@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "purpose": "first-five clone-faithful rebuild inputs",
+  "targets": [
+    {"site":"connecticut-drain-pros","sourceClone":"horizonfix-clone","targetAssets":"connecticut-drain-pros","viewport":"1440xauto"},
+    {"site":"dallas-drain-guys","sourceClone":"minuteman-clone","targetAssets":"dallas-drain-guys","viewport":"1440xauto"},
+    {"site":"louisville-precision-walls","sourceClone":"pinks-concrete-clone","targetAssets":"louisville-precision-walls","viewport":"1440xauto"},
+    {"site":"morgantown-fence-pros","sourceClone":"welborn-garage-clone","targetAssets":"morgantown-fence-pros","viewport":"1440xauto"},
+    {"site":"pittsburgh-french-drain-site","sourceClone":"roofrightnow-clone","targetAssets":"Pittsburgh-French-Drain-Site","viewport":"1440xauto"}
+  ]
+}

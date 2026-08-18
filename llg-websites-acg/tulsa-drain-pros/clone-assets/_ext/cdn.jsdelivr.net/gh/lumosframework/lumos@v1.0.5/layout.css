@@ -1,0 +1,411 @@
+/**
+ * Lumos Layout 1.0.5
+ * Copyright 2023 Timothy Ricks
+ * Released under the MIT License
+ * Released on: July 30, 2023
+*/
+
+* {
+  --grid-row-gap: 0;
+  grid-row-gap: var(--grid-row-gap);
+  --grid-column-gap: 0;
+  grid-column-gap: var(--grid-column-gap);
+}
+[class*="gd1"] {
+  --grid-row-gap: var(--default-row-gap);
+  --grid-column-gap: var(--default-column-gap);
+  display: grid;
+  grid-template-columns: repeat(var(--col-count), minmax(0, 1fr));
+  grid-template-rows: auto;
+  --col-count: 1;
+  --col-span: 1;
+  --col-start: auto;
+  --row-span: 1;
+}
+[class*="gd1"] > * {
+  grid-column-start: var(--col-start) !important;
+  grid-column-end: span var(--col-span) !important;
+  grid-row-start: auto !important;
+  grid-row-end: span var(--row-span) !important;
+}
+/* column portrait */
+[class*="cp1"] { --col-count: 1; }
+[class*="cp2"] { --col-count: 2; }
+[class*="cp3"] { --col-count: 3; }
+[class*="cp4"] { --col-count: 4; }
+[class*="cp5"] { --col-count: 5; }
+[class*="cp6"] { --col-count: 6; }
+[class*="cp7"] { --col-count: 7; }
+[class*="cp8"] { --col-count: 8; }
+[class*="cp9"] { --col-count: 9; }
+[class*="cp10"] { --col-count: 10; }
+[class*="cp11"] { --col-count: 11; }
+[class*="cp12"] { --col-count: 12; }
+[class*="cp13"] { --col-count: 13; }
+[class*="cp14"] { --col-count: 14; }
+[class*="cp15"] { --col-count: 15; }
+[class*="cp16"] { --col-count: 16; }
+[class*="cp17"] { --col-count: 17; }
+[class*="cp18"] { --col-count: 18; }
+[class*="cp19"] { --col-count: 19; }
+[class*="cp20"] { --col-count: 20; }
+[class*="cp21"] { --col-count: 21; }
+[class*="cp22"] { --col-count: 22; }
+[class*="cp23"] { --col-count: 23; }
+[class*="cp24"] { --col-count: 24; }
+/* item columns portrait */
+[class*="gd1"] > [class*="cp1"] { --col-span: 1; }
+[class*="gd1"] > [class*="cp2"] { --col-span: 2; }
+[class*="gd1"] > [class*="cp3"] { --col-span: 3; }
+[class*="gd1"] > [class*="cp4"] { --col-span: 4; }
+[class*="gd1"] > [class*="cp5"] { --col-span: 5; }
+[class*="gd1"] > [class*="cp6"] { --col-span: 6; }
+[class*="gd1"] > [class*="cp7"] { --col-span: 7; }
+[class*="gd1"] > [class*="cp8"] { --col-span: 8; }
+[class*="gd1"] > [class*="cp9"] { --col-span: 9; }
+[class*="gd1"] > [class*="cp10"] { --col-span: 10; }
+[class*="gd1"] > [class*="cp11"] { --col-span: 11; }
+[class*="gd1"] > [class*="cp12"] { --col-span: 12; }
+[class*="gd1"] > [class*="cp13"] { --col-span: 13; }
+[class*="gd1"] > [class*="cp14"] { --col-span: 14; }
+[class*="gd1"] > [class*="cp15"] { --col-span: 15; }
+[class*="gd1"] > [class*="cp16"] { --col-span: 16; }
+[class*="gd1"] > [class*="cp17"] { --col-span: 17; }
+[class*="gd1"] > [class*="cp18"] { --col-span: 18; }
+[class*="gd1"] > [class*="cp19"] { --col-span: 19; }
+[class*="gd1"] > [class*="cp20"] { --col-span: 20; }
+[class*="gd1"] > [class*="cp21"] { --col-span: 21; }
+[class*="gd1"] > [class*="cp22"] { --col-span: 22; }
+[class*="gd1"] > [class*="cp23"] { --col-span: 23; }
+[class*="gd1"] > [class*="cp24"] { --col-span: 24; }
+/* row portrait */
+[class*="rp1"] { --row-span: 1; }
+[class*="rp2"] { --row-span: 2; }
+[class*="rp3"] { --row-span: 3; }
+[class*="rp4"] { --row-span: 4; }
+[class*="rp5"] { --row-span: 5; }
+[class*="rp6"] { --row-span: 6; }
+[class*="rp7"] { --row-span: 7; }
+[class*="rp8"] { --row-span: 8; }
+[class*="rp9"] { --row-span: 9; }
+[class*="rp10"] { --row-span: 10; }
+[class*="rp11"] { --row-span: 11; }
+[class*="rp12"] { --row-span: 12; }
+/* start portrait */
+[class*="sp1"] { --col-start: 1; }
+[class*="sp2"] { --col-start: 2; }
+[class*="sp3"] { --col-start: 3; }
+[class*="sp4"] { --col-start: 4; }
+[class*="sp5"] { --col-start: 5; }
+[class*="sp6"] { --col-start: 6; }
+[class*="sp7"] { --col-start: 7; }
+[class*="sp8"] { --col-start: 8; }
+[class*="sp9"] { --col-start: 9; }
+[class*="sp10"] { --col-start: 10; }
+[class*="sp11"] { --col-start: 11; }
+[class*="sp12"] { --col-start: 12; }
+[class*="sp13"] { --col-start: 13; }
+[class*="sp14"] { --col-start: 14; }
+[class*="sp15"] { --col-start: 15; }
+[class*="sp16"] { --col-start: 16; }
+[class*="sp17"] { --col-start: 17; }
+[class*="sp18"] { --col-start: 18; }
+[class*="sp19"] { --col-start: 19; }
+[class*="sp20"] { --col-start: 20; }
+[class*="sp21"] { --col-start: 21; }
+[class*="sp22"] { --col-start: 22; }
+[class*="sp23"] { --col-start: 23; }
+[class*="sp24"] { --col-start: 24; }
+[class*="sp0"] { --col-start: auto; }
+/* order portrait */
+[class*="op1"] { order: -1; }
+[class*="op2"] { order: 1; }
+[class*="op0"] { order: 0; }
+
+@media screen and (min-width: 480px) {
+  /* column landscape */
+  [class*="cl1"] { --col-count: 1; }
+  [class*="cl2"] { --col-count: 2; }
+  [class*="cl3"] { --col-count: 3; }
+  [class*="cl4"] { --col-count: 4; }
+  [class*="cl5"] { --col-count: 5; }
+  [class*="cl6"] { --col-count: 6; }
+  [class*="cl7"] { --col-count: 7; }
+  [class*="cl8"] { --col-count: 8; }
+  [class*="cl9"] { --col-count: 9; }
+  [class*="cl10"] { --col-count: 10; }
+  [class*="cl11"] { --col-count: 11; }
+  [class*="cl12"] { --col-count: 12; }
+  [class*="cl13"] { --col-count: 13; }
+  [class*="cl14"] { --col-count: 14; }
+  [class*="cl15"] { --col-count: 15; }
+  [class*="cl16"] { --col-count: 16; }
+  [class*="cl17"] { --col-count: 17; }
+  [class*="cl18"] { --col-count: 18; }
+  [class*="cl19"] { --col-count: 19; }
+  [class*="cl20"] { --col-count: 20; }
+  [class*="cl21"] { --col-count: 21; }
+  [class*="cl22"] { --col-count: 22; }
+  [class*="cl23"] { --col-count: 23; }
+  [class*="cl24"] { --col-count: 24; }
+  /* item columns landscape */
+  [class*="gd1"] > [class*="cl1"] { --col-span: 1; }
+  [class*="gd1"] > [class*="cl2"] { --col-span: 2; }
+  [class*="gd1"] > [class*="cl3"] { --col-span: 3; }
+  [class*="gd1"] > [class*="cl4"] { --col-span: 4; }
+  [class*="gd1"] > [class*="cl5"] { --col-span: 5; }
+  [class*="gd1"] > [class*="cl6"] { --col-span: 6; }
+  [class*="gd1"] > [class*="cl7"] { --col-span: 7; }
+  [class*="gd1"] > [class*="cl8"] { --col-span: 8; }
+  [class*="gd1"] > [class*="cl9"] { --col-span: 9; }
+  [class*="gd1"] > [class*="cl10"] { --col-span: 10; }
+  [class*="gd1"] > [class*="cl11"] { --col-span: 11; }
+  [class*="gd1"] > [class*="cl12"] { --col-span: 12; }
+  [class*="gd1"] > [class*="cl13"] { --col-span: 13; }
+  [class*="gd1"] > [class*="cl14"] { --col-span: 14; }
+  [class*="gd1"] > [class*="cl15"] { --col-span: 15; }
+  [class*="gd1"] > [class*="cl16"] { --col-span: 16; }
+  [class*="gd1"] > [class*="cl17"] { --col-span: 17; }
+  [class*="gd1"] > [class*="cl18"] { --col-span: 18; }
+  [class*="gd1"] > [class*="cl19"] { --col-span: 19; }
+  [class*="gd1"] > [class*="cl20"] { --col-span: 20; }
+  [class*="gd1"] > [class*="cl21"] { --col-span: 21; }
+  [class*="gd1"] > [class*="cl22"] { --col-span: 22; }
+  [class*="gd1"] > [class*="cl23"] { --col-span: 23; }
+  [class*="gd1"] > [class*="cl24"] { --col-span: 24; }
+  /* row landscape */
+  [class*="rl1"] { --row-span: 1; }
+  [class*="rl2"] { --row-span: 2; }
+  [class*="rl3"] { --row-span: 3; }
+  [class*="rl4"] { --row-span: 4; }
+  [class*="rl5"] { --row-span: 5; }
+  [class*="rl6"] { --row-span: 6; }
+  [class*="rl7"] { --row-span: 7; }
+  [class*="rl8"] { --row-span: 8; }
+  [class*="rl9"] { --row-span: 9; }
+  [class*="rl10"] { --row-span: 10; }
+  [class*="rl11"] { --row-span: 11; }
+  [class*="rl12"] { --row-span: 12; }
+  /* start landscape */
+  [class*="sl1"] { --col-start: 1; }
+  [class*="sl2"] { --col-start: 2; }
+  [class*="sl3"] { --col-start: 3; }
+  [class*="sl4"] { --col-start: 4; }
+  [class*="sl5"] { --col-start: 5; }
+  [class*="sl6"] { --col-start: 6; }
+  [class*="sl7"] { --col-start: 7; }
+  [class*="sl8"] { --col-start: 8; }
+  [class*="sl9"] { --col-start: 9; }
+  [class*="sl10"] { --col-start: 10; }
+  [class*="sl11"] { --col-start: 11; }
+  [class*="sl12"] { --col-start: 12; }
+  [class*="sl13"] { --col-start: 13; }
+  [class*="sl14"] { --col-start: 14; }
+  [class*="sl15"] { --col-start: 15; }
+  [class*="sl16"] { --col-start: 16; }
+  [class*="sl17"] { --col-start: 17; }
+  [class*="sl18"] { --col-start: 18; }
+  [class*="sl19"] { --col-start: 19; }
+  [class*="sl20"] { --col-start: 20; }
+  [class*="sl21"] { --col-start: 21; }
+  [class*="sl22"] { --col-start: 22; }
+  [class*="sl23"] { --col-start: 23; }
+  [class*="sl24"] { --col-start: 24; }
+  [class*="sl0"] { --col-start: auto; }
+  /* order landscape */
+  [class*="ol1"] { order: -1; }
+  [class*="ol2"] { order: 1; }
+  [class*="ol0"] { order: 0; }
+}
+
+@media screen and (min-width: 768px) {
+  /* column tablet */
+  [class*="ct1"] { --col-count: 1; }
+  [class*="ct2"] { --col-count: 2; }
+  [class*="ct3"] { --col-count: 3; }
+  [class*="ct4"] { --col-count: 4; }
+  [class*="ct5"] { --col-count: 5; }
+  [class*="ct6"] { --col-count: 6; }
+  [class*="ct7"] { --col-count: 7; }
+  [class*="ct8"] { --col-count: 8; }
+  [class*="ct9"] { --col-count: 9; }
+  [class*="ct10"] { --col-count: 10; }
+  [class*="ct11"] { --col-count: 11; }
+  [class*="ct12"] { --col-count: 12; }
+  [class*="ct13"] { --col-count: 13; }
+  [class*="ct14"] { --col-count: 14; }
+  [class*="ct15"] { --col-count: 15; }
+  [class*="ct16"] { --col-count: 16; }
+  [class*="ct17"] { --col-count: 17; }
+  [class*="ct18"] { --col-count: 18; }
+  [class*="ct19"] { --col-count: 19; }
+  [class*="ct20"] { --col-count: 20; }
+  [class*="ct21"] { --col-count: 21; }
+  [class*="ct22"] { --col-count: 22; }
+  [class*="ct23"] { --col-count: 23; }
+  [class*="ct24"] { --col-count: 24; }
+  /* item columns tablet */
+  [class*="gd1"] > [class*="ct1"] { --col-span: 1; }
+  [class*="gd1"] > [class*="ct2"] { --col-span: 2; }
+  [class*="gd1"] > [class*="ct3"] { --col-span: 3; }
+  [class*="gd1"] > [class*="ct4"] { --col-span: 4; }
+  [class*="gd1"] > [class*="ct5"] { --col-span: 5; }
+  [class*="gd1"] > [class*="ct6"] { --col-span: 6; }
+  [class*="gd1"] > [class*="ct7"] { --col-span: 7; }
+  [class*="gd1"] > [class*="ct8"] { --col-span: 8; }
+  [class*="gd1"] > [class*="ct9"] { --col-span: 9; }
+  [class*="gd1"] > [class*="ct10"] { --col-span: 10; }
+  [class*="gd1"] > [class*="ct11"] { --col-span: 11; }
+  [class*="gd1"] > [class*="ct12"] { --col-span: 12; }
+  [class*="gd1"] > [class*="ct13"] { --col-span: 13; }
+  [class*="gd1"] > [class*="ct14"] { --col-span: 14; }
+  [class*="gd1"] > [class*="ct15"] { --col-span: 15; }
+  [class*="gd1"] > [class*="ct16"] { --col-span: 16; }
+  [class*="gd1"] > [class*="ct17"] { --col-span: 17; }
+  [class*="gd1"] > [class*="ct18"] { --col-span: 18; }
+  [class*="gd1"] > [class*="ct19"] { --col-span: 19; }
+  [class*="gd1"] > [class*="ct20"] { --col-span: 20; }
+  [class*="gd1"] > [class*="ct21"] { --col-span: 21; }
+  [class*="gd1"] > [class*="ct22"] { --col-span: 22; }
+  [class*="gd1"] > [class*="ct23"] { --col-span: 23; }
+  [class*="gd1"] > [class*="ct24"] { --col-span: 24; }
+  /* row tablet */
+  [class*="rt1"] { --row-span: 1; }
+  [class*="rt2"] { --row-span: 2; }
+  [class*="rt3"] { --row-span: 3; }
+  [class*="rt4"] { --row-span: 4; }
+  [class*="rt5"] { --row-span: 5; }
+  [class*="rt6"] { --row-span: 6; }
+  [class*="rt7"] { --row-span: 7; }
+  [class*="rt8"] { --row-span: 8; }
+  [class*="rt9"] { --row-span: 9; }
+  [class*="rt10"] { --row-span: 10; }
+  [class*="rt11"] { --row-span: 11; }
+  [class*="rt12"] { --row-span: 12; }
+  /* start tablet */
+  [class*="st1"] { --col-start: 1; }
+  [class*="st2"] { --col-start: 2; }
+  [class*="st3"] { --col-start: 3; }
+  [class*="st4"] { --col-start: 4; }
+  [class*="st5"] { --col-start: 5; }
+  [class*="st6"] { --col-start: 6; }
+  [class*="st7"] { --col-start: 7; }
+  [class*="st8"] { --col-start: 8; }
+  [class*="st9"] { --col-start: 9; }
+  [class*="st10"] { --col-start: 10; }
+  [class*="st11"] { --col-start: 11; }
+  [class*="st12"] { --col-start: 12; }
+  [class*="st13"] { --col-start: 13; }
+  [class*="st14"] { --col-start: 14; }
+  [class*="st15"] { --col-start: 15; }
+  [class*="st16"] { --col-start: 16; }
+  [class*="st17"] { --col-start: 17; }
+  [class*="st18"] { --col-start: 18; }
+  [class*="st19"] { --col-start: 19; }
+  [class*="st20"] { --col-start: 20; }
+  [class*="st21"] { --col-start: 21; }
+  [class*="st22"] { --col-start: 22; }
+  [class*="st23"] { --col-start: 23; }
+  [class*="st24"] { --col-start: 24; }
+  [class*="st0"] { --col-start: auto; }
+  /* order tablet */
+  [class*="ot1"] { order: -1; }
+  [class*="ot2"] { order: 1; }
+  [class*="ot0"] { order: 0; }
+}
+
+@media screen and (min-width: 992px) {
+  /* column desktop */
+  [class*="cd1"] { --col-count: 1; }
+  [class*="cd2"] { --col-count: 2; }
+  [class*="cd3"] { --col-count: 3; }
+  [class*="cd4"] { --col-count: 4; }
+  [class*="cd5"] { --col-count: 5; }
+  [class*="cd6"] { --col-count: 6; }
+  [class*="cd7"] { --col-count: 7; }
+  [class*="cd8"] { --col-count: 8; }
+  [class*="cd9"] { --col-count: 9; }
+  [class*="cd10"] { --col-count: 10; }
+  [class*="cd11"] { --col-count: 11; }
+  [class*="cd12"] { --col-count: 12; }
+  [class*="cd13"] { --col-count: 13; }
+  [class*="cd14"] { --col-count: 14; }
+  [class*="cd15"] { --col-count: 15; }
+  [class*="cd16"] { --col-count: 16; }
+  [class*="cd17"] { --col-count: 17; }
+  [class*="cd18"] { --col-count: 18; }
+  [class*="cd19"] { --col-count: 19; }
+  [class*="cd20"] { --col-count: 20; }
+  [class*="cd21"] { --col-count: 21; }
+  [class*="cd22"] { --col-count: 22; }
+  [class*="cd23"] { --col-count: 23; }
+  [class*="cd24"] { --col-count: 24; }
+  /* item columns desktop */
+  [class*="gd1"] > [class*="cd1"] { --col-span: 1; }
+  [class*="gd1"] > [class*="cd2"] { --col-span: 2; }
+  [class*="gd1"] > [class*="cd3"] { --col-span: 3; }
+  [class*="gd1"] > [class*="cd4"] { --col-span: 4; }
+  [class*="gd1"] > [class*="cd5"] { --col-span: 5; }
+  [class*="gd1"] > [class*="cd6"] { --col-span: 6; }
+  [class*="gd1"] > [class*="cd7"] { --col-span: 7; }
+  [class*="gd1"] > [class*="cd8"] { --col-span: 8; }
+  [class*="gd1"] > [class*="cd9"] { --col-span: 9; }
+  [class*="gd1"] > [class*="cd10"] { --col-span: 10; }
+  [class*="gd1"] > [class*="cd11"] { --col-span: 11; }
+  [class*="gd1"] > [class*="cd12"] { --col-span: 12; }
+  [class*="gd1"] > [class*="cd13"] { --col-span: 13; }
+  [class*="gd1"] > [class*="cd14"] { --col-span: 14; }
+  [class*="gd1"] > [class*="cd15"] { --col-span: 15; }
+  [class*="gd1"] > [class*="cd16"] { --col-span: 16; }
+  [class*="gd1"] > [class*="cd17"] { --col-span: 17; }
+  [class*="gd1"] > [class*="cd18"] { --col-span: 18; }
+  [class*="gd1"] > [class*="cd19"] { --col-span: 19; }
+  [class*="gd1"] > [class*="cd20"] { --col-span: 20; }
+  [class*="gd1"] > [class*="cd21"] { --col-span: 21; }
+  [class*="gd1"] > [class*="cd22"] { --col-span: 22; }
+  [class*="gd1"] > [class*="cd23"] { --col-span: 23; }
+  [class*="gd1"] > [class*="cd24"] { --col-span: 24; }
+  /* row desktop */
+  [class*="rd1"] { --row-span: 1; }
+  [class*="rd2"] { --row-span: 2; }
+  [class*="rd3"] { --row-span: 3; }
+  [class*="rd4"] { --row-span: 4; }
+  [class*="rd5"] { --row-span: 5; }
+  [class*="rd6"] { --row-span: 6; }
+  [class*="rd7"] { --row-span: 7; }
+  [class*="rd8"] { --row-span: 8; }
+  [class*="rd9"] { --row-span: 9; }
+  [class*="rd10"] { --row-span: 10; }
+  [class*="rd11"] { --row-span: 11; }
+  [class*="rd12"] { --row-span: 12; }
+  /* start desktop */
+  [class*="sd1"] { --col-start: 1; }
+  [class*="sd2"] { --col-start: 2; }
+  [class*="sd3"] { --col-start: 3; }
+  [class*="sd4"] { --col-start: 4; }
+  [class*="sd5"] { --col-start: 5; }
+  [class*="sd6"] { --col-start: 6; }
+  [class*="sd7"] { --col-start: 7; }
+  [class*="sd8"] { --col-start: 8; }
+  [class*="sd9"] { --col-start: 9; }
+  [class*="sd10"] { --col-start: 10; }
+  [class*="sd11"] { --col-start: 11; }
+  [class*="sd12"] { --col-start: 12; }
+  [class*="sd13"] { --col-start: 13; }
+  [class*="sd14"] { --col-start: 14; }
+  [class*="sd15"] { --col-start: 15; }
+  [class*="sd16"] { --col-start: 16; }
+  [class*="sd17"] { --col-start: 17; }
+  [class*="sd18"] { --col-start: 18; }
+  [class*="sd19"] { --col-start: 19; }
+  [class*="sd20"] { --col-start: 20; }
+  [class*="sd21"] { --col-start: 21; }
+  [class*="sd22"] { --col-start: 22; }
+  [class*="sd23"] { --col-start: 23; }
+  [class*="sd24"] { --col-start: 24; }
+  [class*="sd0"] { --col-start: auto; }
+  /* order desktop */
+  [class*="od1"] { order: -1; }
+  [class*="od2"] { order: 1; }
+  [class*="od0"] { order: 0; }
+}

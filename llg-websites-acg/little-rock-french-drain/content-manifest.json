@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "stage": "staging",
+  "site": {
+    "slug": "little-rock-french-drain",
+    "displayName": "Little Rock French Drain",
+    "domain": "littlerockfrenchdrain.com",
+    "trade": "Drainage",
+    "location": "Little Rock"
+  },
+  "sourceAdoption": {
+    "package": "Roof Right Now",
+    "homepageExport": "C:\\Users\\Justin Abrams\\OneDrive\\Documents\\Playground\\.codex-work\\llg-clone-sources\\roofrightnow-clone\\roofrightnow-clone\\site\\index.html",
+    "preserved": [
+      "homepage DOM and classes",
+      "local CSS/JS/fonts",
+      "section order",
+      "source breakpoints"
+    ]
+  },
+  "brand": {
+    "status": "approved-board-extract",
+    "sourceBoard": "Little Rock French Drain.jpeg",
+    "wordmarkFile": "brandmark.svg",
+    "logoFile": "brandmark.png",
+    "iconFile": "brand-icon.png",
+    "faviconFile": "favicon.png"
+  },
+  "photos": {
+    "status": "representative-stock",
+    "disclosure": "Representative imagery is not presented as completed work by this operator.",
+    "slots": [
+      {
+        "file": "media/representative-1.webp",
+        "role": "hero"
+      },
+      {
+        "file": "media/representative-1.webp",
+        "role": "representative"
+      },
+      {
+        "file": "media/representative-2.webp",
+        "role": "representative"
+      },
+      {
+        "file": "media/representative-3.webp",
+        "role": "representative"
+      },
+      {
+        "file": "media/representative-2.webp",
+        "role": "representative"
+      }
+    ]
+  },
+  "reviews": {
+    "status": "interim-copy",
+    "items": [
+      "They found where the water was entering, explained the plan clearly, and left the yard clean after the work.",
+      "The crew communicated well from the first visit through the final walkthrough. Our drainage issue finally has a clear solution.",
+      "Professional, organized, and easy to work with. We appreciated the straightforward recommendations."
+    ]
+  },
+  "phone": {
+    "status": "callrail-active",
+    "display": "501-459-7779",
+    "tel": "+15014597779"
+  },
+  "address": {
+    "status": "pending-verified-intake",
+    "value": null
+  },
+  "gbp": {
+    "status": "pending-verified-intake",
+    "url": null
+  },
+  "claims": {
+    "status": "pending-verified-intake",
+    "credentials": [],
+    "awards": [],
+    "warranties": []
+  },
+  "intake": {
+    "status": "pending-production-endpoint",
+    "stagingMode": "mailto",
+    "email": "info@littlerockfrenchdrain.com",
+    "storesSubmissions": false
+  },
+  "indexing": {
+    "status": "blocked-for-staging",
+    "metaRobots": "noindex,nofollow",
+    "robotsTxt": "Disallow: /",
+    "xRobotsTag": "noindex, nofollow"
+  }
+}

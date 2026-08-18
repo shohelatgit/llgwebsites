@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "siteKey": "nashville-backyards",
+  "sourceType": "brand-board-jpeg",
+  "sourceFile": "Nashvlle Backyards.jpeg",
+  "sha256": "e3eee172eb2d89d433b195441e9a44dc166fe790b0a80ee0805edabe95365d15",
+  "dimensions": {
+    "width": 1600,
+    "height": 900
+  },
+  "observations": [
+    "four printed brand colors",
+    "heading, body, and accent font roles",
+    "logo, wordmark, icon, and favicon examples"
+  ],
+  "confidence": "high",
+  "assetPolicy": "board is token evidence; website logo slots remain placeholders until source vector files are supplied"
+}

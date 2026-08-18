@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "siteKey": "charlotte-precision-walls",
+  "sourceType": "brand-board-jpeg",
+  "sourceFile": "Charlotte Precision Walls.jpeg",
+  "sha256": "8efd30a26ed941d674dba21a7a6d35be5e59957fbd763c30548c4c76a5161f62",
+  "dimensions": {
+    "width": 1600,
+    "height": 900
+  },
+  "observations": [
+    "four printed brand colors",
+    "heading, body, and accent font roles",
+    "logo, wordmark, icon, and favicon examples"
+  ],
+  "confidence": "high",
+  "assetPolicy": "board is token evidence; website logo slots remain placeholders until source vector files are supplied"
+}

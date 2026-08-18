@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "siteKey": "morgantown-fence-pros",
+  "sourceType": "brand-board-jpeg",
+  "sourceFile": "Morgantown Fence Pros.jpeg",
+  "sha256": "378a1b80fbbf0df1c50a005c5f73f18d765197853a403219bbfe8abbd2cec9ee",
+  "dimensions": {
+    "width": 1600,
+    "height": 900
+  },
+  "observations": [
+    "four printed brand colors",
+    "heading, body, and accent font roles",
+    "logo, wordmark, icon, and favicon examples"
+  ],
+  "confidence": "high",
+  "assetPolicy": "board is token evidence; website logo slots remain placeholders until source vector files are supplied"
+}

@@ -1,0 +1,54 @@
+name: Factory production Worker release
+
+on:
+  workflow_dispatch:
+    inputs:
+      site:
+        description: Exact source ID or domain from factory/config/production-launch.json
+        required: true
+        type: string
+
+permissions:
+  contents: read
+
+concurrency:
+  group: factory-production-${{ inputs.site }}
+  cancel-in-progress: false
+
+jobs:
+  validate-and-deploy:
+    runs-on: ubuntu-latest
+    environment: cloudflare-review
+    env:
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+          cache-dependency-path: |
+            factory/package-lock.json
+            integrations/launch-lead-gen/package-lock.json
+      - name: Validate intake mapping
+        working-directory: integrations/launch-lead-gen
+        run: |
+          npm install --include=optional --ignore-scripts
+          npm run sync:factory-sites -- --roster ../../factory/review/homepage-palettes/airtable-websites.json
+          npm run check
+          npm test
+      - name: Validate production Worker contract
+        working-directory: factory
+        run: |
+          npm ci
+          npm run cloudflare:prepare-sites
+          npm run factory:validate
+          npm run factory:validate-source
+          npm run factory:validate-production
+      - name: Deploy the selected production-capable Worker
+        working-directory: factory
+        run: npm run cloudflare:deploy-sites -- --site "${{ inputs.site }}" --production --concurrency 1
+      - name: Verify the review hostname remains noindex
+        working-directory: factory
+        run: npm run cloudflare:verify-sites

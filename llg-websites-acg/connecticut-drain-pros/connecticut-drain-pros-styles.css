@@ -1,0 +1,1383 @@
+/* Ubuntu font now loaded in HTML head for performance */
+
+:root {
+    /* Connecticut Drain Pros — Brand: #0A1D3D navy, #00B8F1 cyan, #455A64 slate, #E8ECEF light */
+    --brand-red: #00B8F1;
+    --brand-red-hover: #0099C9;
+    --brand-red-dark: #0082B3;
+    --white: #ffffff;
+    --black: #000000;
+    --gray-dark: #0A1D3D;
+    --gray-medium: #455A64;
+    --gray-light: #E8ECEF;
+    --brand-navy: #0A1D3D;
+    --brand-blue: #00B8F1;
+    --brand-slate: #455A64;
+    --brand-light: #E8ECEF;
+    --shadow-light: 0 2px 10px rgba(10,29,61,0.08);
+    --shadow-medium: 0 5px 15px rgba(10,29,61,0.08);
+    --transition-fast: 0.2s ease;
+    --transition-normal: 0.3s ease;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'DM Sans', sans-serif;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+
+/* === Connecticut Drain Pros — Typography (Barlow Condensed / DM Sans / Oswald) === */
+h1, h2, h3, .section-header h2, .system-card h3, .location-card h3, .form-header h2, .warranty-content h2 {
+    font-family: 'Barlow Condensed', sans-serif;
+    letter-spacing: -0.01em;
+    font-weight: 700;
+}
+.badge, .highlight, .system-badge span, .btn-become-owner, .form-header h3, .footer-links h4, .footer-contact h4, .footer-locations h4 {
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: .04em;
+}
+body, p, .hero-description, .location-card p, .system-card p, .system-features li, .form-disclaimer {
+    font-family: 'DM Sans', sans-serif;
+}
+
+/* Header Styles */
+header {
+    background-color: white;
+    box-shadow: 0 2px 10px rgba(10,29,61,0.08);
+    padding: 4px 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    height: 46px;
+    width: auto;
+    max-height: 46px;
+    margin-right: 0;
+    background: var(--brand-navy);
+    border-radius: 10px;
+    padding: 6px;
+}
+
+.logo span {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: var(--brand-red);
+}
+
+/* Consolidated Navigation Styles */
+.nav-container nav ul {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.nav-container nav ul li a {
+    color: var(--gray-dark);
+    text-decoration: none;
+    font-weight: 500;
+    padding: 8px 12px;
+    transition: color var(--transition-normal);
+}
+
+.nav-container nav ul li a:hover {
+    color: var(--brand-red);
+}
+
+/* Consolidated Dropdown Styles */
+.dropdown {
+    position: relative;
+}
+
+.dropdown-toggle {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.dropdown-toggle i {
+    font-size: 12px;
+    transition: transform var(--transition-fast);
+}
+
+.dropdown.open .dropdown-toggle i {
+    transform: rotate(180deg);
+}
+
+.dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: var(--white);
+    min-width: 180px;
+    box-shadow: var(--shadow-medium);
+    border-radius: 5px;
+    padding: 10px 0;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(10px);
+    transition: all var(--transition-normal);
+    z-index: 100;
+}
+
+.dropdown.open .dropdown-menu {
+    opacity: 1;
+    visibility: visible;
+    display: block;
+    transform: translateY(0);
+}
+
+.dropdown-menu li {
+    margin: 0;
+}
+
+.dropdown-menu a {
+    padding: 10px 20px;
+    display: block;
+    color: var(--gray-dark);
+    font-weight: normal;
+}
+
+.dropdown-menu a:hover {
+    background-color: var(--gray-light);
+    color: var(--brand-red);
+}
+
+/* Consolidated Button Styles */
+.btn-become-owner {
+    background-color: var(--brand-red);
+    color: var(--white) !important;
+    padding: 8px 16px;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none;
+    display: inline-block;
+    transition: background-color var(--transition-normal);
+}
+
+.btn-become-owner:hover {
+    background-color: var(--brand-red-dark);
+    color: var(--white) !important;
+}
+
+/* Mobile Menu Styles */
+.mobile-menu-toggle {
+    display: none;
+}
+
+.hamburger-line {
+    width: 25px;
+    height: 3px;
+    background-color: var(--gray-dark);
+    margin: 3px 0;
+    transition: var(--transition-normal);
+    display: block;
+}
+
+#hamburger-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+}
+
+#hamburger-btn.open .hamburger-line:nth-child(1) {
+    transform: rotate(-45deg) translate(-5px, 6px);
+}
+
+#hamburger-btn.open .hamburger-line:nth-child(2) {
+    opacity: 0;
+}
+
+#hamburger-btn.open .hamburger-line:nth-child(3) {
+    transform: rotate(45deg) translate(-5px, -6px);
+}
+
+/* Consolidated Responsive Styles */
+@media (max-width: 768px) {
+    .mobile-menu-toggle {
+        display: block;
+    }
+
+    .nav-container {
+        position: fixed;
+        top: 80px;
+        left: 0;
+        right: 0;
+        background: var(--white);
+        padding: 20px;
+        box-shadow: var(--shadow-medium);
+        transform: translateY(-100%);
+        opacity: 0;
+        visibility: hidden;
+        transition: all var(--transition-normal);
+        z-index: 999;
+    }
+
+    .nav-container.open {
+        transform: translateY(0);
+        opacity: 1;
+        visibility: visible;
+    }
+
+    .nav-container nav ul {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 15px;
+    }
+
+    .dropdown-menu {
+        position: static;
+        background: transparent;
+        box-shadow: none;
+        padding: 10px 0 10px 20px;
+        opacity: 1;
+        visibility: visible;
+        transform: none;
+        display: none;
+    }
+
+    .dropdown.open .dropdown-menu {
+        display: block;
+    }
+
+    .dropdown-menu a {
+        color: inherit;
+        padding: 8px 0;
+    }
+
+    .dropdown-menu a:hover {
+        background-color: transparent;
+    }
+
+    .btn-become-owner {
+        width: 100%;
+        text-align: center;
+    }
+}
+
+/* Consolidated Footer Styles */
+.footer-locations {
+    margin: 0;
+}
+
+.footer-locations h4 {
+    color: var(--brand-red);
+    margin-bottom: 15px;
+    font-size: 18px;
+}
+
+.footer-locations ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-locations li {
+    margin-bottom: 10px;
+}
+
+.footer-locations a {
+    color: var(--white);
+    text-decoration: none;
+    transition: color var(--transition-normal);
+}
+
+.footer-locations a:hover {
+    color: var(--brand-red);
+}
+
+/* Additional responsive adjustments */
+@media (max-width: 480px) {
+    .hero {
+        margin-top: 120px; /* Increased from 88px for mobile */
+    }
+    
+    .logo img {
+        height: 60px; /* Slightly smaller logo */
+    }
+}
+
+/* Hero Section - Critical background styles moved to inline CSS for LCP optimization */
+
+.hero .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+}
+
+.hero-content {
+    flex: 1;
+    max-width: 600px;
+}
+
+.trust-badges {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 15px;
+}
+
+.badge {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.badge i {
+    font-size: 18px;
+    color: #00B8F1;
+}
+
+.hero h1 {
+    font-size: 42px;
+    line-height: 1.2;
+    margin-bottom: 15px;
+}
+
+.hero-description {
+    font-size: 16px;
+    margin-bottom: 20px;
+    line-height: 1.5;
+}
+
+.service-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.service-button {
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 5px;
+    padding: 12px 20px;
+    color: white;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    transition: all 0.3s ease;
+}
+
+.service-button:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+/* Form Styles */
+.form-container {
+    flex: 1;
+    max-width: 450px;
+    background-color: rgba(14, 20, 34, 0.8);
+    border-radius: 10px;
+    padding: 20px;
+    backdrop-filter: blur(5px);
+}
+
+.form-header {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.form-header h2 {
+    font-size: 24px;
+    margin-bottom: 3px;
+}
+
+.form-header h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.highlight {
+    color: #00B8F1;
+    font-weight: bold;
+}
+
+#estimate-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+#estimate-form input {
+    padding: 14px;
+    border-radius: 5px;
+    border: none;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 16px;
+}
+
+.submit-button {
+    background-color: #00B8F1;
+    color: white;
+    padding: 14px;
+    border: none;
+    border-radius: 5px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.submit-button:hover {
+    background-color: #0099C9;
+}
+
+.form-disclaimer {
+    text-align: center;
+    font-size: 12px;
+    color: rgba(255,255,255,0.68);
+    margin-top: 15px;
+}
+
+.rating-badges {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+
+.rating-badge {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.rating-badge i {
+    font-size: 24px;
+    margin-bottom: 5px;
+}
+
+.stars {
+    color: #00B8F1;
+    margin-bottom: 5px;
+}
+
+.rating-badge span {
+    font-size: 12px;
+    font-weight: 700;
+}
+
+/* Add styling for the select dropdown */
+#estimate-form select {
+    padding: 14px;
+    border-radius: 5px;
+    border: none;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 16px;
+    background-color: white;
+    appearance: none; /* Removes default browser styling */
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background-image: url("data:image/svg+xml;utf8,<svg fill='black' height='24' viewBox='0 0 24 24' width='24' xmlns='http://www.w3.org/2000/svg'><path d='M7 10l5 5 5-5z'/><path d='M0 0h24v24H0z' fill='none'/></svg>");
+    background-repeat: no-repeat;
+    background-position: right 10px center;
+    cursor: pointer;
+}
+
+#estimate-form select:focus,
+#estimate-form input:focus {
+    outline: 2px solid #00B8F1;
+}
+
+/* Optional: style for dropdown options if needed */
+#estimate-form select option {
+    padding: 10px;
+}
+
+/* Add styling for the select dropdown placeholder */
+#estimate-form select option[disabled] {
+    color: #757575; /* Grey color similar to input placeholders */
+}
+
+#estimate-form select {
+    color: #757575; /* Initial text color (the selected placeholder) */
+}
+
+#estimate-form select:valid {
+    color: #000; /* Once a real option is selected, change to normal text color */
+}
+
+/* Responsive */
+@media (max-width: 1024px) {
+    .hero .container {
+        flex-direction: column;
+    }
+    
+    .hero-content, .form-container {
+        max-width: 100%;
+    }
+}
+
+@media (max-width: 768px) {
+    /* Hero padding moved to inline CSS for LCP */
+    
+    .hero h1 {
+        font-size: 36px;
+    }
+    
+    .trust-badges {
+        flex-direction: column;
+        gap: 10px;
+    }
+}
+
+@media (max-width: 480px) {
+    .service-buttons {
+        flex-direction: column;
+    }
+}
+
+/* Warranty Section - replacing social proof */
+.warranty-section {
+    background-color: #00B8F1;
+    color: white;
+    padding: 20px 0;
+    box-shadow: 0 2px 10px rgba(10,29,61,0.08);
+}
+
+.warranty-section .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.warranty-logo img {
+    height: 80px;
+    background: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.warranty-content {
+    text-align: center;
+}
+
+.warranty-content h2 {
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 1.1;
+}
+
+.warranty-content h3 {
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.warranty-badge img {
+    height: 90px;
+}
+
+/* Responsive styles for warranty section */
+@media (max-width: 768px) {
+    .warranty-section .container {
+        flex-direction: column;
+        gap: 20px;
+        padding: 20px 0;
+    }
+    
+    .warranty-content {
+        margin: 10px 0;
+    }
+}
+
+/* Locations Section */
+.locations-section {
+    padding: 50px 0;
+    background-color: var(--brand-light);
+}
+
+.section-header {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.section-header h2 {
+    font-size: 36px;
+    color: var(--brand-navy);
+    margin-bottom: 15px;
+}
+
+.section-header p {
+    font-size: 18px;
+    color: var(--brand-slate);
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.locations-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 30px;
+}
+
+.location-card {
+    background-color: white;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 3px 10px rgba(10,29,61,0.08);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.location-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 20px rgba(10,29,61,0.12);
+}
+
+.location-image {
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    overflow: hidden;
+    background-color: var(--brand-light);
+}
+
+.location-image > img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+.location-image.boston {
+    background-image: url('images/locations/boston-optimized.webp');
+}
+
+.no-webp .location-image.boston {
+    background-image: url('images/locations/boston-optimized.jpg');
+}
+
+.location-image.houston {
+    background-image: url('images/locations/houston-optimized.webp');
+}
+
+.no-webp .location-image.houston {
+    background-image: url('images/locations/houston-optimized.jpg');
+}
+
+.location-image.austin {
+    background-image: url('images/locations/austin-optimized.webp');
+}
+
+.no-webp .location-image.austin {
+    background-image: url('images/locations/austin-optimized.jpg');
+}
+
+.location-image.atlanta {
+    background-image: url('images/locations/atlanta-optimized.webp');
+}
+
+.no-webp .location-image.atlanta {
+    background-image: url('images/locations/atlanta-optimized.jpg');
+}
+
+.location-image.northjersey {
+    background-image: url('images/locations/location-northjersey-optimized.webp');
+}
+
+.no-webp .location-image.northjersey {
+    background-image: url('images/locations/location-northjersey-optimized.jpg');
+}
+
+.location-image.fairfield {
+    background-image: url('images/locations/location-fairfield-optimized.webp');
+}
+
+.no-webp .location-image.fairfield {
+    background-image: url('images/locations/location-fairfield-optimized.jpg');
+}
+
+.location-image.southflorida {
+    background-image: url('images/locations/location-southflorida.jpg');
+}
+
+.location-image.charlotte {
+    background-image: url('images/locations/location-charlotte.jpg');
+}
+
+.location-image.richmond {
+    background-image: url('images/locations/location-richmond.jpg');
+}
+
+.location-card h3 {
+    font-size: 24px;
+    padding: 20px 20px 10px;
+    color: var(--brand-navy);
+    padding-top: 30px;
+}
+
+.location-card p {
+    padding: 0 20px 20px;
+    color: var(--brand-slate);
+    font-size: 16px;
+}
+
+.location-button {
+    display: block;
+    margin: 0 20px 20px;
+    padding: 12px 0;
+    background-color: #00B8F1;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: 500;
+    transition: background-color 0.3s ease;
+}
+
+.location-button:hover {
+    background-color: #0099C9;
+}
+
+/* Owner headshot styling */
+.owner-headshot {
+    position: absolute;
+    bottom: -25px;
+    right: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.owner-headshot img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 4px solid white;
+    box-shadow: 0 2px 10px rgba(10,29,61,0.16);
+}
+
+.owner-headshot span {
+    margin-top: 5px;
+    background-color: #00B8F1;
+    color: white;
+    padding: 4px 10px;
+    border-radius: 15px;
+    font-size: 14px;
+    font-weight: 500;
+    white-space: nowrap;
+}
+
+/* Responsive adjustments for locations section */
+@media (max-width: 768px) {
+    .locations-section {
+        padding: 40px 0;
+    }
+    
+    .section-header {
+        margin-bottom: 40px;
+    }
+    
+    .locations-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 576px) {
+    .locations-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Our System Section */
+.system-section {
+    padding: 50px 0 60px;
+    background: linear-gradient(to bottom, #fff 0%, var(--brand-light) 100%);
+}
+
+.system-intro {
+    margin: 0 auto 30px;
+}
+
+.system-intro h3 {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.system-intro p {
+    font-size: 17px;
+    line-height: 1.4;
+}
+
+.system-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 30px;
+    margin-bottom: 50px;
+}
+
+.system-card {
+    background-color: white;
+    border-radius: 8px;
+    padding: 30px;
+    box-shadow: 0 5px 15px rgba(10,29,61,0.08);
+    position: relative;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    display: flex;
+    flex-direction: column;
+}
+
+.system-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 15px 30px rgba(10,29,61,0.12);
+}
+
+.system-icon {
+    width: 90px;
+    height: 90px;
+    margin: 0 auto 20px;
+    background-color: #00B8F1;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    color: white;
+}
+
+.system-icon i {
+    font-size: 40px;
+}
+
+.system-icon span {
+    position: absolute;
+    top: -8px;
+    right: -8px;
+    background-color: var(--brand-navy);
+    color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 24px;
+    box-shadow: 0 2px 5px rgba(10,29,61,0.16);
+}
+
+.system-card h3 {
+    text-align: center;
+    font-size: 26px;
+    margin-bottom: 15px;
+    color: var(--brand-navy);
+}
+
+.system-card p {
+    font-size: 16px;
+    color: var(--brand-slate);
+    margin-bottom: 20px;
+}
+
+.system-features {
+    list-style: none;
+    margin-bottom: 25px;
+    flex-grow: 1;
+}
+
+.system-features li {
+    margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.system-features li i {
+    color: #00B8F1;
+    font-size: 16px;
+}
+
+.system-badge {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background-color: #f0f0f0;
+    padding: 10px 15px;
+    border-radius: 25px;
+    width: fit-content;
+    margin: 0 auto;
+}
+
+.system-badge img {
+    height: 30px;
+}
+
+.system-badge i {
+    font-size: 24px;
+    color: #00B8F1;
+}
+
+.system-badge span {
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.highlight-badge {
+    background-color: #00B8F1;
+    color: white;
+}
+
+.highlight-badge i {
+    color: white;
+}
+
+.highlight-badge span {
+    color: white;
+}
+
+.system-cta {
+    text-align: center;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.system-cta p {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.system-button {
+    display: inline-block;
+    background-color: #00B8F1;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.system-button:hover {
+    background-color: #0099C9;
+}
+
+/* Responsive adjustments for system section */
+@media (max-width: 768px) {
+    .system-section {
+        padding: 50px 0;
+    }
+    
+    .system-intro h3 {
+        font-size: 28px;
+    }
+    
+    .system-cards {
+        grid-template-columns: 1fr;
+        max-width: 500px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+/* Footer Styles */
+.site-footer {
+    background-color: var(--brand-navy);
+    color: #fff;
+    padding: 50px 0 20px;
+    margin-top: 50px;
+}
+
+.footer-content {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 40px;
+    margin-bottom: 30px;
+}
+
+.footer-logo p {
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+.footer-links h4, .footer-contact h4 {
+    color: #00B8F1;
+    margin-bottom: 15px;
+    font-size: 18px;
+}
+
+.footer-links ul {
+    list-style: none;
+}
+
+.footer-links li {
+    margin-bottom: 10px;
+}
+
+.footer-links a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.footer-links a:hover {
+    color: #00B8F1;
+}
+
+.footer-contact p {
+    margin-bottom: 10px;
+}
+
+.social-icons {
+    display: flex;
+    gap: 15px;
+    margin-top: 15px;
+}
+
+.social-icons a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 36px;
+    height: 36px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 50%;
+    color: #fff;
+    transition: background-color 0.3s ease;
+}
+
+.social-icons a:hover {
+    background-color: #00B8F1;
+}
+
+.footer-bottom {
+    text-align: center;
+    padding-top: 20px;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.footer-bottom p {
+    font-size: 14px;
+}
+
+@media (max-width: 768px) {
+    .site-footer {
+        padding: 40px 0 20px;
+    }
+    
+    .footer-content {
+        gap: 30px;
+    }
+}
+
+/* Hamburger Menu Styles */
+.mobile-menu-toggle {
+    display: none;
+}
+
+.hamburger-line {
+    display: block;
+    width: 25px;
+    height: 3px;
+    margin-bottom: 5px;
+    background-color: #00B8F1;
+    transition: all 0.3s ease;
+}
+
+#hamburger-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 5px;
+}
+
+/* Add these to the existing media queries */
+@media (max-width: 768px) {
+    .mobile-menu-toggle {
+        display: none; /* Still hidden at this breakpoint */
+    }
+}
+
+@media (max-width: 576px) {
+    .mobile-menu-toggle {
+        display: block;
+        position: absolute;
+        right: 20px;
+        top: 25px;
+    }
+    
+    .nav-container {
+        width: 100%;
+        height: 0;
+        overflow: hidden;
+        transition: height 0.3s ease;
+    }
+    
+    .nav-container.open {
+        height: auto;
+    }
+    
+    header .container {
+        position: relative;
+    }
+    
+    /* Animate hamburger to X when open */
+    #hamburger-btn.open .hamburger-line:nth-child(1) {
+        transform: rotate(45deg) translate(5px, 6px);
+    }
+    
+    #hamburger-btn.open .hamburger-line:nth-child(2) {
+        opacity: 0;
+    }
+    
+    #hamburger-btn.open .hamburger-line:nth-child(3) {
+        transform: rotate(-45deg) translate(5px, -6px);
+    }
+}
+
+/* Add styling for the benefit numbers */
+.benefit-number {
+    position: absolute;
+    top: -15px;
+    right: 20px;
+    font-size: 60px;
+    font-weight: 700;
+    color: rgba(0, 184, 241, 0.15);
+    z-index: 0;
+}
+
+/* Update the benefit card to have position relative to contain absolute positioned elements */
+.benefit-card {
+    background-color: white;
+    border-radius: 8px;
+    padding: 30px;
+    box-shadow: 0 5px 15px rgba(10,29,61,0.08);
+    transition: transform 0.3s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+/* Make sure the content is above the number */
+.benefit-card i,
+.benefit-card h3,
+.benefit-card p {
+    position: relative;
+    z-index: 1;
+}
+
+/* New Apply Section Styles */
+.two-step-process {
+    max-width: 900px;
+    margin: 50px auto 0;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    padding: 40px;
+    backdrop-filter: blur(5px);
+}
+
+.step-container {
+    margin-bottom: 30px;
+}
+
+.step-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.step-number {
+    width: 50px;
+    height: 50px;
+    background-color: #00B8F1;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.step-header h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.step-header p {
+    font-size: 16px;
+    opacity: 0.8;
+}
+
+.test-estimate-form {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+#sandbox-estimate-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+#sandbox-address-input {
+    padding: 15px;
+    border-radius: 5px;
+    border: none;
+    font-size: 16px;
+}
+
+.step-separator {
+    display: flex;
+    align-items: center;
+    margin: 40px 0;
+}
+
+.separator-line {
+    flex-grow: 1;
+    height: 1px;
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+.separator-text {
+    padding: 0 20px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.application-button-container {
+    text-align: center;
+}
+
+.application-button-container .apply-button {
+    display: inline-block;
+    background-color: #00B8F1;
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 15px 40px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-bottom: 15px;
+    transition: background-color 0.3s ease;
+}
+
+.application-button-container .apply-button:hover {
+    background-color: #0082B3;
+}
+
+.application-button-container p {
+    font-size: 14px;
+    opacity: 0.7;
+}
+
+@media (max-width: 768px) {
+    .two-step-process {
+        padding: 30px 20px;
+    }
+}
+
+@media (max-width: 576px) {
+    .two-step-process {
+        padding: 20px 15px;
+    }
+}
+
+/* Improve contrast in the apply section */
+.apply-section .section-header h2,
+.apply-section .section-header p {
+    color: white;
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.apply-section .section-header h2 {
+    font-size: 36px;
+    margin-bottom: 15px;
+}
+
+.apply-section .section-header p {
+    font-size: 18px;
+    opacity: 0.9;
+}
+
+/* Add a subtle highlight to make it stand out more */
+.apply-section .section-header {
+    position: relative;
+    padding-bottom: 20px;
+}
+
+.apply-section .section-header:after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80px;
+    height: 3px;
+    background-color: #00B8F1;
+    border-radius: 3px;
+} 
+/* === Connecticut Drain Pros — Image mapping: reuse drainage assets for roof layout slots === */
+.location-image.drain-exterior { background-image: url('images/pgh/photo-drainage-project_type-french-drain.webp'); }
+.location-image.drain-interior { background-image: url('images/pgh/photo-drainage-water_location-basement.webp'); }
+.location-image.drain-inspection { background-image: url('images/pgh/photo-drainage-project_type-drain-cleaning.webp'); }
+.location-image.drain-yard { background-image: url('images/pgh/photo-drainage-project_type-yard-drainage.webp'); }
+.location-image.drain-commercial { background-image: url('images/pgh/photo-drainage-project_type-channel-drain.webp'); }
+.location-image.drain-storm { background-image: url('images/pgh/photo-drainage-project_type-downspout-drainage.webp'); }
+.location-image.ct-hartford { background-image: url('images/pgh/photo-drainage-water_location-yard.webp'); }
+.location-image.ct-newhaven { background-image: url('images/pgh/photo-drainage-water_location-foundation.webp'); }
+.location-image.ct-stamford { background-image: url('images/pgh/photo-drainage-water_location-driveway-or-patio.webp'); }
+.location-image.ct-bridgeport { background-image: url('images/pgh/photo-drainage-water_location-crawlspace.webp'); }
+
+/* Warranty bar rebrand to navy */
+.warranty-section { background-color: var(--brand-navy) !important; border-top: 1px solid rgba(255,255,255,0.08); }
+.warranty-content h2 { color: #fff; }
+.warranty-content h2 span { color: var(--brand-blue); }
+
+/* Header polish */
+header { border-bottom: 1px solid rgba(10,29,61,0.06); }
+.logo { gap: 12px; }
+.logo-wordmark { display: flex; flex-direction: column; line-height: 1; }
+.logo-w1 { font-family: 'Barlow Condensed', sans-serif; font-size: 22px; font-weight: 800; color: var(--brand-navy); letter-spacing: .02em; line-height: 1; }
+.logo-w2 { font-family: 'Barlow Condensed', sans-serif; font-size: 22px; font-weight: 800; color: var(--brand-navy); letter-spacing: .02em; line-height: 1; }
+.logo-w2 .accent { color: var(--brand-blue); }
+.logo-tagline { font-family: 'Oswald', sans-serif; font-size: 7px; font-weight: 500; letter-spacing: .18em; text-transform: uppercase; color: var(--brand-slate); margin-top: 2px; }
+.logo-divider { width: 2px; height: 36px; background: var(--brand-blue); border-radius: 2px; flex-shrink: 0; }
+
+/* Hero brand overlay tweak */
+.hero { background-color: var(--brand-navy); }
+.hero h1 span, .hero h1 em { color: var(--brand-blue); }
+
+/* System icon should be cyan on navy? keep blue */
+.system-icon { background-color: var(--brand-blue); }
+.system-icon span { background-color: var(--brand-navy); }
+
+/* Fix owner badge */
+.owner-headshot span { background-color: var(--brand-blue); }
+
+/* Ensure buttons are pill-ish but keep roof radius 5px for layout fidelity; just recolor already done via var */

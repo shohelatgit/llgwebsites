@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "siteKey": "pgh-pool-service",
+  "sourceType": "brand-board-jpeg",
+  "sourceFile": "PGH Pool Service.jpeg",
+  "sha256": "2858bd54de5de6bc46678d9692b492f035b66530e037c6ae24598233744178b3",
+  "dimensions": {
+    "width": 1600,
+    "height": 900
+  },
+  "observations": [
+    "four printed brand colors",
+    "heading, body, and accent font roles",
+    "logo, wordmark, icon, and favicon examples"
+  ],
+  "confidence": "high",
+  "assetPolicy": "board is token evidence; website logo slots remain placeholders until source vector files are supplied"
+}

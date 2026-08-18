@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "siteKey": "salt-lake-city-precision-walls",
+  "sourceType": "brand-board-jpeg",
+  "sourceFile": "Salt Lake City Precision Walls.jpeg",
+  "sha256": "0a95b8437491fea8e7fa17b9a2777fb9cbb4407c6a32d6d22685fa11106e270f",
+  "dimensions": {
+    "width": 1600,
+    "height": 900
+  },
+  "observations": [
+    "four printed brand colors",
+    "heading, body, and accent font roles",
+    "logo, wordmark, icon, and favicon examples"
+  ],
+  "confidence": "high",
+  "assetPolicy": "board is token evidence; website logo slots remain placeholders until source vector files are supplied"
+}

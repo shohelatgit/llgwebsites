@@ -1,0 +1,66 @@
+{
+  "siteKey": "nashville-backyards",
+  "stage": "staging",
+  "currentCrawlContract": {
+    "metaRobots": "noindex,nofollow",
+    "robotsTxt": "Disallow: /",
+    "xRobotsTag": "noindex, nofollow",
+    "sitemap": "empty"
+  },
+  "productionCandidate": {
+    "origin": "https://nashvillebackyards.com",
+    "urls": [
+      {
+        "path": "/",
+        "canonical": "https://nashvillebackyards.com/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/",
+        "canonical": "https://nashvillebackyards.com/services/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/patios-hardscapes/",
+        "canonical": "https://nashvillebackyards.com/services/patios-hardscapes/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/pergolas-shade/",
+        "canonical": "https://nashvillebackyards.com/services/pergolas-shade/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/outdoor-living/",
+        "canonical": "https://nashvillebackyards.com/services/outdoor-living/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/backyard-renovation/",
+        "canonical": "https://nashvillebackyards.com/services/backyard-renovation/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/service-areas/",
+        "canonical": "https://nashvillebackyards.com/service-areas/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/about/",
+        "canonical": "https://nashvillebackyards.com/about/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/contact/",
+        "canonical": "https://nashvillebackyards.com/contact/",
+        "indexState": "pending-approval"
+      }
+    ]
+  },
+  "releaseBlockers": [
+    "routing approval",
+    "claim review",
+    "phone forwarding test",
+    "canonical/domain approval"
+  ]
+}

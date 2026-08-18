@@ -1,0 +1,5578 @@
+{
+  "schemaVersion": 2,
+  "generatedFrom": [
+    "LLG brand boards",
+    "LLG Portfolio workbook public fields",
+    "clone assignment tracker"
+  ],
+  "sites": [
+    {
+      "schemaVersion": 2,
+      "siteKey": "austin-drain-guys",
+      "directory": "austin-drain-guys",
+      "brand": "Austin Drain Guys",
+      "domain": "austindrainguys.com",
+      "trade": "Drainage",
+      "city": "Austin",
+      "state": "TX",
+      "stage": "staging",
+      "clone": {
+        "id": "horizonfix",
+        "label": "HorizonFix",
+        "contract": "literal-homepage-structure"
+      },
+      "brandSystem": {
+        "boardFile": "Austin Drain Guys.jpeg",
+        "boardSha256": "1cd91abe3926049ce1cf51bd397f5f31557ee56c168d4f1f76bb835efb494b0e",
+        "status": "approved-board-assets-extracted",
+        "colors": {
+          "primary": "#0D1B2A",
+          "secondary": "#415A6B",
+          "accent": "#E4572E",
+          "neutral": "#F4F1EA"
+        },
+        "typography": {
+          "heading": {
+            "family": "Bebas Neue",
+            "fallback": "'Bebas Neue', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "body": {
+            "family": "DM Sans",
+            "fallback": "'DM Sans', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "accent": {
+            "family": "Oswald",
+            "fallback": "'Oswald', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          }
+        },
+        "logoSlots": {
+          "primary": "assets/brand/austin-drain-guys/brandmark.svg",
+          "raster": "assets/brand/austin-drain-guys/brandmark.png",
+          "icon": "assets/brand/austin-drain-guys/brand-icon.png",
+          "favicon": "assets/brand/austin-drain-guys/favicon.png"
+        }
+      },
+      "contact": {
+        "phone": "512-270-6356",
+        "tel": "+15122706356",
+        "phoneStatus": "callrail-active",
+        "publicAddress": null,
+        "addressStatus": "not-supplied"
+      },
+      "gbp": {
+        "status": "not-verified",
+        "url": null,
+        "reviewUrl": null,
+        "verificationSource": "LLG Portfolio workbook"
+      },
+      "services": [
+        [
+          "french-drain-installation",
+          "French Drain Installation"
+        ],
+        [
+          "yard-drainage",
+          "Yard Drainage"
+        ],
+        [
+          "downspout-drainage",
+          "Downspout Drainage"
+        ],
+        [
+          "stormwater-control",
+          "Stormwater Control"
+        ]
+      ],
+      "serviceArea": {
+        "primaryCity": "Austin",
+        "state": "TX",
+        "adjacentCities": [],
+        "status": "primary-city-only"
+      },
+      "evidence": {
+        "reviews": "pending-approved-records",
+        "projectPhotos": "pending-attributable-assets",
+        "sharedTradePhotos": "generic-service-use-only",
+        "claims": "pending-verification"
+      },
+      "routing": {
+        "status": "disabled-until-recipient-and-forwarding-test",
+        "activeClientRecipient": "cloudflare-only",
+        "llgCopyRecipient": "cloudflare-only",
+        "smsCapability": "disabled"
+      },
+      "indexing": {
+        "siteState": "noindex",
+        "productionEligible": false,
+        "blockers": [
+          "routing approval",
+          "claim review",
+          "phone forwarding test",
+          "canonical/domain approval"
+        ]
+      },
+      "analytics": {
+        "cloudflareWebAnalytics": "pending-production-domain",
+        "searchConsole": "pending-production-domain",
+        "ga4": "not-planned"
+      },
+      "pages": [
+        {
+          "slug": "",
+          "type": "home",
+          "intent": "Drainage help in Austin",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services",
+          "type": "services-hub",
+          "intent": "Compare Austin Drain Guys services",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/french-drain-installation",
+          "type": "service",
+          "service": "French Drain Installation",
+          "intent": "Understand french drain installation in Austin",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/yard-drainage",
+          "type": "service",
+          "service": "Yard Drainage",
+          "intent": "Understand yard drainage in Austin",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/downspout-drainage",
+          "type": "service",
+          "service": "Downspout Drainage",
+          "intent": "Understand downspout drainage in Austin",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/stormwater-control",
+          "type": "service",
+          "service": "Stormwater Control",
+          "intent": "Understand stormwater control in Austin",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "service-areas",
+          "type": "service-areas-hub",
+          "intent": "Confirm service availability in Austin",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "about",
+          "type": "about",
+          "intent": "Understand the Austin Drain Guys process",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "contact",
+          "type": "contact",
+          "intent": "Request an assessment",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "privacy",
+          "type": "legal",
+          "intent": "Privacy information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "terms",
+          "type": "legal",
+          "intent": "Terms information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "thank-you",
+          "type": "confirmation",
+          "intent": "Lead confirmation",
+          "indexState": "noindex"
+        }
+      ]
+    },
+    {
+      "schemaVersion": 2,
+      "siteKey": "baltimore-french-drain",
+      "directory": "baltimore-french-drain",
+      "brand": "Baltimore French Drain",
+      "domain": "baltimorefrenchdrain.com",
+      "trade": "Drainage",
+      "city": "Baltimore",
+      "state": "MD",
+      "stage": "staging",
+      "clone": {
+        "id": "roofrightnow",
+        "label": "Roof Right Now",
+        "contract": "literal-homepage-structure"
+      },
+      "brandSystem": {
+        "boardFile": "Blatimore French Drain.jpeg",
+        "boardSha256": "2cf70a74d9e682507f99805487d78b7a8aa5655217215963f95c7181eda6c6fe",
+        "status": "approved-board-assets-extracted",
+        "colors": {
+          "primary": "#0A1F3D",
+          "secondary": "#3B4A63",
+          "accent": "#93C23D",
+          "neutral": "#F2F4F7"
+        },
+        "typography": {
+          "heading": {
+            "family": "Barlow Condensed",
+            "fallback": "'Barlow Condensed', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "body": {
+            "family": "DM Sans",
+            "fallback": "'DM Sans', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "accent": {
+            "family": "Crimson Text",
+            "fallback": "'Crimson Text', Georgia, 'Times New Roman', serif",
+            "licenseStatus": "file-not-supplied"
+          }
+        },
+        "logoSlots": {
+          "primary": "assets/brand/baltimore-french-drain/brandmark.svg",
+          "raster": "assets/brand/baltimore-french-drain/brandmark.png",
+          "icon": "assets/brand/baltimore-french-drain/brand-icon.png",
+          "favicon": "assets/brand/baltimore-french-drain/favicon.png"
+        }
+      },
+      "contact": {
+        "phone": "410-770-2644",
+        "tel": "+14107702644",
+        "phoneStatus": "callrail-active",
+        "publicAddress": null,
+        "addressStatus": "not-supplied"
+      },
+      "gbp": {
+        "status": "not-verified",
+        "url": null,
+        "reviewUrl": null,
+        "verificationSource": "LLG Portfolio workbook"
+      },
+      "services": [
+        [
+          "french-drain-installation",
+          "French Drain Installation"
+        ],
+        [
+          "yard-drainage",
+          "Yard Drainage"
+        ],
+        [
+          "downspout-drainage",
+          "Downspout Drainage"
+        ],
+        [
+          "stormwater-control",
+          "Stormwater Control"
+        ]
+      ],
+      "serviceArea": {
+        "primaryCity": "Baltimore",
+        "state": "MD",
+        "adjacentCities": [],
+        "status": "primary-city-only"
+      },
+      "evidence": {
+        "reviews": "pending-approved-records",
+        "projectPhotos": "pending-attributable-assets",
+        "sharedTradePhotos": "generic-service-use-only",
+        "claims": "pending-verification"
+      },
+      "routing": {
+        "status": "disabled-until-recipient-and-forwarding-test",
+        "activeClientRecipient": "cloudflare-only",
+        "llgCopyRecipient": "cloudflare-only",
+        "smsCapability": "disabled"
+      },
+      "indexing": {
+        "siteState": "noindex",
+        "productionEligible": false,
+        "blockers": [
+          "routing approval",
+          "claim review",
+          "phone forwarding test",
+          "canonical/domain approval"
+        ]
+      },
+      "analytics": {
+        "cloudflareWebAnalytics": "pending-production-domain",
+        "searchConsole": "pending-production-domain",
+        "ga4": "not-planned"
+      },
+      "pages": [
+        {
+          "slug": "",
+          "type": "home",
+          "intent": "Drainage help in Baltimore",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services",
+          "type": "services-hub",
+          "intent": "Compare Baltimore French Drain services",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/french-drain-installation",
+          "type": "service",
+          "service": "French Drain Installation",
+          "intent": "Understand french drain installation in Baltimore",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/yard-drainage",
+          "type": "service",
+          "service": "Yard Drainage",
+          "intent": "Understand yard drainage in Baltimore",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/downspout-drainage",
+          "type": "service",
+          "service": "Downspout Drainage",
+          "intent": "Understand downspout drainage in Baltimore",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/stormwater-control",
+          "type": "service",
+          "service": "Stormwater Control",
+          "intent": "Understand stormwater control in Baltimore",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "service-areas",
+          "type": "service-areas-hub",
+          "intent": "Confirm service availability in Baltimore",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "about",
+          "type": "about",
+          "intent": "Understand the Baltimore French Drain process",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "contact",
+          "type": "contact",
+          "intent": "Request an assessment",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "privacy",
+          "type": "legal",
+          "intent": "Privacy information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "terms",
+          "type": "legal",
+          "intent": "Terms information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "thank-you",
+          "type": "confirmation",
+          "intent": "Lead confirmation",
+          "indexState": "noindex"
+        }
+      ]
+    },
+    {
+      "schemaVersion": 2,
+      "siteKey": "charlotte-crawl-space",
+      "directory": "charlotte-crawl-space",
+      "brand": "Charlotte Crawl Space",
+      "domain": "charlottecrawlspace.com",
+      "trade": "Crawlspace",
+      "city": "Charlotte",
+      "state": "NC",
+      "stage": "staging",
+      "clone": {
+        "id": "nextgen-windows",
+        "label": "NextGen Windows",
+        "contract": "literal-homepage-structure"
+      },
+      "brandSystem": {
+        "boardFile": "Charlotte Crawl Space.jpeg",
+        "boardSha256": "01311f19888b28bc04535bc81fd5a992dde307573bf0c11517c67a7187bf5d80",
+        "status": "approved-board-assets-extracted",
+        "colors": {
+          "primary": "#1F2D36",
+          "secondary": "#3D6E7A",
+          "accent": "#A18C78",
+          "neutral": "#F3F1ED"
+        },
+        "typography": {
+          "heading": {
+            "family": "Bellota",
+            "fallback": "'Bellota', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "body": {
+            "family": "Manrope",
+            "fallback": "'Manrope', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "accent": {
+            "family": "Great Vibes",
+            "fallback": "'Great Vibes', 'Segoe Script', 'Brush Script MT', cursive",
+            "licenseStatus": "file-not-supplied"
+          }
+        },
+        "logoSlots": {
+          "primary": "assets/brand/charlotte-crawl-space/brandmark.svg",
+          "raster": "assets/brand/charlotte-crawl-space/brandmark.png",
+          "icon": "assets/brand/charlotte-crawl-space/brand-icon.png",
+          "favicon": "assets/brand/charlotte-crawl-space/favicon.png"
+        }
+      },
+      "contact": {
+        "phone": "704-288-4170",
+        "tel": "+17042884170",
+        "phoneStatus": "callrail-active",
+        "publicAddress": null,
+        "addressStatus": "not-supplied"
+      },
+      "gbp": {
+        "status": "not-verified",
+        "url": null,
+        "reviewUrl": null,
+        "verificationSource": "LLG Portfolio workbook"
+      },
+      "services": [
+        [
+          "crawlspace-encapsulation",
+          "Crawlspace Encapsulation"
+        ],
+        [
+          "crawlspace-drainage",
+          "Crawlspace Drainage"
+        ],
+        [
+          "moisture-control",
+          "Crawlspace Moisture Control"
+        ],
+        [
+          "dehumidifier-solutions",
+          "Crawlspace Dehumidifier Solutions"
+        ]
+      ],
+      "serviceArea": {
+        "primaryCity": "Charlotte",
+        "state": "NC",
+        "adjacentCities": [],
+        "status": "primary-city-only"
+      },
+      "evidence": {
+        "reviews": "pending-approved-records",
+        "projectPhotos": "pending-attributable-assets",
+        "sharedTradePhotos": "generic-service-use-only",
+        "claims": "pending-verification"
+      },
+      "routing": {
+        "status": "disabled-until-recipient-and-forwarding-test",
+        "activeClientRecipient": "cloudflare-only",
+        "llgCopyRecipient": "cloudflare-only",
+        "smsCapability": "disabled"
+      },
+      "indexing": {
+        "siteState": "noindex",
+        "productionEligible": false,
+        "blockers": [
+          "routing approval",
+          "claim review",
+          "phone forwarding test",
+          "canonical/domain approval"
+        ]
+      },
+      "analytics": {
+        "cloudflareWebAnalytics": "pending-production-domain",
+        "searchConsole": "pending-production-domain",
+        "ga4": "not-planned"
+      },
+      "pages": [
+        {
+          "slug": "",
+          "type": "home",
+          "intent": "Crawlspace help in Charlotte",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services",
+          "type": "services-hub",
+          "intent": "Compare Charlotte Crawl Space services",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/crawlspace-encapsulation",
+          "type": "service",
+          "service": "Crawlspace Encapsulation",
+          "intent": "Understand crawlspace encapsulation in Charlotte",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/crawlspace-drainage",
+          "type": "service",
+          "service": "Crawlspace Drainage",
+          "intent": "Understand crawlspace drainage in Charlotte",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/moisture-control",
+          "type": "service",
+          "service": "Crawlspace Moisture Control",
+          "intent": "Understand crawlspace moisture control in Charlotte",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/dehumidifier-solutions",
+          "type": "service",
+          "service": "Crawlspace Dehumidifier Solutions",
+          "intent": "Understand crawlspace dehumidifier solutions in Charlotte",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "service-areas",
+          "type": "service-areas-hub",
+          "intent": "Confirm service availability in Charlotte",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "about",
+          "type": "about",
+          "intent": "Understand the Charlotte Crawl Space process",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "contact",
+          "type": "contact",
+          "intent": "Request an assessment",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "privacy",
+          "type": "legal",
+          "intent": "Privacy information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "terms",
+          "type": "legal",
+          "intent": "Terms information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "thank-you",
+          "type": "confirmation",
+          "intent": "Lead confirmation",
+          "indexState": "noindex"
+        }
+      ]
+    },
+    {
+      "schemaVersion": 2,
+      "siteKey": "charlotte-precision-walls",
+      "directory": "charlotte-precision-walls",
+      "brand": "Charlotte Precision Walls",
+      "domain": "charlotteprecisionwalls.com",
+      "trade": "Retaining walls",
+      "city": "Charlotte",
+      "state": "NC",
+      "stage": "staging",
+      "clone": {
+        "id": "pinks-concrete",
+        "label": "Pink's Concrete",
+        "contract": "literal-homepage-structure"
+      },
+      "brandSystem": {
+        "boardFile": "Charlotte Precision Walls.jpeg",
+        "boardSha256": "8efd30a26ed941d674dba21a7a6d35be5e59957fbd763c30548c4c76a5161f62",
+        "status": "approved-board-assets-extracted",
+        "colors": {
+          "primary": "#0F2E27",
+          "secondary": "#3B4A44",
+          "accent": "#CDA14A",
+          "neutral": "#F3F1ED"
+        },
+        "typography": {
+          "heading": {
+            "family": "Cinzel Decorative",
+            "fallback": "'Cinzel Decorative', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "body": {
+            "family": "Inter Tight",
+            "fallback": "'Inter Tight', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "accent": {
+            "family": "Cormorant Garamond",
+            "fallback": "'Cormorant Garamond', Georgia, 'Times New Roman', serif",
+            "licenseStatus": "file-not-supplied"
+          }
+        },
+        "logoSlots": {
+          "primary": "assets/brand/charlotte-precision-walls/brandmark.svg",
+          "raster": "assets/brand/charlotte-precision-walls/brandmark.png",
+          "icon": "assets/brand/charlotte-precision-walls/brand-icon.png",
+          "favicon": "assets/brand/charlotte-precision-walls/favicon.png"
+        }
+      },
+      "contact": {
+        "phone": "980-480-3201",
+        "tel": "+19804803201",
+        "phoneStatus": "callrail-active",
+        "publicAddress": null,
+        "addressStatus": "not-supplied"
+      },
+      "gbp": {
+        "status": "Verified",
+        "url": null,
+        "reviewUrl": null,
+        "verificationSource": "LLG Portfolio workbook"
+      },
+      "services": [
+        [
+          "retaining-wall-installation",
+          "Retaining Wall Installation"
+        ],
+        [
+          "segmental-block-walls",
+          "Segmental Block Walls"
+        ],
+        [
+          "natural-stone-walls",
+          "Natural Stone Walls"
+        ],
+        [
+          "retaining-wall-repair",
+          "Retaining Wall Repair"
+        ]
+      ],
+      "serviceArea": {
+        "primaryCity": "Charlotte",
+        "state": "NC",
+        "adjacentCities": [],
+        "status": "primary-city-only"
+      },
+      "evidence": {
+        "reviews": "pending-approved-records",
+        "projectPhotos": "pending-attributable-assets",
+        "sharedTradePhotos": "generic-service-use-only",
+        "claims": "pending-verification"
+      },
+      "routing": {
+        "status": "disabled-until-recipient-and-forwarding-test",
+        "activeClientRecipient": "cloudflare-only",
+        "llgCopyRecipient": "cloudflare-only",
+        "smsCapability": "disabled"
+      },
+      "indexing": {
+        "siteState": "noindex",
+        "productionEligible": false,
+        "blockers": [
+          "routing approval",
+          "claim review",
+          "phone forwarding test",
+          "canonical/domain approval"
+        ]
+      },
+      "analytics": {
+        "cloudflareWebAnalytics": "pending-production-domain",
+        "searchConsole": "pending-production-domain",
+        "ga4": "not-planned"
+      },
+      "pages": [
+        {
+          "slug": "",
+          "type": "home",
+          "intent": "Retaining walls help in Charlotte",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services",
+          "type": "services-hub",
+          "intent": "Compare Charlotte Precision Walls services",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/retaining-wall-installation",
+          "type": "service",
+          "service": "Retaining Wall Installation",
+          "intent": "Understand retaining wall installation in Charlotte",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/segmental-block-walls",
+          "type": "service",
+          "service": "Segmental Block Walls",
+          "intent": "Understand segmental block walls in Charlotte",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/natural-stone-walls",
+          "type": "service",
+          "service": "Natural Stone Walls",
+          "intent": "Understand natural stone walls in Charlotte",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/retaining-wall-repair",
+          "type": "service",
+          "service": "Retaining Wall Repair",
+          "intent": "Understand retaining wall repair in Charlotte",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "service-areas",
+          "type": "service-areas-hub",
+          "intent": "Confirm service availability in Charlotte",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "about",
+          "type": "about",
+          "intent": "Understand the Charlotte Precision Walls process",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "contact",
+          "type": "contact",
+          "intent": "Request an assessment",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "privacy",
+          "type": "legal",
+          "intent": "Privacy information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "terms",
+          "type": "legal",
+          "intent": "Terms information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "thank-you",
+          "type": "confirmation",
+          "intent": "Lead confirmation",
+          "indexState": "noindex"
+        }
+      ]
+    },
+    {
+      "schemaVersion": 2,
+      "siteKey": "chicago-drainage-guys",
+      "directory": "chicago-drainage-guys",
+      "brand": "Chicago Drainage Guys",
+      "domain": "chicagodrainageguys.com",
+      "trade": "Drainage",
+      "city": "Chicago",
+      "state": "IL",
+      "stage": "staging",
+      "clone": {
+        "id": "minuteman",
+        "label": "Minuteman",
+        "contract": "literal-homepage-structure"
+      },
+      "brandSystem": {
+        "boardFile": "Chicago Drainage Guys.jpeg",
+        "boardSha256": "b7dea1f2e0a55fe84ffec0a2cb075206b6f2861b8285f44aa5012f826dce43db",
+        "status": "approved-board-assets-extracted",
+        "colors": {
+          "primary": "#0B1D33",
+          "secondary": "#1296F7",
+          "accent": "#5B6770",
+          "neutral": "#E9EBEE"
+        },
+        "typography": {
+          "heading": {
+            "family": "Urbanist",
+            "fallback": "'Urbanist', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "body": {
+            "family": "Nunito",
+            "fallback": "'Nunito', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "accent": {
+            "family": "Caveat",
+            "fallback": "'Caveat', 'Segoe Script', 'Brush Script MT', cursive",
+            "licenseStatus": "file-not-supplied"
+          }
+        },
+        "logoSlots": {
+          "primary": "assets/brand/chicago-drainage-guys/brandmark.svg",
+          "raster": "assets/brand/chicago-drainage-guys/brandmark.png",
+          "icon": "assets/brand/chicago-drainage-guys/brand-icon.png",
+          "favicon": "assets/brand/chicago-drainage-guys/favicon.png"
+        }
+      },
+      "contact": {
+        "phone": "773-741-0057",
+        "tel": "+17737410057",
+        "phoneStatus": "callrail-shared",
+        "publicAddress": null,
+        "addressStatus": "not-supplied"
+      },
+      "gbp": {
+        "status": "not-verified",
+        "url": null,
+        "reviewUrl": null,
+        "verificationSource": "LLG Portfolio workbook"
+      },
+      "services": [
+        [
+          "french-drain-installation",
+          "French Drain Installation"
+        ],
+        [
+          "yard-drainage",
+          "Yard Drainage"
+        ],
+        [
+          "downspout-drainage",
+          "Downspout Drainage"
+        ],
+        [
+          "stormwater-control",
+          "Stormwater Control"
+        ]
+      ],
+      "serviceArea": {
+        "primaryCity": "Chicago",
+        "state": "IL",
+        "adjacentCities": [],
+        "status": "primary-city-only"
+      },
+      "evidence": {
+        "reviews": "pending-approved-records",
+        "projectPhotos": "pending-attributable-assets",
+        "sharedTradePhotos": "generic-service-use-only",
+        "claims": "pending-verification"
+      },
+      "routing": {
+        "status": "disabled-until-recipient-and-forwarding-test",
+        "activeClientRecipient": "cloudflare-only",
+        "llgCopyRecipient": "cloudflare-only",
+        "smsCapability": "disabled"
+      },
+      "indexing": {
+        "siteState": "noindex",
+        "productionEligible": false,
+        "blockers": [
+          "routing approval",
+          "claim review",
+          "phone forwarding test",
+          "canonical/domain approval"
+        ]
+      },
+      "analytics": {
+        "cloudflareWebAnalytics": "pending-production-domain",
+        "searchConsole": "pending-production-domain",
+        "ga4": "not-planned"
+      },
+      "pages": [
+        {
+          "slug": "",
+          "type": "home",
+          "intent": "Drainage help in Chicago",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services",
+          "type": "services-hub",
+          "intent": "Compare Chicago Drainage Guys services",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/french-drain-installation",
+          "type": "service",
+          "service": "French Drain Installation",
+          "intent": "Understand french drain installation in Chicago",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/yard-drainage",
+          "type": "service",
+          "service": "Yard Drainage",
+          "intent": "Understand yard drainage in Chicago",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/downspout-drainage",
+          "type": "service",
+          "service": "Downspout Drainage",
+          "intent": "Understand downspout drainage in Chicago",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/stormwater-control",
+          "type": "service",
+          "service": "Stormwater Control",
+          "intent": "Understand stormwater control in Chicago",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "service-areas",
+          "type": "service-areas-hub",
+          "intent": "Confirm service availability in Chicago",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "about",
+          "type": "about",
+          "intent": "Understand the Chicago Drainage Guys process",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "contact",
+          "type": "contact",
+          "intent": "Request an assessment",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "privacy",
+          "type": "legal",
+          "intent": "Privacy information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "terms",
+          "type": "legal",
+          "intent": "Terms information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "thank-you",
+          "type": "confirmation",
+          "intent": "Lead confirmation",
+          "indexState": "noindex"
+        }
+      ]
+    },
+    {
+      "schemaVersion": 2,
+      "siteKey": "cincinnati-precision-walls",
+      "directory": "cincinnati-precision-walls",
+      "brand": "Cincinnati Precision Walls",
+      "domain": "cincinnatiprecisionwalls.com",
+      "trade": "Retaining walls",
+      "city": "Cincinnati",
+      "state": "OH",
+      "stage": "staging",
+      "clone": {
+        "id": "pinks-concrete",
+        "label": "Pink's Concrete",
+        "contract": "literal-homepage-structure"
+      },
+      "brandSystem": {
+        "boardFile": "Cincinnati Precision Walls.jpeg",
+        "boardSha256": "714dbd097700c9b19a5ffbd97989406e109e00e631eff23b81e52e989ca28560",
+        "status": "approved-board-assets-extracted",
+        "colors": {
+          "primary": "#1B2226",
+          "secondary": "#D26A2C",
+          "accent": "#7E7366",
+          "neutral": "#F4F1EC"
+        },
+        "typography": {
+          "heading": {
+            "family": "Aileron",
+            "fallback": "'Aileron', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "body": {
+            "family": "Work Sans",
+            "fallback": "'Work Sans', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "accent": {
+            "family": "Allura",
+            "fallback": "'Allura', 'Segoe Script', 'Brush Script MT', cursive",
+            "licenseStatus": "file-not-supplied"
+          }
+        },
+        "logoSlots": {
+          "primary": "assets/brand/cincinnati-precision-walls/brandmark.svg",
+          "raster": "assets/brand/cincinnati-precision-walls/brandmark.png",
+          "icon": "assets/brand/cincinnati-precision-walls/brand-icon.png",
+          "favicon": "assets/brand/cincinnati-precision-walls/favicon.png"
+        }
+      },
+      "contact": {
+        "phone": "513-640-2487",
+        "tel": "+15136402487",
+        "phoneStatus": "callrail-active",
+        "publicAddress": null,
+        "addressStatus": "not-supplied"
+      },
+      "gbp": {
+        "status": "not-verified",
+        "url": null,
+        "reviewUrl": null,
+        "verificationSource": "LLG Portfolio workbook"
+      },
+      "services": [
+        [
+          "retaining-wall-installation",
+          "Retaining Wall Installation"
+        ],
+        [
+          "segmental-block-walls",
+          "Segmental Block Walls"
+        ],
+        [
+          "natural-stone-walls",
+          "Natural Stone Walls"
+        ],
+        [
+          "retaining-wall-repair",
+          "Retaining Wall Repair"
+        ]
+      ],
+      "serviceArea": {
+        "primaryCity": "Cincinnati",
+        "state": "OH",
+        "adjacentCities": [],
+        "status": "primary-city-only"
+      },
+      "evidence": {
+        "reviews": "pending-approved-records",
+        "projectPhotos": "pending-attributable-assets",
+        "sharedTradePhotos": "generic-service-use-only",
+        "claims": "pending-verification"
+      },
+      "routing": {
+        "status": "disabled-until-recipient-and-forwarding-test",
+        "activeClientRecipient": "cloudflare-only",
+        "llgCopyRecipient": "cloudflare-only",
+        "smsCapability": "disabled"
+      },
+      "indexing": {
+        "siteState": "noindex",
+        "productionEligible": false,
+        "blockers": [
+          "routing approval",
+          "claim review",
+          "phone forwarding test",
+          "canonical/domain approval"
+        ]
+      },
+      "analytics": {
+        "cloudflareWebAnalytics": "pending-production-domain",
+        "searchConsole": "pending-production-domain",
+        "ga4": "not-planned"
+      },
+      "pages": [
+        {
+          "slug": "",
+          "type": "home",
+          "intent": "Retaining walls help in Cincinnati",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services",
+          "type": "services-hub",
+          "intent": "Compare Cincinnati Precision Walls services",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/retaining-wall-installation",
+          "type": "service",
+          "service": "Retaining Wall Installation",
+          "intent": "Understand retaining wall installation in Cincinnati",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/segmental-block-walls",
+          "type": "service",
+          "service": "Segmental Block Walls",
+          "intent": "Understand segmental block walls in Cincinnati",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/natural-stone-walls",
+          "type": "service",
+          "service": "Natural Stone Walls",
+          "intent": "Understand natural stone walls in Cincinnati",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/retaining-wall-repair",
+          "type": "service",
+          "service": "Retaining Wall Repair",
+          "intent": "Understand retaining wall repair in Cincinnati",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "service-areas",
+          "type": "service-areas-hub",
+          "intent": "Confirm service availability in Cincinnati",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "about",
+          "type": "about",
+          "intent": "Understand the Cincinnati Precision Walls process",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "contact",
+          "type": "contact",
+          "intent": "Request an assessment",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "privacy",
+          "type": "legal",
+          "intent": "Privacy information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "terms",
+          "type": "legal",
+          "intent": "Terms information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "thank-you",
+          "type": "confirmation",
+          "intent": "Lead confirmation",
+          "indexState": "noindex"
+        }
+      ]
+    },
+    {
+      "schemaVersion": 2,
+      "siteKey": "connecticut-drain-pros",
+      "directory": "connecticut-drain-pros",
+      "brand": "Connecticut Drain Pros",
+      "domain": "connecticutdrainpros.com",
+      "trade": "Drainage",
+      "city": "Connecticut",
+      "state": "CT",
+      "stage": "staging",
+      "clone": {
+        "id": "horizonfix",
+        "label": "HorizonFix",
+        "contract": "literal-homepage-structure"
+      },
+      "brandSystem": {
+        "boardFile": "Connecticut Drain PRos.jpeg",
+        "boardSha256": "a0aa45f533df38f0d6202d0e3a314cf3cec1d908123fe5cd2f9c975223358b18",
+        "status": "approved-board-assets-extracted",
+        "colors": {
+          "primary": "#0A1D3D",
+          "secondary": "#00B8F1",
+          "accent": "#455A64",
+          "neutral": "#E8ECEF"
+        },
+        "typography": {
+          "heading": {
+            "family": "Barlow Condensed",
+            "fallback": "'Barlow Condensed', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "body": {
+            "family": "DM Sans",
+            "fallback": "'DM Sans', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "accent": {
+            "family": "Oswald",
+            "fallback": "'Oswald', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          }
+        },
+        "logoSlots": {
+          "primary": "assets/brand/connecticut-drain-pros/brandmark.svg",
+          "raster": "assets/brand/connecticut-drain-pros/brandmark.png",
+          "icon": "assets/brand/connecticut-drain-pros/brand-icon.png",
+          "favicon": "assets/brand/connecticut-drain-pros/favicon.png"
+        }
+      },
+      "contact": {
+        "phone": "860-744-5564",
+        "tel": "+18607445564",
+        "phoneStatus": "callrail-active",
+        "publicAddress": null,
+        "addressStatus": "not-supplied"
+      },
+      "gbp": {
+        "status": "not-verified",
+        "url": null,
+        "reviewUrl": null,
+        "verificationSource": "LLG Portfolio workbook"
+      },
+      "services": [
+        [
+          "french-drain-installation",
+          "French Drain Installation"
+        ],
+        [
+          "yard-drainage",
+          "Yard Drainage"
+        ],
+        [
+          "downspout-drainage",
+          "Downspout Drainage"
+        ],
+        [
+          "stormwater-control",
+          "Stormwater Control"
+        ]
+      ],
+      "serviceArea": {
+        "primaryCity": "Connecticut",
+        "state": "CT",
+        "adjacentCities": [],
+        "status": "primary-city-only"
+      },
+      "evidence": {
+        "reviews": "pending-approved-records",
+        "projectPhotos": "pending-attributable-assets",
+        "sharedTradePhotos": "generic-service-use-only",
+        "claims": "pending-verification"
+      },
+      "routing": {
+        "status": "disabled-until-recipient-and-forwarding-test",
+        "activeClientRecipient": "cloudflare-only",
+        "llgCopyRecipient": "cloudflare-only",
+        "smsCapability": "disabled"
+      },
+      "indexing": {
+        "siteState": "noindex",
+        "productionEligible": false,
+        "blockers": [
+          "routing approval",
+          "claim review",
+          "phone forwarding test",
+          "canonical/domain approval"
+        ]
+      },
+      "analytics": {
+        "cloudflareWebAnalytics": "pending-production-domain",
+        "searchConsole": "pending-production-domain",
+        "ga4": "not-planned"
+      },
+      "pages": [
+        {
+          "slug": "",
+          "type": "home",
+          "intent": "Drainage help in Connecticut",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services",
+          "type": "services-hub",
+          "intent": "Compare Connecticut Drain Pros services",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/french-drain-installation",
+          "type": "service",
+          "service": "French Drain Installation",
+          "intent": "Understand french drain installation in Connecticut",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/yard-drainage",
+          "type": "service",
+          "service": "Yard Drainage",
+          "intent": "Understand yard drainage in Connecticut",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/downspout-drainage",
+          "type": "service",
+          "service": "Downspout Drainage",
+          "intent": "Understand downspout drainage in Connecticut",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/stormwater-control",
+          "type": "service",
+          "service": "Stormwater Control",
+          "intent": "Understand stormwater control in Connecticut",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "service-areas",
+          "type": "service-areas-hub",
+          "intent": "Confirm service availability in Connecticut",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "about",
+          "type": "about",
+          "intent": "Understand the Connecticut Drain Pros process",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "contact",
+          "type": "contact",
+          "intent": "Request an assessment",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "privacy",
+          "type": "legal",
+          "intent": "Privacy information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "terms",
+          "type": "legal",
+          "intent": "Terms information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "thank-you",
+          "type": "confirmation",
+          "intent": "Lead confirmation",
+          "indexState": "noindex"
+        }
+      ]
+    },
+    {
+      "schemaVersion": 2,
+      "siteKey": "crawlspace-cary-nc",
+      "directory": "crawlspace-cary-nc",
+      "brand": "Crawlspace Cary NC",
+      "domain": "crawlspacecarync.com",
+      "trade": "Crawlspace",
+      "city": "Cary",
+      "state": "NC",
+      "stage": "staging",
+      "clone": {
+        "id": "trips-windows-small",
+        "label": "Trips Windows \u2014 Small Export",
+        "contract": "literal-homepage-structure"
+      },
+      "brandSystem": {
+        "boardFile": "Crawlspace Cary NC.jpeg",
+        "boardSha256": "e0adef4bdd958759ab1fa597788c9c644c2e8ee93dede248cadf4ee774b54e40",
+        "status": "approved-board-assets-extracted",
+        "colors": {
+          "primary": "#0E3B43",
+          "secondary": "#2F6F73",
+          "accent": "#F07A2E",
+          "neutral": "#F2F1EE"
+        },
+        "typography": {
+          "heading": {
+            "family": "Bebas Neue Pro",
+            "fallback": "'Bebas Neue Pro', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "body": {
+            "family": "Outfit",
+            "fallback": "'Outfit', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "accent": {
+            "family": "Satisfy",
+            "fallback": "'Satisfy', 'Segoe Script', 'Brush Script MT', cursive",
+            "licenseStatus": "file-not-supplied"
+          }
+        },
+        "logoSlots": {
+          "primary": "assets/brand/crawlspace-cary-nc/brandmark.svg",
+          "raster": "assets/brand/crawlspace-cary-nc/brandmark.png",
+          "icon": "assets/brand/crawlspace-cary-nc/brand-icon.png",
+          "favicon": "assets/brand/crawlspace-cary-nc/favicon.png"
+        }
+      },
+      "contact": {
+        "phone": "919-858-6704",
+        "tel": "+19198586704",
+        "phoneStatus": "callrail-active",
+        "publicAddress": null,
+        "addressStatus": "not-supplied"
+      },
+      "gbp": {
+        "status": "Verified",
+        "url": "https://www.google.com/maps?cid=11290235859367532450",
+        "reviewUrl": "https://search.google.com/local/writereview?placeid=ChIJVcPTUHJRSmkRopf6I7L5rpw",
+        "verificationSource": "LLG Portfolio workbook"
+      },
+      "services": [
+        [
+          "crawlspace-encapsulation",
+          "Crawlspace Encapsulation"
+        ],
+        [
+          "crawlspace-drainage",
+          "Crawlspace Drainage"
+        ],
+        [
+          "moisture-control",
+          "Crawlspace Moisture Control"
+        ],
+        [
+          "dehumidifier-solutions",
+          "Crawlspace Dehumidifier Solutions"
+        ]
+      ],
+      "serviceArea": {
+        "primaryCity": "Cary",
+        "state": "NC",
+        "adjacentCities": [],
+        "status": "primary-city-only"
+      },
+      "evidence": {
+        "reviews": "pending-approved-records",
+        "projectPhotos": "pending-attributable-assets",
+        "sharedTradePhotos": "generic-service-use-only",
+        "claims": "pending-verification"
+      },
+      "routing": {
+        "status": "disabled-until-recipient-and-forwarding-test",
+        "activeClientRecipient": "cloudflare-only",
+        "llgCopyRecipient": "cloudflare-only",
+        "smsCapability": "disabled"
+      },
+      "indexing": {
+        "siteState": "noindex",
+        "productionEligible": false,
+        "blockers": [
+          "routing approval",
+          "claim review",
+          "phone forwarding test",
+          "canonical/domain approval"
+        ]
+      },
+      "analytics": {
+        "cloudflareWebAnalytics": "pending-production-domain",
+        "searchConsole": "pending-production-domain",
+        "ga4": "not-planned"
+      },
+      "pages": [
+        {
+          "slug": "",
+          "type": "home",
+          "intent": "Crawlspace help in Cary",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services",
+          "type": "services-hub",
+          "intent": "Compare Crawlspace Cary NC services",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/crawlspace-encapsulation",
+          "type": "service",
+          "service": "Crawlspace Encapsulation",
+          "intent": "Understand crawlspace encapsulation in Cary",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/crawlspace-drainage",
+          "type": "service",
+          "service": "Crawlspace Drainage",
+          "intent": "Understand crawlspace drainage in Cary",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/moisture-control",
+          "type": "service",
+          "service": "Crawlspace Moisture Control",
+          "intent": "Understand crawlspace moisture control in Cary",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/dehumidifier-solutions",
+          "type": "service",
+          "service": "Crawlspace Dehumidifier Solutions",
+          "intent": "Understand crawlspace dehumidifier solutions in Cary",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "service-areas",
+          "type": "service-areas-hub",
+          "intent": "Confirm service availability in Cary",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "about",
+          "type": "about",
+          "intent": "Understand the Crawlspace Cary NC process",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "contact",
+          "type": "contact",
+          "intent": "Request an assessment",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "privacy",
+          "type": "legal",
+          "intent": "Privacy information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "terms",
+          "type": "legal",
+          "intent": "Terms information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "thank-you",
+          "type": "confirmation",
+          "intent": "Lead confirmation",
+          "indexState": "noindex"
+        }
+      ]
+    },
+    {
+      "schemaVersion": 2,
+      "siteKey": "crawlspace-durham",
+      "directory": "crawlspace-durham",
+      "brand": "Crawlspace Durham",
+      "domain": "crawlspacedurham.com",
+      "trade": "Crawlspace",
+      "city": "Durham",
+      "state": "NC",
+      "stage": "staging",
+      "clone": {
+        "id": "nextgen-windows",
+        "label": "NextGen Windows",
+        "contract": "literal-homepage-structure"
+      },
+      "brandSystem": {
+        "boardFile": "Crawlspace Durham.jpeg",
+        "boardSha256": "aa3daa9f2d5e60e6368dfb6d096f6f4c053a26bfcf0e9150ce238afc54cfb0cb",
+        "status": "approved-board-assets-extracted",
+        "colors": {
+          "primary": "#0B2D3A",
+          "secondary": "#5F6F44",
+          "accent": "#C48A53",
+          "neutral": "#E9E6DB"
+        },
+        "typography": {
+          "heading": {
+            "family": "Barlow Condensed",
+            "fallback": "'Barlow Condensed', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "body": {
+            "family": "Source Sans 3",
+            "fallback": "'Source Sans 3', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "accent": {
+            "family": "DM Serif Display",
+            "fallback": "'DM Serif Display', Georgia, 'Times New Roman', serif",
+            "licenseStatus": "file-not-supplied"
+          }
+        },
+        "logoSlots": {
+          "primary": "assets/brand/crawlspace-durham/brandmark.svg",
+          "raster": "assets/brand/crawlspace-durham/brandmark.png",
+          "icon": "assets/brand/crawlspace-durham/brand-icon.png",
+          "favicon": "assets/brand/crawlspace-durham/favicon.png"
+        }
+      },
+      "contact": {
+        "phone": "984-400-5668",
+        "tel": "+19844005668",
+        "phoneStatus": "callrail-active",
+        "publicAddress": null,
+        "addressStatus": "not-supplied"
+      },
+      "gbp": {
+        "status": "Verified",
+        "url": "https://www.google.com/maps?cid=9778678237731538673",
+        "reviewUrl": "https://search.google.com/local/writereview?placeid=ChIJzXqrdrwzjiMR8cbULAzYtIc",
+        "verificationSource": "LLG Portfolio workbook"
+      },
+      "services": [
+        [
+          "crawlspace-encapsulation",
+          "Crawlspace Encapsulation"
+        ],
+        [
+          "crawlspace-drainage",
+          "Crawlspace Drainage"
+        ],
+        [
+          "moisture-control",
+          "Crawlspace Moisture Control"
+        ],
+        [
+          "dehumidifier-solutions",
+          "Crawlspace Dehumidifier Solutions"
+        ]
+      ],
+      "serviceArea": {
+        "primaryCity": "Durham",
+        "state": "NC",
+        "adjacentCities": [],
+        "status": "primary-city-only"
+      },
+      "evidence": {
+        "reviews": "pending-approved-records",
+        "projectPhotos": "pending-attributable-assets",
+        "sharedTradePhotos": "generic-service-use-only",
+        "claims": "pending-verification"
+      },
+      "routing": {
+        "status": "disabled-until-recipient-and-forwarding-test",
+        "activeClientRecipient": "cloudflare-only",
+        "llgCopyRecipient": "cloudflare-only",
+        "smsCapability": "disabled"
+      },
+      "indexing": {
+        "siteState": "noindex",
+        "productionEligible": false,
+        "blockers": [
+          "routing approval",
+          "claim review",
+          "phone forwarding test",
+          "canonical/domain approval"
+        ]
+      },
+      "analytics": {
+        "cloudflareWebAnalytics": "pending-production-domain",
+        "searchConsole": "pending-production-domain",
+        "ga4": "not-planned"
+      },
+      "pages": [
+        {
+          "slug": "",
+          "type": "home",
+          "intent": "Crawlspace help in Durham",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services",
+          "type": "services-hub",
+          "intent": "Compare Crawlspace Durham services",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/crawlspace-encapsulation",
+          "type": "service",
+          "service": "Crawlspace Encapsulation",
+          "intent": "Understand crawlspace encapsulation in Durham",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/crawlspace-drainage",
+          "type": "service",
+          "service": "Crawlspace Drainage",
+          "intent": "Understand crawlspace drainage in Durham",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/moisture-control",
+          "type": "service",
+          "service": "Crawlspace Moisture Control",
+          "intent": "Understand crawlspace moisture control in Durham",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/dehumidifier-solutions",
+          "type": "service",
+          "service": "Crawlspace Dehumidifier Solutions",
+          "intent": "Understand crawlspace dehumidifier solutions in Durham",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "service-areas",
+          "type": "service-areas-hub",
+          "intent": "Confirm service availability in Durham",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "about",
+          "type": "about",
+          "intent": "Understand the Crawlspace Durham process",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "contact",
+          "type": "contact",
+          "intent": "Request an assessment",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "privacy",
+          "type": "legal",
+          "intent": "Privacy information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "terms",
+          "type": "legal",
+          "intent": "Terms information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "thank-you",
+          "type": "confirmation",
+          "intent": "Lead confirmation",
+          "indexState": "noindex"
+        }
+      ]
+    },
+    {
+      "schemaVersion": 2,
+      "siteKey": "crawlspace-greensboro",
+      "directory": "crawlspace-greensboro",
+      "brand": "Crawlspace Greensboro",
+      "domain": "crawlspacegreensboro.com",
+      "trade": "Crawlspace",
+      "city": "Greensboro",
+      "state": "NC",
+      "stage": "staging",
+      "clone": {
+        "id": "welborn-garage",
+        "label": "Welborn Garage",
+        "contract": "literal-homepage-structure"
+      },
+      "brandSystem": {
+        "boardFile": "Crawlspace Greensboro.jpeg",
+        "boardSha256": "1aa10af7703a9afa51756a9d9cebd048fcb40e0b4d83e058834e21f2f27cfa70",
+        "status": "approved-board-assets-extracted",
+        "colors": {
+          "primary": "#113B2F",
+          "secondary": "#6D8266",
+          "accent": "#D4A32C",
+          "neutral": "#E7E5E0"
+        },
+        "typography": {
+          "heading": {
+            "family": "Oswald SemiCondensed",
+            "fallback": "'Oswald SemiCondensed', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "body": {
+            "family": "Lora",
+            "fallback": "'Lora', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "accent": {
+            "family": "Poppins",
+            "fallback": "'Poppins', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          }
+        },
+        "logoSlots": {
+          "primary": "assets/brand/crawlspace-greensboro/brandmark.svg",
+          "raster": "assets/brand/crawlspace-greensboro/brandmark.png",
+          "icon": "assets/brand/crawlspace-greensboro/brand-icon.png",
+          "favicon": "assets/brand/crawlspace-greensboro/favicon.png"
+        }
+      },
+      "contact": {
+        "phone": "336-933-9193",
+        "tel": "+13369339193",
+        "phoneStatus": "callrail-active",
+        "publicAddress": null,
+        "addressStatus": "not-supplied"
+      },
+      "gbp": {
+        "status": "Verified",
+        "url": "https://www.google.com/maps?cid=101014055828142505",
+        "reviewUrl": "https://search.google.com/local/writereview?placeid=ChIJR5kdRTfG_20RqTn1or_fZgE",
+        "verificationSource": "LLG Portfolio workbook"
+      },
+      "services": [
+        [
+          "crawlspace-encapsulation",
+          "Crawlspace Encapsulation"
+        ],
+        [
+          "crawlspace-drainage",
+          "Crawlspace Drainage"
+        ],
+        [
+          "moisture-control",
+          "Crawlspace Moisture Control"
+        ],
+        [
+          "dehumidifier-solutions",
+          "Crawlspace Dehumidifier Solutions"
+        ]
+      ],
+      "serviceArea": {
+        "primaryCity": "Greensboro",
+        "state": "NC",
+        "adjacentCities": [],
+        "status": "primary-city-only"
+      },
+      "evidence": {
+        "reviews": "pending-approved-records",
+        "projectPhotos": "pending-attributable-assets",
+        "sharedTradePhotos": "generic-service-use-only",
+        "claims": "pending-verification"
+      },
+      "routing": {
+        "status": "disabled-until-recipient-and-forwarding-test",
+        "activeClientRecipient": "cloudflare-only",
+        "llgCopyRecipient": "cloudflare-only",
+        "smsCapability": "disabled"
+      },
+      "indexing": {
+        "siteState": "noindex",
+        "productionEligible": false,
+        "blockers": [
+          "routing approval",
+          "claim review",
+          "phone forwarding test",
+          "canonical/domain approval"
+        ]
+      },
+      "analytics": {
+        "cloudflareWebAnalytics": "pending-production-domain",
+        "searchConsole": "pending-production-domain",
+        "ga4": "not-planned"
+      },
+      "pages": [
+        {
+          "slug": "",
+          "type": "home",
+          "intent": "Crawlspace help in Greensboro",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services",
+          "type": "services-hub",
+          "intent": "Compare Crawlspace Greensboro services",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/crawlspace-encapsulation",
+          "type": "service",
+          "service": "Crawlspace Encapsulation",
+          "intent": "Understand crawlspace encapsulation in Greensboro",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/crawlspace-drainage",
+          "type": "service",
+          "service": "Crawlspace Drainage",
+          "intent": "Understand crawlspace drainage in Greensboro",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/moisture-control",
+          "type": "service",
+          "service": "Crawlspace Moisture Control",
+          "intent": "Understand crawlspace moisture control in Greensboro",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/dehumidifier-solutions",
+          "type": "service",
+          "service": "Crawlspace Dehumidifier Solutions",
+          "intent": "Understand crawlspace dehumidifier solutions in Greensboro",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "service-areas",
+          "type": "service-areas-hub",
+          "intent": "Confirm service availability in Greensboro",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "about",
+          "type": "about",
+          "intent": "Understand the Crawlspace Greensboro process",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "contact",
+          "type": "contact",
+          "intent": "Request an assessment",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "privacy",
+          "type": "legal",
+          "intent": "Privacy information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "terms",
+          "type": "legal",
+          "intent": "Terms information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "thank-you",
+          "type": "confirmation",
+          "intent": "Lead confirmation",
+          "indexState": "noindex"
+        }
+      ]
+    },
+    {
+      "schemaVersion": 2,
+      "siteKey": "crawlspace-raleigh",
+      "directory": "crawlspace-raleigh",
+      "brand": "Crawlspace Raleigh",
+      "domain": "crawlspaceraleigh.com",
+      "trade": "Crawlspace",
+      "city": "Raleigh",
+      "state": "NC",
+      "stage": "staging",
+      "clone": {
+        "id": "trips-windows-full",
+        "label": "Trips Windows \u2014 Full Export",
+        "contract": "literal-homepage-structure"
+      },
+      "brandSystem": {
+        "boardFile": "Crawlspace Raleigh.jpeg",
+        "boardSha256": "e122a470f2ced75b25c8056f5d02235277fab48cb9b6225e5a56afd3dc1ea67f",
+        "status": "approved-board-assets-extracted",
+        "colors": {
+          "primary": "#1E2E28",
+          "secondary": "#6F8A5B",
+          "accent": "#D9D2C2",
+          "neutral": "#2A2A2A"
+        },
+        "typography": {
+          "heading": {
+            "family": "Saira Condensed",
+            "fallback": "'Saira Condensed', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "body": {
+            "family": "Work Sans",
+            "fallback": "'Work Sans', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "accent": {
+            "family": "Space Mono",
+            "fallback": "'Space Mono', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          }
+        },
+        "logoSlots": {
+          "primary": "assets/brand/crawlspace-raleigh/brandmark.svg",
+          "raster": "assets/brand/crawlspace-raleigh/brandmark.png",
+          "icon": "assets/brand/crawlspace-raleigh/brand-icon.png",
+          "favicon": "assets/brand/crawlspace-raleigh/favicon.png"
+        }
+      },
+      "contact": {
+        "phone": "919-646-9887",
+        "tel": "+19196469887",
+        "phoneStatus": "callrail-active",
+        "publicAddress": null,
+        "addressStatus": "not-supplied"
+      },
+      "gbp": {
+        "status": "not-verified",
+        "url": null,
+        "reviewUrl": null,
+        "verificationSource": "LLG Portfolio workbook"
+      },
+      "services": [
+        [
+          "crawlspace-encapsulation",
+          "Crawlspace Encapsulation"
+        ],
+        [
+          "crawlspace-drainage",
+          "Crawlspace Drainage"
+        ],
+        [
+          "moisture-control",
+          "Crawlspace Moisture Control"
+        ],
+        [
+          "dehumidifier-solutions",
+          "Crawlspace Dehumidifier Solutions"
+        ]
+      ],
+      "serviceArea": {
+        "primaryCity": "Raleigh",
+        "state": "NC",
+        "adjacentCities": [],
+        "status": "primary-city-only"
+      },
+      "evidence": {
+        "reviews": "pending-approved-records",
+        "projectPhotos": "pending-attributable-assets",
+        "sharedTradePhotos": "generic-service-use-only",
+        "claims": "pending-verification"
+      },
+      "routing": {
+        "status": "disabled-until-recipient-and-forwarding-test",
+        "activeClientRecipient": "cloudflare-only",
+        "llgCopyRecipient": "cloudflare-only",
+        "smsCapability": "disabled"
+      },
+      "indexing": {
+        "siteState": "noindex",
+        "productionEligible": false,
+        "blockers": [
+          "routing approval",
+          "claim review",
+          "phone forwarding test",
+          "canonical/domain approval"
+        ]
+      },
+      "analytics": {
+        "cloudflareWebAnalytics": "pending-production-domain",
+        "searchConsole": "pending-production-domain",
+        "ga4": "not-planned"
+      },
+      "pages": [
+        {
+          "slug": "",
+          "type": "home",
+          "intent": "Crawlspace help in Raleigh",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services",
+          "type": "services-hub",
+          "intent": "Compare Crawlspace Raleigh services",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/crawlspace-encapsulation",
+          "type": "service",
+          "service": "Crawlspace Encapsulation",
+          "intent": "Understand crawlspace encapsulation in Raleigh",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/crawlspace-drainage",
+          "type": "service",
+          "service": "Crawlspace Drainage",
+          "intent": "Understand crawlspace drainage in Raleigh",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/moisture-control",
+          "type": "service",
+          "service": "Crawlspace Moisture Control",
+          "intent": "Understand crawlspace moisture control in Raleigh",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/dehumidifier-solutions",
+          "type": "service",
+          "service": "Crawlspace Dehumidifier Solutions",
+          "intent": "Understand crawlspace dehumidifier solutions in Raleigh",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "service-areas",
+          "type": "service-areas-hub",
+          "intent": "Confirm service availability in Raleigh",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "about",
+          "type": "about",
+          "intent": "Understand the Crawlspace Raleigh process",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "contact",
+          "type": "contact",
+          "intent": "Request an assessment",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "privacy",
+          "type": "legal",
+          "intent": "Privacy information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "terms",
+          "type": "legal",
+          "intent": "Terms information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "thank-you",
+          "type": "confirmation",
+          "intent": "Lead confirmation",
+          "indexState": "noindex"
+        }
+      ]
+    },
+    {
+      "schemaVersion": 2,
+      "siteKey": "crawlspace-wilmington",
+      "directory": "crawlspace-wilmington",
+      "brand": "Crawlspace Wilmington",
+      "domain": "crawlspacewilmington.com",
+      "trade": "Crawlspace",
+      "city": "Wilmington",
+      "state": "NC",
+      "stage": "staging",
+      "clone": {
+        "id": "nextgen-windows",
+        "label": "NextGen Windows",
+        "contract": "literal-homepage-structure"
+      },
+      "brandSystem": {
+        "boardFile": "Crawlspace Wilmington.jpeg",
+        "boardSha256": "afd83d551abd685ae689de210831e9d3a851bb86c8d264ee5a1d52df303a4bb5",
+        "status": "approved-board-assets-extracted",
+        "colors": {
+          "primary": "#0F2D4D",
+          "secondary": "#5BAAA8",
+          "accent": "#C8B79C",
+          "neutral": "#F2F4F5"
+        },
+        "typography": {
+          "heading": {
+            "family": "League Spartan",
+            "fallback": "'League Spartan', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "body": {
+            "family": "Work Sans",
+            "fallback": "'Work Sans', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "accent": {
+            "family": "Pacifico",
+            "fallback": "'Pacifico', 'Segoe Script', 'Brush Script MT', cursive",
+            "licenseStatus": "file-not-supplied"
+          }
+        },
+        "logoSlots": {
+          "primary": "assets/brand/crawlspace-wilmington/brandmark.svg",
+          "raster": "assets/brand/crawlspace-wilmington/brandmark.png",
+          "icon": "assets/brand/crawlspace-wilmington/brand-icon.png",
+          "favicon": "assets/brand/crawlspace-wilmington/favicon.png"
+        }
+      },
+      "contact": {
+        "phone": "910-444-0021",
+        "tel": "+19104440021",
+        "phoneStatus": "not-in-callrail-inventory",
+        "publicAddress": null,
+        "addressStatus": "not-supplied"
+      },
+      "gbp": {
+        "status": "not-verified",
+        "url": null,
+        "reviewUrl": null,
+        "verificationSource": "LLG Portfolio workbook"
+      },
+      "services": [
+        [
+          "crawlspace-encapsulation",
+          "Crawlspace Encapsulation"
+        ],
+        [
+          "crawlspace-drainage",
+          "Crawlspace Drainage"
+        ],
+        [
+          "moisture-control",
+          "Crawlspace Moisture Control"
+        ],
+        [
+          "dehumidifier-solutions",
+          "Crawlspace Dehumidifier Solutions"
+        ]
+      ],
+      "serviceArea": {
+        "primaryCity": "Wilmington",
+        "state": "NC",
+        "adjacentCities": [],
+        "status": "primary-city-only"
+      },
+      "evidence": {
+        "reviews": "pending-approved-records",
+        "projectPhotos": "pending-attributable-assets",
+        "sharedTradePhotos": "generic-service-use-only",
+        "claims": "pending-verification"
+      },
+      "routing": {
+        "status": "disabled-until-recipient-and-forwarding-test",
+        "activeClientRecipient": "cloudflare-only",
+        "llgCopyRecipient": "cloudflare-only",
+        "smsCapability": "disabled"
+      },
+      "indexing": {
+        "siteState": "noindex",
+        "productionEligible": false,
+        "blockers": [
+          "routing approval",
+          "claim review",
+          "phone forwarding test",
+          "canonical/domain approval"
+        ]
+      },
+      "analytics": {
+        "cloudflareWebAnalytics": "pending-production-domain",
+        "searchConsole": "pending-production-domain",
+        "ga4": "not-planned"
+      },
+      "pages": [
+        {
+          "slug": "",
+          "type": "home",
+          "intent": "Crawlspace help in Wilmington",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services",
+          "type": "services-hub",
+          "intent": "Compare Crawlspace Wilmington services",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/crawlspace-encapsulation",
+          "type": "service",
+          "service": "Crawlspace Encapsulation",
+          "intent": "Understand crawlspace encapsulation in Wilmington",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/crawlspace-drainage",
+          "type": "service",
+          "service": "Crawlspace Drainage",
+          "intent": "Understand crawlspace drainage in Wilmington",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/moisture-control",
+          "type": "service",
+          "service": "Crawlspace Moisture Control",
+          "intent": "Understand crawlspace moisture control in Wilmington",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/dehumidifier-solutions",
+          "type": "service",
+          "service": "Crawlspace Dehumidifier Solutions",
+          "intent": "Understand crawlspace dehumidifier solutions in Wilmington",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "service-areas",
+          "type": "service-areas-hub",
+          "intent": "Confirm service availability in Wilmington",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "about",
+          "type": "about",
+          "intent": "Understand the Crawlspace Wilmington process",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "contact",
+          "type": "contact",
+          "intent": "Request an assessment",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "privacy",
+          "type": "legal",
+          "intent": "Privacy information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "terms",
+          "type": "legal",
+          "intent": "Terms information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "thank-you",
+          "type": "confirmation",
+          "intent": "Lead confirmation",
+          "indexState": "noindex"
+        }
+      ]
+    },
+    {
+      "schemaVersion": 2,
+      "siteKey": "dallas-drain-guys",
+      "directory": "dallas-drain-guys",
+      "brand": "Dallas Drain Guys",
+      "domain": "dallasdrainguys.com",
+      "trade": "Drainage",
+      "city": "Dallas",
+      "state": "TX",
+      "stage": "staging",
+      "clone": {
+        "id": "minuteman",
+        "label": "Minuteman",
+        "contract": "literal-homepage-structure"
+      },
+      "brandSystem": {
+        "boardFile": "Dallas Drain Guys.jpeg",
+        "boardSha256": "bef5954af8255f774c4e369aeddcee6485b4cedd750535f69862220036ef8286",
+        "status": "approved-board-assets-extracted",
+        "colors": {
+          "primary": "#2F3A2E",
+          "secondary": "#6B7368",
+          "accent": "#C15A34",
+          "neutral": "#E7E4DD"
+        },
+        "typography": {
+          "heading": {
+            "family": "Bungee",
+            "fallback": "'Bungee', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "body": {
+            "family": "DM Sans",
+            "fallback": "'DM Sans', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "accent": {
+            "family": "Koulen",
+            "fallback": "'Koulen', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          }
+        },
+        "logoSlots": {
+          "primary": "assets/brand/dallas-drain-guys/brandmark.svg",
+          "raster": "assets/brand/dallas-drain-guys/brandmark.png",
+          "icon": "assets/brand/dallas-drain-guys/brand-icon.png",
+          "favicon": "assets/brand/dallas-drain-guys/favicon.png"
+        }
+      },
+      "contact": {
+        "phone": "214-833-6141",
+        "tel": "+12148336141",
+        "phoneStatus": "callrail-active",
+        "publicAddress": null,
+        "addressStatus": "not-supplied"
+      },
+      "gbp": {
+        "status": "not-verified",
+        "url": null,
+        "reviewUrl": null,
+        "verificationSource": "LLG Portfolio workbook"
+      },
+      "services": [
+        [
+          "french-drain-installation",
+          "French Drain Installation"
+        ],
+        [
+          "yard-drainage",
+          "Yard Drainage"
+        ],
+        [
+          "downspout-drainage",
+          "Downspout Drainage"
+        ],
+        [
+          "stormwater-control",
+          "Stormwater Control"
+        ]
+      ],
+      "serviceArea": {
+        "primaryCity": "Dallas",
+        "state": "TX",
+        "adjacentCities": [],
+        "status": "primary-city-only"
+      },
+      "evidence": {
+        "reviews": "pending-approved-records",
+        "projectPhotos": "pending-attributable-assets",
+        "sharedTradePhotos": "generic-service-use-only",
+        "claims": "pending-verification"
+      },
+      "routing": {
+        "status": "disabled-until-recipient-and-forwarding-test",
+        "activeClientRecipient": "cloudflare-only",
+        "llgCopyRecipient": "cloudflare-only",
+        "smsCapability": "disabled"
+      },
+      "indexing": {
+        "siteState": "noindex",
+        "productionEligible": false,
+        "blockers": [
+          "routing approval",
+          "claim review",
+          "phone forwarding test",
+          "canonical/domain approval"
+        ]
+      },
+      "analytics": {
+        "cloudflareWebAnalytics": "pending-production-domain",
+        "searchConsole": "pending-production-domain",
+        "ga4": "not-planned"
+      },
+      "pages": [
+        {
+          "slug": "",
+          "type": "home",
+          "intent": "Drainage help in Dallas",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services",
+          "type": "services-hub",
+          "intent": "Compare Dallas Drain Guys services",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/french-drain-installation",
+          "type": "service",
+          "service": "French Drain Installation",
+          "intent": "Understand french drain installation in Dallas",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/yard-drainage",
+          "type": "service",
+          "service": "Yard Drainage",
+          "intent": "Understand yard drainage in Dallas",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/downspout-drainage",
+          "type": "service",
+          "service": "Downspout Drainage",
+          "intent": "Understand downspout drainage in Dallas",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/stormwater-control",
+          "type": "service",
+          "service": "Stormwater Control",
+          "intent": "Understand stormwater control in Dallas",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "service-areas",
+          "type": "service-areas-hub",
+          "intent": "Confirm service availability in Dallas",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "about",
+          "type": "about",
+          "intent": "Understand the Dallas Drain Guys process",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "contact",
+          "type": "contact",
+          "intent": "Request an assessment",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "privacy",
+          "type": "legal",
+          "intent": "Privacy information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "terms",
+          "type": "legal",
+          "intent": "Terms information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "thank-you",
+          "type": "confirmation",
+          "intent": "Lead confirmation",
+          "indexState": "noindex"
+        }
+      ]
+    },
+    {
+      "schemaVersion": 2,
+      "siteKey": "greensboro-drain-guys",
+      "directory": "greensboro-drain-guys",
+      "brand": "Greensboro Drain Guys",
+      "domain": "greensborodrainguys.com",
+      "trade": "Drainage",
+      "city": "Greensboro",
+      "state": "NC",
+      "stage": "staging",
+      "clone": {
+        "id": "roofrightnow",
+        "label": "Roof Right Now",
+        "contract": "literal-homepage-structure"
+      },
+      "brandSystem": {
+        "boardFile": "Greensboro Drain Guys.jpeg",
+        "boardSha256": "94aa1af5fad1208f126712bb9656865dd68fe13a668960929eef7a0e7b6c2ec2",
+        "status": "approved-board-assets-extracted",
+        "colors": {
+          "primary": "#1D3B2F",
+          "secondary": "#68A05F",
+          "accent": "#68A7B3",
+          "neutral": "#F1F3EF"
+        },
+        "typography": {
+          "heading": {
+            "family": "Sora",
+            "fallback": "'Sora', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "body": {
+            "family": "DM Sans",
+            "fallback": "'DM Sans', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "accent": {
+            "family": "Caveat",
+            "fallback": "'Caveat', 'Segoe Script', 'Brush Script MT', cursive",
+            "licenseStatus": "file-not-supplied"
+          }
+        },
+        "logoSlots": {
+          "primary": "assets/brand/greensboro-drain-guys/brandmark.svg",
+          "raster": "assets/brand/greensboro-drain-guys/brandmark.png",
+          "icon": "assets/brand/greensboro-drain-guys/brand-icon.png",
+          "favicon": "assets/brand/greensboro-drain-guys/favicon.png"
+        }
+      },
+      "contact": {
+        "phone": "336-444-6048",
+        "tel": "+13364446048",
+        "phoneStatus": "callrail-active",
+        "publicAddress": null,
+        "addressStatus": "not-supplied"
+      },
+      "gbp": {
+        "status": "not-verified",
+        "url": null,
+        "reviewUrl": null,
+        "verificationSource": "LLG Portfolio workbook"
+      },
+      "services": [
+        [
+          "french-drain-installation",
+          "French Drain Installation"
+        ],
+        [
+          "yard-drainage",
+          "Yard Drainage"
+        ],
+        [
+          "downspout-drainage",
+          "Downspout Drainage"
+        ],
+        [
+          "stormwater-control",
+          "Stormwater Control"
+        ]
+      ],
+      "serviceArea": {
+        "primaryCity": "Greensboro",
+        "state": "NC",
+        "adjacentCities": [],
+        "status": "primary-city-only"
+      },
+      "evidence": {
+        "reviews": "pending-approved-records",
+        "projectPhotos": "pending-attributable-assets",
+        "sharedTradePhotos": "generic-service-use-only",
+        "claims": "pending-verification"
+      },
+      "routing": {
+        "status": "disabled-until-recipient-and-forwarding-test",
+        "activeClientRecipient": "cloudflare-only",
+        "llgCopyRecipient": "cloudflare-only",
+        "smsCapability": "disabled"
+      },
+      "indexing": {
+        "siteState": "noindex",
+        "productionEligible": false,
+        "blockers": [
+          "routing approval",
+          "claim review",
+          "phone forwarding test",
+          "canonical/domain approval"
+        ]
+      },
+      "analytics": {
+        "cloudflareWebAnalytics": "pending-production-domain",
+        "searchConsole": "pending-production-domain",
+        "ga4": "not-planned"
+      },
+      "pages": [
+        {
+          "slug": "",
+          "type": "home",
+          "intent": "Drainage help in Greensboro",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services",
+          "type": "services-hub",
+          "intent": "Compare Greensboro Drain Guys services",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/french-drain-installation",
+          "type": "service",
+          "service": "French Drain Installation",
+          "intent": "Understand french drain installation in Greensboro",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/yard-drainage",
+          "type": "service",
+          "service": "Yard Drainage",
+          "intent": "Understand yard drainage in Greensboro",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/downspout-drainage",
+          "type": "service",
+          "service": "Downspout Drainage",
+          "intent": "Understand downspout drainage in Greensboro",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/stormwater-control",
+          "type": "service",
+          "service": "Stormwater Control",
+          "intent": "Understand stormwater control in Greensboro",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "service-areas",
+          "type": "service-areas-hub",
+          "intent": "Confirm service availability in Greensboro",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "about",
+          "type": "about",
+          "intent": "Understand the Greensboro Drain Guys process",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "contact",
+          "type": "contact",
+          "intent": "Request an assessment",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "privacy",
+          "type": "legal",
+          "intent": "Privacy information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "terms",
+          "type": "legal",
+          "intent": "Terms information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "thank-you",
+          "type": "confirmation",
+          "intent": "Lead confirmation",
+          "indexState": "noindex"
+        }
+      ]
+    },
+    {
+      "schemaVersion": 2,
+      "siteKey": "jackson-french-drain",
+      "directory": "jackson-french-drain",
+      "brand": "Jackson French Drain",
+      "domain": "jacksonfrenchdrain.com",
+      "trade": "Drainage",
+      "city": "Jackson",
+      "state": "MS",
+      "stage": "staging",
+      "clone": {
+        "id": "horizonfix",
+        "label": "HorizonFix",
+        "contract": "literal-homepage-structure"
+      },
+      "brandSystem": {
+        "boardFile": "Jackson French Drain.jpeg",
+        "boardSha256": "d13086c52d06b97ff4acd71165573aa468664a233eb222b5a5087e52d148ba2d",
+        "status": "approved-board-assets-extracted",
+        "colors": {
+          "primary": "#0E2238",
+          "secondary": "#1E73BE",
+          "accent": "#6B747D",
+          "neutral": "#E6E9ED"
+        },
+        "typography": {
+          "heading": {
+            "family": "Practica",
+            "fallback": "'Practica', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "body": {
+            "family": "Inter",
+            "fallback": "'Inter', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "accent": {
+            "family": "DIN 2014",
+            "fallback": "'DIN 2014', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          }
+        },
+        "logoSlots": {
+          "primary": "assets/brand/jackson-french-drain/brandmark.svg",
+          "raster": "assets/brand/jackson-french-drain/brandmark.png",
+          "icon": "assets/brand/jackson-french-drain/brand-icon.png",
+          "favicon": "assets/brand/jackson-french-drain/favicon.png"
+        }
+      },
+      "contact": {
+        "phone": "601-688-7997",
+        "tel": "+16016887997",
+        "phoneStatus": "callrail-active",
+        "publicAddress": null,
+        "addressStatus": "not-supplied"
+      },
+      "gbp": {
+        "status": "Verified",
+        "url": "https://www.google.com/maps?cid=7266724139285102729",
+        "reviewUrl": "https://search.google.com/local/writereview?placeid=ChIJzZ7Op-38UaQRiUDYmhqX2GQ",
+        "verificationSource": "LLG Portfolio workbook"
+      },
+      "services": [
+        [
+          "french-drain-installation",
+          "French Drain Installation"
+        ],
+        [
+          "yard-drainage",
+          "Yard Drainage"
+        ],
+        [
+          "downspout-drainage",
+          "Downspout Drainage"
+        ],
+        [
+          "stormwater-control",
+          "Stormwater Control"
+        ]
+      ],
+      "serviceArea": {
+        "primaryCity": "Jackson",
+        "state": "MS",
+        "adjacentCities": [],
+        "status": "primary-city-only"
+      },
+      "evidence": {
+        "reviews": "pending-approved-records",
+        "projectPhotos": "pending-attributable-assets",
+        "sharedTradePhotos": "generic-service-use-only",
+        "claims": "pending-verification"
+      },
+      "routing": {
+        "status": "disabled-until-recipient-and-forwarding-test",
+        "activeClientRecipient": "cloudflare-only",
+        "llgCopyRecipient": "cloudflare-only",
+        "smsCapability": "disabled"
+      },
+      "indexing": {
+        "siteState": "noindex",
+        "productionEligible": false,
+        "blockers": [
+          "routing approval",
+          "claim review",
+          "phone forwarding test",
+          "canonical/domain approval"
+        ]
+      },
+      "analytics": {
+        "cloudflareWebAnalytics": "pending-production-domain",
+        "searchConsole": "pending-production-domain",
+        "ga4": "not-planned"
+      },
+      "pages": [
+        {
+          "slug": "",
+          "type": "home",
+          "intent": "Drainage help in Jackson",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services",
+          "type": "services-hub",
+          "intent": "Compare Jackson French Drain services",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/french-drain-installation",
+          "type": "service",
+          "service": "French Drain Installation",
+          "intent": "Understand french drain installation in Jackson",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/yard-drainage",
+          "type": "service",
+          "service": "Yard Drainage",
+          "intent": "Understand yard drainage in Jackson",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/downspout-drainage",
+          "type": "service",
+          "service": "Downspout Drainage",
+          "intent": "Understand downspout drainage in Jackson",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/stormwater-control",
+          "type": "service",
+          "service": "Stormwater Control",
+          "intent": "Understand stormwater control in Jackson",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "service-areas",
+          "type": "service-areas-hub",
+          "intent": "Confirm service availability in Jackson",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "about",
+          "type": "about",
+          "intent": "Understand the Jackson French Drain process",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "contact",
+          "type": "contact",
+          "intent": "Request an assessment",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "privacy",
+          "type": "legal",
+          "intent": "Privacy information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "terms",
+          "type": "legal",
+          "intent": "Terms information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "thank-you",
+          "type": "confirmation",
+          "intent": "Lead confirmation",
+          "indexState": "noindex"
+        }
+      ]
+    },
+    {
+      "schemaVersion": 2,
+      "siteKey": "little-rock-french-drain",
+      "directory": "little-rock-french-drain",
+      "brand": "Little Rock French Drain",
+      "domain": "littlerockfrenchdrain.com",
+      "trade": "Drainage",
+      "city": "Little Rock",
+      "state": "AR",
+      "stage": "staging",
+      "clone": {
+        "id": "roofrightnow",
+        "label": "Roof Right Now",
+        "contract": "literal-homepage-structure"
+      },
+      "brandSystem": {
+        "boardFile": "Little Rock French Drain.jpeg",
+        "boardSha256": "c2c3702f4575f04771b2a3e64e2d0291352e3db81f7433fbc84b32b76c24e725",
+        "status": "approved-board-assets-extracted",
+        "colors": {
+          "primary": "#1F2A37",
+          "secondary": "#5B6B49",
+          "accent": "#7CA0B3",
+          "neutral": "#E7E4DE"
+        },
+        "typography": {
+          "heading": {
+            "family": "Cormorant Garamond",
+            "fallback": "'Cormorant Garamond', Georgia, 'Times New Roman', serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "body": {
+            "family": "Source Sans 3",
+            "fallback": "'Source Sans 3', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "accent": {
+            "family": "Caveat",
+            "fallback": "'Caveat', 'Segoe Script', 'Brush Script MT', cursive",
+            "licenseStatus": "file-not-supplied"
+          }
+        },
+        "logoSlots": {
+          "primary": "assets/brand/little-rock-french-drain/brandmark.svg",
+          "raster": "assets/brand/little-rock-french-drain/brandmark.png",
+          "icon": "assets/brand/little-rock-french-drain/brand-icon.png",
+          "favicon": "assets/brand/little-rock-french-drain/favicon.png"
+        }
+      },
+      "contact": {
+        "phone": "501-459-7779",
+        "tel": "+15014597779",
+        "phoneStatus": "callrail-active",
+        "publicAddress": null,
+        "addressStatus": "not-supplied"
+      },
+      "gbp": {
+        "status": "not-verified",
+        "url": null,
+        "reviewUrl": null,
+        "verificationSource": "LLG Portfolio workbook"
+      },
+      "services": [
+        [
+          "french-drain-installation",
+          "French Drain Installation"
+        ],
+        [
+          "yard-drainage",
+          "Yard Drainage"
+        ],
+        [
+          "downspout-drainage",
+          "Downspout Drainage"
+        ],
+        [
+          "stormwater-control",
+          "Stormwater Control"
+        ]
+      ],
+      "serviceArea": {
+        "primaryCity": "Little Rock",
+        "state": "AR",
+        "adjacentCities": [],
+        "status": "primary-city-only"
+      },
+      "evidence": {
+        "reviews": "pending-approved-records",
+        "projectPhotos": "pending-attributable-assets",
+        "sharedTradePhotos": "generic-service-use-only",
+        "claims": "pending-verification"
+      },
+      "routing": {
+        "status": "disabled-until-recipient-and-forwarding-test",
+        "activeClientRecipient": "cloudflare-only",
+        "llgCopyRecipient": "cloudflare-only",
+        "smsCapability": "disabled"
+      },
+      "indexing": {
+        "siteState": "noindex",
+        "productionEligible": false,
+        "blockers": [
+          "routing approval",
+          "claim review",
+          "phone forwarding test",
+          "canonical/domain approval"
+        ]
+      },
+      "analytics": {
+        "cloudflareWebAnalytics": "pending-production-domain",
+        "searchConsole": "pending-production-domain",
+        "ga4": "not-planned"
+      },
+      "pages": [
+        {
+          "slug": "",
+          "type": "home",
+          "intent": "Drainage help in Little Rock",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services",
+          "type": "services-hub",
+          "intent": "Compare Little Rock French Drain services",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/french-drain-installation",
+          "type": "service",
+          "service": "French Drain Installation",
+          "intent": "Understand french drain installation in Little Rock",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/yard-drainage",
+          "type": "service",
+          "service": "Yard Drainage",
+          "intent": "Understand yard drainage in Little Rock",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/downspout-drainage",
+          "type": "service",
+          "service": "Downspout Drainage",
+          "intent": "Understand downspout drainage in Little Rock",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/stormwater-control",
+          "type": "service",
+          "service": "Stormwater Control",
+          "intent": "Understand stormwater control in Little Rock",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "service-areas",
+          "type": "service-areas-hub",
+          "intent": "Confirm service availability in Little Rock",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "about",
+          "type": "about",
+          "intent": "Understand the Little Rock French Drain process",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "contact",
+          "type": "contact",
+          "intent": "Request an assessment",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "privacy",
+          "type": "legal",
+          "intent": "Privacy information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "terms",
+          "type": "legal",
+          "intent": "Terms information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "thank-you",
+          "type": "confirmation",
+          "intent": "Lead confirmation",
+          "indexState": "noindex"
+        }
+      ]
+    },
+    {
+      "schemaVersion": 2,
+      "siteKey": "little-rock-precision-walls",
+      "directory": "little-rock-precision-walls",
+      "brand": "Little Rock Precision Walls",
+      "domain": "littlerockprecisionwalls.com",
+      "trade": "Retaining walls",
+      "city": "Little Rock",
+      "state": "AR",
+      "stage": "staging",
+      "clone": {
+        "id": "pinks-concrete",
+        "label": "Pink's Concrete",
+        "contract": "literal-homepage-structure"
+      },
+      "brandSystem": {
+        "boardFile": "Little Rock Precision Walls.jpeg",
+        "boardSha256": "d37b10540571e29951db1ab54591f3f1643131eb997c3adce6b8bdc4ab932856",
+        "status": "approved-board-assets-extracted",
+        "colors": {
+          "primary": "#1F2328",
+          "secondary": "#6B7177",
+          "accent": "#A31D23",
+          "neutral": "#F2F3F4"
+        },
+        "typography": {
+          "heading": {
+            "family": "Oswald",
+            "fallback": "'Oswald', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "body": {
+            "family": "Barlow Condensed",
+            "fallback": "'Barlow Condensed', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "accent": {
+            "family": "Space Grotesk",
+            "fallback": "'Space Grotesk', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          }
+        },
+        "logoSlots": {
+          "primary": "assets/brand/little-rock-precision-walls/brandmark.svg",
+          "raster": "assets/brand/little-rock-precision-walls/brandmark.png",
+          "icon": "assets/brand/little-rock-precision-walls/brand-icon.png",
+          "favicon": "assets/brand/little-rock-precision-walls/favicon.png"
+        }
+      },
+      "contact": {
+        "phone": "501-300-8626",
+        "tel": "+15013008626",
+        "phoneStatus": "callrail-active",
+        "publicAddress": null,
+        "addressStatus": "not-supplied"
+      },
+      "gbp": {
+        "status": "not-verified",
+        "url": null,
+        "reviewUrl": null,
+        "verificationSource": "LLG Portfolio workbook"
+      },
+      "services": [
+        [
+          "retaining-wall-installation",
+          "Retaining Wall Installation"
+        ],
+        [
+          "segmental-block-walls",
+          "Segmental Block Walls"
+        ],
+        [
+          "natural-stone-walls",
+          "Natural Stone Walls"
+        ],
+        [
+          "retaining-wall-repair",
+          "Retaining Wall Repair"
+        ]
+      ],
+      "serviceArea": {
+        "primaryCity": "Little Rock",
+        "state": "AR",
+        "adjacentCities": [],
+        "status": "primary-city-only"
+      },
+      "evidence": {
+        "reviews": "pending-approved-records",
+        "projectPhotos": "pending-attributable-assets",
+        "sharedTradePhotos": "generic-service-use-only",
+        "claims": "pending-verification"
+      },
+      "routing": {
+        "status": "disabled-until-recipient-and-forwarding-test",
+        "activeClientRecipient": "cloudflare-only",
+        "llgCopyRecipient": "cloudflare-only",
+        "smsCapability": "disabled"
+      },
+      "indexing": {
+        "siteState": "noindex",
+        "productionEligible": false,
+        "blockers": [
+          "routing approval",
+          "claim review",
+          "phone forwarding test",
+          "canonical/domain approval"
+        ]
+      },
+      "analytics": {
+        "cloudflareWebAnalytics": "pending-production-domain",
+        "searchConsole": "pending-production-domain",
+        "ga4": "not-planned"
+      },
+      "pages": [
+        {
+          "slug": "",
+          "type": "home",
+          "intent": "Retaining walls help in Little Rock",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services",
+          "type": "services-hub",
+          "intent": "Compare Little Rock Precision Walls services",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/retaining-wall-installation",
+          "type": "service",
+          "service": "Retaining Wall Installation",
+          "intent": "Understand retaining wall installation in Little Rock",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/segmental-block-walls",
+          "type": "service",
+          "service": "Segmental Block Walls",
+          "intent": "Understand segmental block walls in Little Rock",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/natural-stone-walls",
+          "type": "service",
+          "service": "Natural Stone Walls",
+          "intent": "Understand natural stone walls in Little Rock",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/retaining-wall-repair",
+          "type": "service",
+          "service": "Retaining Wall Repair",
+          "intent": "Understand retaining wall repair in Little Rock",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "service-areas",
+          "type": "service-areas-hub",
+          "intent": "Confirm service availability in Little Rock",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "about",
+          "type": "about",
+          "intent": "Understand the Little Rock Precision Walls process",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "contact",
+          "type": "contact",
+          "intent": "Request an assessment",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "privacy",
+          "type": "legal",
+          "intent": "Privacy information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "terms",
+          "type": "legal",
+          "intent": "Terms information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "thank-you",
+          "type": "confirmation",
+          "intent": "Lead confirmation",
+          "indexState": "noindex"
+        }
+      ]
+    },
+    {
+      "schemaVersion": 2,
+      "siteKey": "louisville-precision-walls",
+      "directory": "louisville-precision-walls",
+      "brand": "Louisville Precision Walls",
+      "domain": "louisvilleprecisionwalls.com",
+      "trade": "Retaining walls",
+      "city": "Louisville",
+      "state": "KY",
+      "stage": "staging",
+      "clone": {
+        "id": "pinks-concrete",
+        "label": "Pink's Concrete",
+        "contract": "literal-homepage-structure"
+      },
+      "brandSystem": {
+        "boardFile": "Louisville Precision Walls.jpeg",
+        "boardSha256": "7e5b253ceeb5a6d6ac3a2a945f3edca02eda001f10691d8fada2e3be58ca934e",
+        "status": "approved-board-assets-extracted",
+        "colors": {
+          "primary": "#1F2A25",
+          "secondary": "#6E7270",
+          "accent": "#B85D2A",
+          "neutral": "#F4F1EC"
+        },
+        "typography": {
+          "heading": {
+            "family": "Saira Stencil One",
+            "fallback": "'Saira Stencil One', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "body": {
+            "family": "Work Sans",
+            "fallback": "'Work Sans', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "accent": {
+            "family": "Kalam",
+            "fallback": "'Kalam', 'Segoe Script', 'Brush Script MT', cursive",
+            "licenseStatus": "file-not-supplied"
+          }
+        },
+        "logoSlots": {
+          "primary": "assets/brand/louisville-precision-walls/brandmark.svg",
+          "raster": "assets/brand/louisville-precision-walls/brandmark.png",
+          "icon": "assets/brand/louisville-precision-walls/brand-icon.png",
+          "favicon": "assets/brand/louisville-precision-walls/favicon.png"
+        }
+      },
+      "contact": {
+        "phone": "502-490-3600",
+        "tel": "+15024903600",
+        "phoneStatus": "callrail-active",
+        "publicAddress": null,
+        "addressStatus": "not-supplied"
+      },
+      "gbp": {
+        "status": "Verified",
+        "url": null,
+        "reviewUrl": null,
+        "verificationSource": "LLG Portfolio workbook"
+      },
+      "services": [
+        [
+          "retaining-wall-installation",
+          "Retaining Wall Installation"
+        ],
+        [
+          "segmental-block-walls",
+          "Segmental Block Walls"
+        ],
+        [
+          "natural-stone-walls",
+          "Natural Stone Walls"
+        ],
+        [
+          "retaining-wall-repair",
+          "Retaining Wall Repair"
+        ]
+      ],
+      "serviceArea": {
+        "primaryCity": "Louisville",
+        "state": "KY",
+        "adjacentCities": [],
+        "status": "primary-city-only"
+      },
+      "evidence": {
+        "reviews": "pending-approved-records",
+        "projectPhotos": "pending-attributable-assets",
+        "sharedTradePhotos": "generic-service-use-only",
+        "claims": "pending-verification"
+      },
+      "routing": {
+        "status": "disabled-until-recipient-and-forwarding-test",
+        "activeClientRecipient": "cloudflare-only",
+        "llgCopyRecipient": "cloudflare-only",
+        "smsCapability": "disabled"
+      },
+      "indexing": {
+        "siteState": "noindex",
+        "productionEligible": false,
+        "blockers": [
+          "routing approval",
+          "claim review",
+          "phone forwarding test",
+          "canonical/domain approval"
+        ]
+      },
+      "analytics": {
+        "cloudflareWebAnalytics": "pending-production-domain",
+        "searchConsole": "pending-production-domain",
+        "ga4": "not-planned"
+      },
+      "pages": [
+        {
+          "slug": "",
+          "type": "home",
+          "intent": "Retaining walls help in Louisville",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services",
+          "type": "services-hub",
+          "intent": "Compare Louisville Precision Walls services",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/retaining-wall-installation",
+          "type": "service",
+          "service": "Retaining Wall Installation",
+          "intent": "Understand retaining wall installation in Louisville",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/segmental-block-walls",
+          "type": "service",
+          "service": "Segmental Block Walls",
+          "intent": "Understand segmental block walls in Louisville",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/natural-stone-walls",
+          "type": "service",
+          "service": "Natural Stone Walls",
+          "intent": "Understand natural stone walls in Louisville",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/retaining-wall-repair",
+          "type": "service",
+          "service": "Retaining Wall Repair",
+          "intent": "Understand retaining wall repair in Louisville",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "service-areas",
+          "type": "service-areas-hub",
+          "intent": "Confirm service availability in Louisville",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "about",
+          "type": "about",
+          "intent": "Understand the Louisville Precision Walls process",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "contact",
+          "type": "contact",
+          "intent": "Request an assessment",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "privacy",
+          "type": "legal",
+          "intent": "Privacy information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "terms",
+          "type": "legal",
+          "intent": "Terms information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "thank-you",
+          "type": "confirmation",
+          "intent": "Lead confirmation",
+          "indexState": "noindex"
+        }
+      ]
+    },
+    {
+      "schemaVersion": 2,
+      "siteKey": "morgantown-fence-pros",
+      "directory": "morgantown-fence-pros",
+      "brand": "Morgantown Fence Pros",
+      "domain": "morgantownfencepros.com",
+      "trade": "Fencing",
+      "city": "Morgantown",
+      "state": "WV",
+      "stage": "staging",
+      "clone": {
+        "id": "welborn-garage",
+        "label": "Welborn Garage",
+        "contract": "literal-homepage-structure"
+      },
+      "brandSystem": {
+        "boardFile": "Morgantown Fence Pros.jpeg",
+        "boardSha256": "378a1b80fbbf0df1c50a005c5f73f18d765197853a403219bbfe8abbd2cec9ee",
+        "status": "approved-board-assets-extracted",
+        "colors": {
+          "primary": "#1E3A34",
+          "secondary": "#B66A3C",
+          "accent": "#8FA79A",
+          "neutral": "#F3EFE8"
+        },
+        "typography": {
+          "heading": {
+            "family": "Chivo",
+            "fallback": "'Chivo', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "body": {
+            "family": "Manrope",
+            "fallback": "'Manrope', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "accent": {
+            "family": "Syne",
+            "fallback": "'Syne', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          }
+        },
+        "logoSlots": {
+          "primary": "assets/brand/morgantown-fence-pros/brandmark.svg",
+          "raster": "assets/brand/morgantown-fence-pros/brandmark.png",
+          "icon": "assets/brand/morgantown-fence-pros/brand-icon.png",
+          "favicon": "assets/brand/morgantown-fence-pros/favicon.png"
+        }
+      },
+      "contact": {
+        "phone": "304-648-4298",
+        "tel": "+13046484298",
+        "phoneStatus": "callrail-shared",
+        "publicAddress": null,
+        "addressStatus": "not-supplied"
+      },
+      "gbp": {
+        "status": "TBD",
+        "url": null,
+        "reviewUrl": null,
+        "verificationSource": "LLG Portfolio workbook"
+      },
+      "services": [
+        [
+          "wood-fencing",
+          "Wood Fence Installation"
+        ],
+        [
+          "vinyl-fencing",
+          "Vinyl Fence Installation"
+        ],
+        [
+          "aluminum-fencing",
+          "Aluminum Fence Installation"
+        ],
+        [
+          "fence-repair",
+          "Fence and Gate Repair"
+        ]
+      ],
+      "serviceArea": {
+        "primaryCity": "Morgantown",
+        "state": "WV",
+        "adjacentCities": [],
+        "status": "primary-city-only"
+      },
+      "evidence": {
+        "reviews": "pending-approved-records",
+        "projectPhotos": "pending-attributable-assets",
+        "sharedTradePhotos": "generic-service-use-only",
+        "claims": "pending-verification"
+      },
+      "routing": {
+        "status": "disabled-until-recipient-and-forwarding-test",
+        "activeClientRecipient": "cloudflare-only",
+        "llgCopyRecipient": "cloudflare-only",
+        "smsCapability": "disabled"
+      },
+      "indexing": {
+        "siteState": "noindex",
+        "productionEligible": false,
+        "blockers": [
+          "routing approval",
+          "claim review",
+          "phone forwarding test",
+          "canonical/domain approval"
+        ]
+      },
+      "analytics": {
+        "cloudflareWebAnalytics": "pending-production-domain",
+        "searchConsole": "pending-production-domain",
+        "ga4": "not-planned"
+      },
+      "pages": [
+        {
+          "slug": "",
+          "type": "home",
+          "intent": "Fencing help in Morgantown",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services",
+          "type": "services-hub",
+          "intent": "Compare Morgantown Fence Pros services",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/wood-fencing",
+          "type": "service",
+          "service": "Wood Fence Installation",
+          "intent": "Understand wood fence installation in Morgantown",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/vinyl-fencing",
+          "type": "service",
+          "service": "Vinyl Fence Installation",
+          "intent": "Understand vinyl fence installation in Morgantown",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/aluminum-fencing",
+          "type": "service",
+          "service": "Aluminum Fence Installation",
+          "intent": "Understand aluminum fence installation in Morgantown",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/fence-repair",
+          "type": "service",
+          "service": "Fence and Gate Repair",
+          "intent": "Understand fence and gate repair in Morgantown",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "service-areas",
+          "type": "service-areas-hub",
+          "intent": "Confirm service availability in Morgantown",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "about",
+          "type": "about",
+          "intent": "Understand the Morgantown Fence Pros process",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "contact",
+          "type": "contact",
+          "intent": "Request an assessment",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "privacy",
+          "type": "legal",
+          "intent": "Privacy information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "terms",
+          "type": "legal",
+          "intent": "Terms information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "thank-you",
+          "type": "confirmation",
+          "intent": "Lead confirmation",
+          "indexState": "noindex"
+        }
+      ]
+    },
+    {
+      "schemaVersion": 2,
+      "siteKey": "naples-pool-pros",
+      "directory": "naples-pool-pros",
+      "brand": "Naples Pool Pros",
+      "domain": "naplespoolpros.com",
+      "trade": "Pool service",
+      "city": "Naples",
+      "state": "FL",
+      "stage": "staging",
+      "clone": {
+        "id": "trips-windows-small",
+        "label": "Trips Windows \u2014 Small Export",
+        "contract": "literal-homepage-structure"
+      },
+      "brandSystem": {
+        "boardFile": "Naples Pool PRos.jpeg",
+        "boardSha256": "4106f8e7a855de370810b142de8fa929d08fca01ad2f64289a062eb630c2d147",
+        "status": "approved-board-assets-extracted",
+        "colors": {
+          "primary": "#0D2B3A",
+          "secondary": "#0F5C6E",
+          "accent": "#D1AF6A",
+          "neutral": "#F3EFE6"
+        },
+        "typography": {
+          "heading": {
+            "family": "Cinzel Decorative",
+            "fallback": "'Cinzel Decorative', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "body": {
+            "family": "Manrope",
+            "fallback": "'Manrope', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "accent": {
+            "family": "Allura",
+            "fallback": "'Allura', 'Segoe Script', 'Brush Script MT', cursive",
+            "licenseStatus": "file-not-supplied"
+          }
+        },
+        "logoSlots": {
+          "primary": "assets/brand/naples-pool-pros/brandmark.svg",
+          "raster": "assets/brand/naples-pool-pros/brandmark.png",
+          "icon": "assets/brand/naples-pool-pros/brand-icon.png",
+          "favicon": "assets/brand/naples-pool-pros/favicon.png"
+        }
+      },
+      "contact": {
+        "phone": "239-310-7007",
+        "tel": "+12393107007",
+        "phoneStatus": "not-in-callrail-inventory",
+        "publicAddress": null,
+        "addressStatus": "not-supplied"
+      },
+      "gbp": {
+        "status": "not-verified",
+        "url": null,
+        "reviewUrl": null,
+        "verificationSource": "LLG Portfolio workbook"
+      },
+      "services": [
+        [
+          "pool-cleaning",
+          "Pool Cleaning"
+        ],
+        [
+          "pool-maintenance",
+          "Pool Maintenance"
+        ],
+        [
+          "pool-equipment-service",
+          "Pool Equipment Service"
+        ],
+        [
+          "water-care",
+          "Pool Water Care"
+        ]
+      ],
+      "serviceArea": {
+        "primaryCity": "Naples",
+        "state": "FL",
+        "adjacentCities": [],
+        "status": "primary-city-only"
+      },
+      "evidence": {
+        "reviews": "pending-approved-records",
+        "projectPhotos": "pending-attributable-assets",
+        "sharedTradePhotos": "generic-service-use-only",
+        "claims": "pending-verification"
+      },
+      "routing": {
+        "status": "disabled-until-recipient-and-forwarding-test",
+        "activeClientRecipient": "cloudflare-only",
+        "llgCopyRecipient": "cloudflare-only",
+        "smsCapability": "disabled"
+      },
+      "indexing": {
+        "siteState": "noindex",
+        "productionEligible": false,
+        "blockers": [
+          "routing approval",
+          "claim review",
+          "phone forwarding test",
+          "canonical/domain approval"
+        ]
+      },
+      "analytics": {
+        "cloudflareWebAnalytics": "pending-production-domain",
+        "searchConsole": "pending-production-domain",
+        "ga4": "not-planned"
+      },
+      "pages": [
+        {
+          "slug": "",
+          "type": "home",
+          "intent": "Pool service help in Naples",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services",
+          "type": "services-hub",
+          "intent": "Compare Naples Pool Pros services",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/pool-cleaning",
+          "type": "service",
+          "service": "Pool Cleaning",
+          "intent": "Understand pool cleaning in Naples",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/pool-maintenance",
+          "type": "service",
+          "service": "Pool Maintenance",
+          "intent": "Understand pool maintenance in Naples",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/pool-equipment-service",
+          "type": "service",
+          "service": "Pool Equipment Service",
+          "intent": "Understand pool equipment service in Naples",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/water-care",
+          "type": "service",
+          "service": "Pool Water Care",
+          "intent": "Understand pool water care in Naples",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "service-areas",
+          "type": "service-areas-hub",
+          "intent": "Confirm service availability in Naples",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "about",
+          "type": "about",
+          "intent": "Understand the Naples Pool Pros process",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "contact",
+          "type": "contact",
+          "intent": "Request an assessment",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "privacy",
+          "type": "legal",
+          "intent": "Privacy information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "terms",
+          "type": "legal",
+          "intent": "Terms information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "thank-you",
+          "type": "confirmation",
+          "intent": "Lead confirmation",
+          "indexState": "noindex"
+        }
+      ]
+    },
+    {
+      "schemaVersion": 2,
+      "siteKey": "nashville-crawlspace",
+      "directory": "nashville-crawlspace",
+      "brand": "Nashville Crawlspace",
+      "domain": "nashville-crawlspace.com",
+      "trade": "Crawlspace",
+      "city": "Nashville",
+      "state": "TN",
+      "stage": "staging",
+      "clone": {
+        "id": "nextgen-windows",
+        "label": "NextGen Windows",
+        "contract": "literal-homepage-structure"
+      },
+      "brandSystem": {
+        "boardFile": "Nashville Crawlspace.jpeg",
+        "boardSha256": "b0f4dd73af6748193d81bb95186ce9bdcbc97468dc4c2d72e2cc734adb94a51a",
+        "status": "approved-board-assets-extracted",
+        "colors": {
+          "primary": "#0F1B2A",
+          "secondary": "#A3683A",
+          "accent": "#D9D5CC",
+          "neutral": "#6B7077"
+        },
+        "typography": {
+          "heading": {
+            "family": "Bebas Neue",
+            "fallback": "'Bebas Neue', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "body": {
+            "family": "DM Sans",
+            "fallback": "'DM Sans', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "accent": {
+            "family": "Satisfy",
+            "fallback": "'Satisfy', 'Segoe Script', 'Brush Script MT', cursive",
+            "licenseStatus": "file-not-supplied"
+          }
+        },
+        "logoSlots": {
+          "primary": "assets/brand/nashville-crawlspace/brandmark.svg",
+          "raster": "assets/brand/nashville-crawlspace/brandmark.png",
+          "icon": "assets/brand/nashville-crawlspace/brand-icon.png",
+          "favicon": "assets/brand/nashville-crawlspace/favicon.png"
+        }
+      },
+      "contact": {
+        "phone": "615-805-5596",
+        "tel": "+16158055596",
+        "phoneStatus": "not-in-callrail-inventory",
+        "publicAddress": null,
+        "addressStatus": "not-supplied"
+      },
+      "gbp": {
+        "status": "not-verified",
+        "url": null,
+        "reviewUrl": null,
+        "verificationSource": "LLG Portfolio workbook"
+      },
+      "services": [
+        [
+          "crawlspace-encapsulation",
+          "Crawlspace Encapsulation"
+        ],
+        [
+          "crawlspace-drainage",
+          "Crawlspace Drainage"
+        ],
+        [
+          "moisture-control",
+          "Crawlspace Moisture Control"
+        ],
+        [
+          "dehumidifier-solutions",
+          "Crawlspace Dehumidifier Solutions"
+        ]
+      ],
+      "serviceArea": {
+        "primaryCity": "Nashville",
+        "state": "TN",
+        "adjacentCities": [],
+        "status": "primary-city-only"
+      },
+      "evidence": {
+        "reviews": "pending-approved-records",
+        "projectPhotos": "pending-attributable-assets",
+        "sharedTradePhotos": "generic-service-use-only",
+        "claims": "pending-verification"
+      },
+      "routing": {
+        "status": "disabled-until-recipient-and-forwarding-test",
+        "activeClientRecipient": "cloudflare-only",
+        "llgCopyRecipient": "cloudflare-only",
+        "smsCapability": "disabled"
+      },
+      "indexing": {
+        "siteState": "noindex",
+        "productionEligible": false,
+        "blockers": [
+          "routing approval",
+          "claim review",
+          "phone forwarding test",
+          "canonical/domain approval"
+        ]
+      },
+      "analytics": {
+        "cloudflareWebAnalytics": "pending-production-domain",
+        "searchConsole": "pending-production-domain",
+        "ga4": "not-planned"
+      },
+      "pages": [
+        {
+          "slug": "",
+          "type": "home",
+          "intent": "Crawlspace help in Nashville",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services",
+          "type": "services-hub",
+          "intent": "Compare Nashville Crawlspace services",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/crawlspace-encapsulation",
+          "type": "service",
+          "service": "Crawlspace Encapsulation",
+          "intent": "Understand crawlspace encapsulation in Nashville",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/crawlspace-drainage",
+          "type": "service",
+          "service": "Crawlspace Drainage",
+          "intent": "Understand crawlspace drainage in Nashville",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/moisture-control",
+          "type": "service",
+          "service": "Crawlspace Moisture Control",
+          "intent": "Understand crawlspace moisture control in Nashville",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/dehumidifier-solutions",
+          "type": "service",
+          "service": "Crawlspace Dehumidifier Solutions",
+          "intent": "Understand crawlspace dehumidifier solutions in Nashville",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "service-areas",
+          "type": "service-areas-hub",
+          "intent": "Confirm service availability in Nashville",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "about",
+          "type": "about",
+          "intent": "Understand the Nashville Crawlspace process",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "contact",
+          "type": "contact",
+          "intent": "Request an assessment",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "privacy",
+          "type": "legal",
+          "intent": "Privacy information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "terms",
+          "type": "legal",
+          "intent": "Terms information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "thank-you",
+          "type": "confirmation",
+          "intent": "Lead confirmation",
+          "indexState": "noindex"
+        }
+      ]
+    },
+    {
+      "schemaVersion": 2,
+      "siteKey": "nashville-backyards",
+      "directory": "nashville-backyards",
+      "brand": "Nashville Backyards",
+      "domain": "nashvillebackyards.com",
+      "trade": "Backyard construction",
+      "city": "Nashville",
+      "state": "TN",
+      "stage": "staging",
+      "clone": {
+        "id": "welborn-garage",
+        "label": "Welborn Garage",
+        "contract": "literal-homepage-structure"
+      },
+      "brandSystem": {
+        "boardFile": "Nashvlle Backyards.jpeg",
+        "boardSha256": "e3eee172eb2d89d433b195441e9a44dc166fe790b0a80ee0805edabe95365d15",
+        "status": "approved-board-assets-extracted",
+        "colors": {
+          "primary": "#2F3E2E",
+          "secondary": "#6B7D4D",
+          "accent": "#C9B38A",
+          "neutral": "#F2EFE8"
+        },
+        "typography": {
+          "heading": {
+            "family": "Cormorant Garamond",
+            "fallback": "'Cormorant Garamond', Georgia, 'Times New Roman', serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "body": {
+            "family": "Source Serif 4",
+            "fallback": "'Source Serif 4', Georgia, 'Times New Roman', serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "accent": {
+            "family": "Marck Script",
+            "fallback": "'Marck Script', 'Segoe Script', 'Brush Script MT', cursive",
+            "licenseStatus": "file-not-supplied"
+          }
+        },
+        "logoSlots": {
+          "primary": "assets/brand/nashville-backyards/brandmark.svg",
+          "raster": "assets/brand/nashville-backyards/brandmark.png",
+          "icon": "assets/brand/nashville-backyards/brand-icon.png",
+          "favicon": "assets/brand/nashville-backyards/favicon.png"
+        }
+      },
+      "contact": {
+        "phone": "615-241-6010",
+        "tel": "+16152416010",
+        "phoneStatus": "not-in-callrail-inventory",
+        "publicAddress": null,
+        "addressStatus": "not-supplied"
+      },
+      "gbp": {
+        "status": "not-verified",
+        "url": null,
+        "reviewUrl": null,
+        "verificationSource": "LLG Portfolio workbook"
+      },
+      "services": [
+        [
+          "patios-hardscapes",
+          "Patios and Hardscapes"
+        ],
+        [
+          "pergolas-shade",
+          "Pergolas and Shade Structures"
+        ],
+        [
+          "outdoor-living",
+          "Outdoor Living Spaces"
+        ],
+        [
+          "backyard-renovation",
+          "Backyard Renovation"
+        ]
+      ],
+      "serviceArea": {
+        "primaryCity": "Nashville",
+        "state": "TN",
+        "adjacentCities": [],
+        "status": "primary-city-only"
+      },
+      "evidence": {
+        "reviews": "pending-approved-records",
+        "projectPhotos": "pending-attributable-assets",
+        "sharedTradePhotos": "generic-service-use-only",
+        "claims": "pending-verification"
+      },
+      "routing": {
+        "status": "disabled-until-recipient-and-forwarding-test",
+        "activeClientRecipient": "cloudflare-only",
+        "llgCopyRecipient": "cloudflare-only",
+        "smsCapability": "disabled"
+      },
+      "indexing": {
+        "siteState": "noindex",
+        "productionEligible": false,
+        "blockers": [
+          "routing approval",
+          "claim review",
+          "phone forwarding test",
+          "canonical/domain approval"
+        ]
+      },
+      "analytics": {
+        "cloudflareWebAnalytics": "pending-production-domain",
+        "searchConsole": "pending-production-domain",
+        "ga4": "not-planned"
+      },
+      "pages": [
+        {
+          "slug": "",
+          "type": "home",
+          "intent": "Backyard construction help in Nashville",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services",
+          "type": "services-hub",
+          "intent": "Compare Nashville Backyards services",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/patios-hardscapes",
+          "type": "service",
+          "service": "Patios and Hardscapes",
+          "intent": "Understand patios and hardscapes in Nashville",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/pergolas-shade",
+          "type": "service",
+          "service": "Pergolas and Shade Structures",
+          "intent": "Understand pergolas and shade structures in Nashville",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/outdoor-living",
+          "type": "service",
+          "service": "Outdoor Living Spaces",
+          "intent": "Understand outdoor living spaces in Nashville",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/backyard-renovation",
+          "type": "service",
+          "service": "Backyard Renovation",
+          "intent": "Understand backyard renovation in Nashville",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "service-areas",
+          "type": "service-areas-hub",
+          "intent": "Confirm service availability in Nashville",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "about",
+          "type": "about",
+          "intent": "Understand the Nashville Backyards process",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "contact",
+          "type": "contact",
+          "intent": "Request an assessment",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "privacy",
+          "type": "legal",
+          "intent": "Privacy information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "terms",
+          "type": "legal",
+          "intent": "Terms information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "thank-you",
+          "type": "confirmation",
+          "intent": "Lead confirmation",
+          "indexState": "noindex"
+        }
+      ]
+    },
+    {
+      "schemaVersion": 2,
+      "siteKey": "new-orleans-french-drain",
+      "directory": "new-orleans-french-drain",
+      "brand": "New Orleans French Drain",
+      "domain": "neworleansfrenchdrain.com",
+      "trade": "Drainage",
+      "city": "New Orleans",
+      "state": "LA",
+      "stage": "staging",
+      "clone": {
+        "id": "roofrightnow",
+        "label": "Roof Right Now",
+        "contract": "literal-homepage-structure"
+      },
+      "brandSystem": {
+        "boardFile": "New Orleans French Drain.jpeg",
+        "boardSha256": "e7ba8c3e3c226ee9f7dacb6d5348e7c95e27aa23d0d0d56c01e4523dfa225875",
+        "status": "approved-board-assets-extracted",
+        "colors": {
+          "primary": "#2B1D3A",
+          "secondary": "#6E6478",
+          "accent": "#C89D47",
+          "neutral": "#F4F1EA"
+        },
+        "typography": {
+          "heading": {
+            "family": "Cormorant Unicase",
+            "fallback": "'Cormorant Unicase', Georgia, 'Times New Roman', serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "body": {
+            "family": "Manrope",
+            "fallback": "'Manrope', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "accent": {
+            "family": "Great Vibes",
+            "fallback": "'Great Vibes', 'Segoe Script', 'Brush Script MT', cursive",
+            "licenseStatus": "file-not-supplied"
+          }
+        },
+        "logoSlots": {
+          "primary": "assets/brand/new-orleans-french-drain/brandmark.svg",
+          "raster": "assets/brand/new-orleans-french-drain/brandmark.png",
+          "icon": "assets/brand/new-orleans-french-drain/brand-icon.png",
+          "favicon": "assets/brand/new-orleans-french-drain/favicon.png"
+        }
+      },
+      "contact": {
+        "phone": "504-221-8993",
+        "tel": "+15042218993",
+        "phoneStatus": "callrail-active",
+        "publicAddress": null,
+        "addressStatus": "not-supplied"
+      },
+      "gbp": {
+        "status": "Verified",
+        "url": null,
+        "reviewUrl": null,
+        "verificationSource": "LLG Portfolio workbook"
+      },
+      "services": [
+        [
+          "french-drain-installation",
+          "French Drain Installation"
+        ],
+        [
+          "yard-drainage",
+          "Yard Drainage"
+        ],
+        [
+          "downspout-drainage",
+          "Downspout Drainage"
+        ],
+        [
+          "stormwater-control",
+          "Stormwater Control"
+        ]
+      ],
+      "serviceArea": {
+        "primaryCity": "New Orleans",
+        "state": "LA",
+        "adjacentCities": [],
+        "status": "primary-city-only"
+      },
+      "evidence": {
+        "reviews": "pending-approved-records",
+        "projectPhotos": "pending-attributable-assets",
+        "sharedTradePhotos": "generic-service-use-only",
+        "claims": "pending-verification"
+      },
+      "routing": {
+        "status": "disabled-until-recipient-and-forwarding-test",
+        "activeClientRecipient": "cloudflare-only",
+        "llgCopyRecipient": "cloudflare-only",
+        "smsCapability": "disabled"
+      },
+      "indexing": {
+        "siteState": "noindex",
+        "productionEligible": false,
+        "blockers": [
+          "routing approval",
+          "claim review",
+          "phone forwarding test",
+          "canonical/domain approval"
+        ]
+      },
+      "analytics": {
+        "cloudflareWebAnalytics": "pending-production-domain",
+        "searchConsole": "pending-production-domain",
+        "ga4": "not-planned"
+      },
+      "pages": [
+        {
+          "slug": "",
+          "type": "home",
+          "intent": "Drainage help in New Orleans",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services",
+          "type": "services-hub",
+          "intent": "Compare New Orleans French Drain services",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/french-drain-installation",
+          "type": "service",
+          "service": "French Drain Installation",
+          "intent": "Understand french drain installation in New Orleans",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/yard-drainage",
+          "type": "service",
+          "service": "Yard Drainage",
+          "intent": "Understand yard drainage in New Orleans",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/downspout-drainage",
+          "type": "service",
+          "service": "Downspout Drainage",
+          "intent": "Understand downspout drainage in New Orleans",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/stormwater-control",
+          "type": "service",
+          "service": "Stormwater Control",
+          "intent": "Understand stormwater control in New Orleans",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "service-areas",
+          "type": "service-areas-hub",
+          "intent": "Confirm service availability in New Orleans",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "about",
+          "type": "about",
+          "intent": "Understand the New Orleans French Drain process",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "contact",
+          "type": "contact",
+          "intent": "Request an assessment",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "privacy",
+          "type": "legal",
+          "intent": "Privacy information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "terms",
+          "type": "legal",
+          "intent": "Terms information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "thank-you",
+          "type": "confirmation",
+          "intent": "Lead confirmation",
+          "indexState": "noindex"
+        }
+      ]
+    },
+    {
+      "schemaVersion": 2,
+      "siteKey": "pgh-painting-pros",
+      "directory": "pgh-painting-pros",
+      "brand": "PGH Painting Pros",
+      "domain": "pghpaintingpros.com",
+      "trade": "Painting",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "stage": "staging",
+      "clone": {
+        "id": "cincinnati-painting",
+        "label": "Cincinnati Painting",
+        "contract": "literal-homepage-structure"
+      },
+      "brandSystem": {
+        "boardFile": "PGH Painting Pros.jpeg",
+        "boardSha256": "fc31c43177056c348c09227a054442368071f60fe6ccf53c7b242a0d074d0e69",
+        "status": "approved-board-assets-extracted",
+        "colors": {
+          "primary": "#1F2328",
+          "secondary": "#FDB813",
+          "accent": "#6B6F76",
+          "neutral": "#F5F5F5"
+        },
+        "typography": {
+          "heading": {
+            "family": "Oswald",
+            "fallback": "'Oswald', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "body": {
+            "family": "Work Sans",
+            "fallback": "'Work Sans', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "accent": {
+            "family": "Brusher",
+            "fallback": "'Brusher', 'Segoe Script', 'Brush Script MT', cursive",
+            "licenseStatus": "file-not-supplied"
+          }
+        },
+        "logoSlots": {
+          "primary": "assets/brand/pgh-painting-pros/brandmark.svg",
+          "raster": "assets/brand/pgh-painting-pros/brandmark.png",
+          "icon": "assets/brand/pgh-painting-pros/brand-icon.png",
+          "favicon": "assets/brand/pgh-painting-pros/favicon.png"
+        }
+      },
+      "contact": {
+        "phone": "412-775-2235",
+        "tel": "+14127752235",
+        "phoneStatus": "not-in-callrail-inventory",
+        "publicAddress": null,
+        "addressStatus": "not-supplied"
+      },
+      "gbp": {
+        "status": "not-verified",
+        "url": null,
+        "reviewUrl": null,
+        "verificationSource": "LLG Portfolio workbook"
+      },
+      "services": [
+        [
+          "interior-painting",
+          "Interior Painting"
+        ],
+        [
+          "exterior-painting",
+          "Exterior Painting"
+        ],
+        [
+          "cabinet-painting",
+          "Cabinet Painting"
+        ],
+        [
+          "commercial-painting",
+          "Commercial Painting"
+        ]
+      ],
+      "serviceArea": {
+        "primaryCity": "Pittsburgh",
+        "state": "PA",
+        "adjacentCities": [],
+        "status": "primary-city-only"
+      },
+      "evidence": {
+        "reviews": "pending-approved-records",
+        "projectPhotos": "pending-attributable-assets",
+        "sharedTradePhotos": "generic-service-use-only",
+        "claims": "pending-verification"
+      },
+      "routing": {
+        "status": "disabled-until-recipient-and-forwarding-test",
+        "activeClientRecipient": "cloudflare-only",
+        "llgCopyRecipient": "cloudflare-only",
+        "smsCapability": "disabled"
+      },
+      "indexing": {
+        "siteState": "noindex",
+        "productionEligible": false,
+        "blockers": [
+          "routing approval",
+          "claim review",
+          "phone forwarding test",
+          "canonical/domain approval"
+        ]
+      },
+      "analytics": {
+        "cloudflareWebAnalytics": "pending-production-domain",
+        "searchConsole": "pending-production-domain",
+        "ga4": "not-planned"
+      },
+      "pages": [
+        {
+          "slug": "",
+          "type": "home",
+          "intent": "Painting help in Pittsburgh",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services",
+          "type": "services-hub",
+          "intent": "Compare PGH Painting Pros services",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/interior-painting",
+          "type": "service",
+          "service": "Interior Painting",
+          "intent": "Understand interior painting in Pittsburgh",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/exterior-painting",
+          "type": "service",
+          "service": "Exterior Painting",
+          "intent": "Understand exterior painting in Pittsburgh",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/cabinet-painting",
+          "type": "service",
+          "service": "Cabinet Painting",
+          "intent": "Understand cabinet painting in Pittsburgh",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/commercial-painting",
+          "type": "service",
+          "service": "Commercial Painting",
+          "intent": "Understand commercial painting in Pittsburgh",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "service-areas",
+          "type": "service-areas-hub",
+          "intent": "Confirm service availability in Pittsburgh",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "about",
+          "type": "about",
+          "intent": "Understand the PGH Painting Pros process",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "contact",
+          "type": "contact",
+          "intent": "Request an assessment",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "privacy",
+          "type": "legal",
+          "intent": "Privacy information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "terms",
+          "type": "legal",
+          "intent": "Terms information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "thank-you",
+          "type": "confirmation",
+          "intent": "Lead confirmation",
+          "indexState": "noindex"
+        }
+      ]
+    },
+    {
+      "schemaVersion": 2,
+      "siteKey": "pgh-pool-service",
+      "directory": "pgh-pool-service",
+      "brand": "PGH Pool Service",
+      "domain": "pghpoolservice.com",
+      "trade": "Pool service",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "stage": "staging",
+      "clone": {
+        "id": "trips-windows-full",
+        "label": "Trips Windows \u2014 Full Export",
+        "contract": "literal-homepage-structure"
+      },
+      "brandSystem": {
+        "boardFile": "PGH Pool Service.jpeg",
+        "boardSha256": "2858bd54de5de6bc46678d9692b492f035b66530e037c6ae24598233744178b3",
+        "status": "approved-board-assets-extracted",
+        "colors": {
+          "primary": "#0D1B2A",
+          "secondary": "#00AEEF",
+          "accent": "#2DD4BF",
+          "neutral": "#E6E8EB"
+        },
+        "typography": {
+          "heading": {
+            "family": "Barlow Condensed",
+            "fallback": "'Barlow Condensed', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "body": {
+            "family": "Source Sans 3",
+            "fallback": "'Source Sans 3', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "accent": {
+            "family": "Sora",
+            "fallback": "'Sora', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          }
+        },
+        "logoSlots": {
+          "primary": "assets/brand/pgh-pool-service/brandmark.svg",
+          "raster": "assets/brand/pgh-pool-service/brandmark.png",
+          "icon": "assets/brand/pgh-pool-service/brand-icon.png",
+          "favicon": "assets/brand/pgh-pool-service/favicon.png"
+        }
+      },
+      "contact": {
+        "phone": "412-615-3550",
+        "tel": "+14126153550",
+        "phoneStatus": "callrail-active",
+        "publicAddress": "730 Beulah Rd, Turtle Creek, PA 15145",
+        "addressStatus": "portfolio-import-reverify"
+      },
+      "gbp": {
+        "status": "Verified",
+        "url": "https://maps.app.goo.gl/1aGmUSEffhSuM21f7",
+        "reviewUrl": null,
+        "verificationSource": "LLG Portfolio workbook"
+      },
+      "services": [
+        [
+          "pool-cleaning",
+          "Pool Cleaning"
+        ],
+        [
+          "pool-maintenance",
+          "Pool Maintenance"
+        ],
+        [
+          "pool-equipment-service",
+          "Pool Equipment Service"
+        ],
+        [
+          "water-care",
+          "Pool Water Care"
+        ]
+      ],
+      "serviceArea": {
+        "primaryCity": "Pittsburgh",
+        "state": "PA",
+        "adjacentCities": [],
+        "status": "primary-city-only"
+      },
+      "evidence": {
+        "reviews": "pending-approved-records",
+        "projectPhotos": "pending-attributable-assets",
+        "sharedTradePhotos": "generic-service-use-only",
+        "claims": "pending-verification"
+      },
+      "routing": {
+        "status": "disabled-until-recipient-and-forwarding-test",
+        "activeClientRecipient": "cloudflare-only",
+        "llgCopyRecipient": "cloudflare-only",
+        "smsCapability": "disabled"
+      },
+      "indexing": {
+        "siteState": "noindex",
+        "productionEligible": false,
+        "blockers": [
+          "routing approval",
+          "claim review",
+          "phone forwarding test",
+          "canonical/domain approval"
+        ]
+      },
+      "analytics": {
+        "cloudflareWebAnalytics": "pending-production-domain",
+        "searchConsole": "pending-production-domain",
+        "ga4": "not-planned"
+      },
+      "pages": [
+        {
+          "slug": "",
+          "type": "home",
+          "intent": "Pool service help in Pittsburgh",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services",
+          "type": "services-hub",
+          "intent": "Compare PGH Pool Service services",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/pool-cleaning",
+          "type": "service",
+          "service": "Pool Cleaning",
+          "intent": "Understand pool cleaning in Pittsburgh",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/pool-maintenance",
+          "type": "service",
+          "service": "Pool Maintenance",
+          "intent": "Understand pool maintenance in Pittsburgh",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/pool-equipment-service",
+          "type": "service",
+          "service": "Pool Equipment Service",
+          "intent": "Understand pool equipment service in Pittsburgh",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/water-care",
+          "type": "service",
+          "service": "Pool Water Care",
+          "intent": "Understand pool water care in Pittsburgh",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "service-areas",
+          "type": "service-areas-hub",
+          "intent": "Confirm service availability in Pittsburgh",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "about",
+          "type": "about",
+          "intent": "Understand the PGH Pool Service process",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "contact",
+          "type": "contact",
+          "intent": "Request an assessment",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "privacy",
+          "type": "legal",
+          "intent": "Privacy information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "terms",
+          "type": "legal",
+          "intent": "Terms information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "thank-you",
+          "type": "confirmation",
+          "intent": "Lead confirmation",
+          "indexState": "noindex"
+        }
+      ]
+    },
+    {
+      "schemaVersion": 2,
+      "siteKey": "pittsburgh-french-drain",
+      "directory": "Pittsburgh-French-Drain-Site",
+      "brand": "Pittsburgh French Drain",
+      "domain": "pghfrenchdrain.com",
+      "trade": "Drainage",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "stage": "staging",
+      "clone": {
+        "id": "roofrightnow",
+        "label": "Roof Right Now",
+        "contract": "literal-homepage-structure"
+      },
+      "brandSystem": {
+        "boardFile": "Pittsburgh French Drain.jpeg",
+        "boardSha256": "eb93703412cd97d6222814927fbf616be8375a0e1f9f39798ac41eeb39415519",
+        "status": "approved-board-assets-extracted",
+        "colors": {
+          "primary": "#0D1B2A",
+          "secondary": "#1E88E5",
+          "accent": "#00B4D8",
+          "neutral": "#F2F2F2"
+        },
+        "typography": {
+          "heading": {
+            "family": "Teko",
+            "fallback": "'Teko', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "body": {
+            "family": "Barlow Condensed",
+            "fallback": "'Barlow Condensed', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "accent": {
+            "family": "Archivo Narrow",
+            "fallback": "'Archivo Narrow', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          }
+        },
+        "logoSlots": {
+          "primary": "assets/brand/pittsburgh-french-drain/brandmark.svg",
+          "raster": "assets/brand/pittsburgh-french-drain/brandmark.png",
+          "icon": "assets/brand/pittsburgh-french-drain/brand-icon.png",
+          "favicon": "assets/brand/pittsburgh-french-drain/favicon.png"
+        }
+      },
+      "contact": {
+        "phone": "412-850-4615",
+        "tel": "+14128504615",
+        "phoneStatus": "callrail-active",
+        "publicAddress": null,
+        "addressStatus": "not-supplied"
+      },
+      "gbp": {
+        "status": "Verified x2 - domain mismatch in workbook",
+        "url": "https://www.google.com/maps?cid=3352128493361850862",
+        "reviewUrl": null,
+        "verificationSource": "LLG Portfolio workbook"
+      },
+      "services": [
+        [
+          "french-drain-installation",
+          "French Drain Installation"
+        ],
+        [
+          "yard-drainage",
+          "Yard Drainage"
+        ],
+        [
+          "downspout-drainage",
+          "Downspout Drainage"
+        ],
+        [
+          "stormwater-control",
+          "Stormwater Control"
+        ]
+      ],
+      "serviceArea": {
+        "primaryCity": "Pittsburgh",
+        "state": "PA",
+        "adjacentCities": [],
+        "status": "primary-city-only"
+      },
+      "evidence": {
+        "reviews": "pending-approved-records",
+        "projectPhotos": "pending-attributable-assets",
+        "sharedTradePhotos": "generic-service-use-only",
+        "claims": "pending-verification"
+      },
+      "routing": {
+        "status": "disabled-until-recipient-and-forwarding-test",
+        "activeClientRecipient": "cloudflare-only",
+        "llgCopyRecipient": "cloudflare-only",
+        "smsCapability": "disabled"
+      },
+      "indexing": {
+        "siteState": "noindex",
+        "productionEligible": false,
+        "blockers": [
+          "routing approval",
+          "claim review",
+          "phone forwarding test",
+          "canonical/domain approval"
+        ]
+      },
+      "analytics": {
+        "cloudflareWebAnalytics": "pending-production-domain",
+        "searchConsole": "pending-production-domain",
+        "ga4": "not-planned"
+      },
+      "pages": [
+        {
+          "slug": "",
+          "type": "home",
+          "intent": "Drainage help in Pittsburgh",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services",
+          "type": "services-hub",
+          "intent": "Compare Pittsburgh French Drain services",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/french-drain-installation",
+          "type": "service",
+          "service": "French Drain Installation",
+          "intent": "Understand french drain installation in Pittsburgh",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/yard-drainage",
+          "type": "service",
+          "service": "Yard Drainage",
+          "intent": "Understand yard drainage in Pittsburgh",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/downspout-drainage",
+          "type": "service",
+          "service": "Downspout Drainage",
+          "intent": "Understand downspout drainage in Pittsburgh",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/stormwater-control",
+          "type": "service",
+          "service": "Stormwater Control",
+          "intent": "Understand stormwater control in Pittsburgh",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "service-areas",
+          "type": "service-areas-hub",
+          "intent": "Confirm service availability in Pittsburgh",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "about",
+          "type": "about",
+          "intent": "Understand the Pittsburgh French Drain process",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "contact",
+          "type": "contact",
+          "intent": "Request an assessment",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "privacy",
+          "type": "legal",
+          "intent": "Privacy information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "terms",
+          "type": "legal",
+          "intent": "Terms information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "thank-you",
+          "type": "confirmation",
+          "intent": "Lead confirmation",
+          "indexState": "noindex"
+        }
+      ]
+    },
+    {
+      "schemaVersion": 2,
+      "siteKey": "salt-lake-city-precision-walls",
+      "directory": "salt-lake-city-precision-walls",
+      "brand": "Salt Lake City Precision Walls",
+      "domain": "saltlakecityprecisionwalls.com",
+      "trade": "Retaining walls",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "stage": "staging",
+      "clone": {
+        "id": "pinks-concrete",
+        "label": "Pink's Concrete",
+        "contract": "literal-homepage-structure"
+      },
+      "brandSystem": {
+        "boardFile": "Salt Lake City Precision Walls.jpeg",
+        "boardSha256": "0a95b8437491fea8e7fa17b9a2777fb9cbb4407c6a32d6d22685fa11106e270f",
+        "status": "approved-board-assets-extracted",
+        "colors": {
+          "primary": "#1F2A30",
+          "secondary": "#C9B79C",
+          "accent": "#D06B3B",
+          "neutral": "#F4F1EC"
+        },
+        "typography": {
+          "heading": {
+            "family": "Syne",
+            "fallback": "'Syne', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "body": {
+            "family": "Albert Sans",
+            "fallback": "'Albert Sans', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "accent": {
+            "family": "IBM Plex Mono",
+            "fallback": "'IBM Plex Mono', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          }
+        },
+        "logoSlots": {
+          "primary": "assets/brand/salt-lake-city-precision-walls/brandmark.svg",
+          "raster": "assets/brand/salt-lake-city-precision-walls/brandmark.png",
+          "icon": "assets/brand/salt-lake-city-precision-walls/brand-icon.png",
+          "favicon": "assets/brand/salt-lake-city-precision-walls/favicon.png"
+        }
+      },
+      "contact": {
+        "phone": "801-823-4285",
+        "tel": "+18018234285",
+        "phoneStatus": "callrail-active",
+        "publicAddress": null,
+        "addressStatus": "not-supplied"
+      },
+      "gbp": {
+        "status": "not-verified",
+        "url": null,
+        "reviewUrl": null,
+        "verificationSource": "LLG Portfolio workbook"
+      },
+      "services": [
+        [
+          "retaining-wall-installation",
+          "Retaining Wall Installation"
+        ],
+        [
+          "segmental-block-walls",
+          "Segmental Block Walls"
+        ],
+        [
+          "natural-stone-walls",
+          "Natural Stone Walls"
+        ],
+        [
+          "retaining-wall-repair",
+          "Retaining Wall Repair"
+        ]
+      ],
+      "serviceArea": {
+        "primaryCity": "Salt Lake City",
+        "state": "UT",
+        "adjacentCities": [],
+        "status": "primary-city-only"
+      },
+      "evidence": {
+        "reviews": "pending-approved-records",
+        "projectPhotos": "pending-attributable-assets",
+        "sharedTradePhotos": "generic-service-use-only",
+        "claims": "pending-verification"
+      },
+      "routing": {
+        "status": "disabled-until-recipient-and-forwarding-test",
+        "activeClientRecipient": "cloudflare-only",
+        "llgCopyRecipient": "cloudflare-only",
+        "smsCapability": "disabled"
+      },
+      "indexing": {
+        "siteState": "noindex",
+        "productionEligible": false,
+        "blockers": [
+          "routing approval",
+          "claim review",
+          "phone forwarding test",
+          "canonical/domain approval"
+        ]
+      },
+      "analytics": {
+        "cloudflareWebAnalytics": "pending-production-domain",
+        "searchConsole": "pending-production-domain",
+        "ga4": "not-planned"
+      },
+      "pages": [
+        {
+          "slug": "",
+          "type": "home",
+          "intent": "Retaining walls help in Salt Lake City",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services",
+          "type": "services-hub",
+          "intent": "Compare Salt Lake City Precision Walls services",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/retaining-wall-installation",
+          "type": "service",
+          "service": "Retaining Wall Installation",
+          "intent": "Understand retaining wall installation in Salt Lake City",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/segmental-block-walls",
+          "type": "service",
+          "service": "Segmental Block Walls",
+          "intent": "Understand segmental block walls in Salt Lake City",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/natural-stone-walls",
+          "type": "service",
+          "service": "Natural Stone Walls",
+          "intent": "Understand natural stone walls in Salt Lake City",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/retaining-wall-repair",
+          "type": "service",
+          "service": "Retaining Wall Repair",
+          "intent": "Understand retaining wall repair in Salt Lake City",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "service-areas",
+          "type": "service-areas-hub",
+          "intent": "Confirm service availability in Salt Lake City",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "about",
+          "type": "about",
+          "intent": "Understand the Salt Lake City Precision Walls process",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "contact",
+          "type": "contact",
+          "intent": "Request an assessment",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "privacy",
+          "type": "legal",
+          "intent": "Privacy information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "terms",
+          "type": "legal",
+          "intent": "Terms information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "thank-you",
+          "type": "confirmation",
+          "intent": "Lead confirmation",
+          "indexState": "noindex"
+        }
+      ]
+    },
+    {
+      "schemaVersion": 2,
+      "siteKey": "tulsa-drain-pros",
+      "directory": "tulsa-drain-pros",
+      "brand": "Tulsa Drain Pros",
+      "domain": "tulsadrainpros.com",
+      "trade": "Drainage",
+      "city": "Tulsa",
+      "state": "OK",
+      "stage": "staging",
+      "clone": {
+        "id": "minuteman",
+        "label": "Minuteman",
+        "contract": "literal-homepage-structure"
+      },
+      "brandSystem": {
+        "boardFile": "Tulsa Drain PRos.jpeg",
+        "boardSha256": "0f537ed68a88d760704b542e4d3e71b244efe137c1e6afe200fd9335f3fd8aa7",
+        "status": "approved-board-assets-extracted",
+        "colors": {
+          "primary": "#0B2540",
+          "secondary": "#0DA1B4",
+          "accent": "#63B15C",
+          "neutral": "#F2F4F6"
+        },
+        "typography": {
+          "heading": {
+            "family": "Nunito Sans",
+            "fallback": "'Nunito Sans', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "body": {
+            "family": "DM Sans",
+            "fallback": "'DM Sans', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "accent": {
+            "family": "Caveat",
+            "fallback": "'Caveat', 'Segoe Script', 'Brush Script MT', cursive",
+            "licenseStatus": "file-not-supplied"
+          }
+        },
+        "logoSlots": {
+          "primary": "assets/brand/tulsa-drain-pros/brandmark.svg",
+          "raster": "assets/brand/tulsa-drain-pros/brandmark.png",
+          "icon": "assets/brand/tulsa-drain-pros/brand-icon.png",
+          "favicon": "assets/brand/tulsa-drain-pros/favicon.png"
+        }
+      },
+      "contact": {
+        "phone": "918-255-5206",
+        "tel": "+19182555206",
+        "phoneStatus": "callrail-active",
+        "publicAddress": "201 N Main St #215, Tulsa, OK 74103",
+        "addressStatus": "portfolio-import-reverify"
+      },
+      "gbp": {
+        "status": "Verified",
+        "url": null,
+        "reviewUrl": null,
+        "verificationSource": "LLG Portfolio workbook"
+      },
+      "services": [
+        [
+          "french-drain-installation",
+          "French Drain Installation"
+        ],
+        [
+          "yard-drainage",
+          "Yard Drainage"
+        ],
+        [
+          "downspout-drainage",
+          "Downspout Drainage"
+        ],
+        [
+          "stormwater-control",
+          "Stormwater Control"
+        ]
+      ],
+      "serviceArea": {
+        "primaryCity": "Tulsa",
+        "state": "OK",
+        "adjacentCities": [],
+        "status": "primary-city-only"
+      },
+      "evidence": {
+        "reviews": "pending-approved-records",
+        "projectPhotos": "pending-attributable-assets",
+        "sharedTradePhotos": "generic-service-use-only",
+        "claims": "pending-verification"
+      },
+      "routing": {
+        "status": "disabled-until-recipient-and-forwarding-test",
+        "activeClientRecipient": "cloudflare-only",
+        "llgCopyRecipient": "cloudflare-only",
+        "smsCapability": "disabled"
+      },
+      "indexing": {
+        "siteState": "noindex",
+        "productionEligible": false,
+        "blockers": [
+          "routing approval",
+          "claim review",
+          "phone forwarding test",
+          "canonical/domain approval"
+        ]
+      },
+      "analytics": {
+        "cloudflareWebAnalytics": "pending-production-domain",
+        "searchConsole": "pending-production-domain",
+        "ga4": "not-planned"
+      },
+      "pages": [
+        {
+          "slug": "",
+          "type": "home",
+          "intent": "Drainage help in Tulsa",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services",
+          "type": "services-hub",
+          "intent": "Compare Tulsa Drain Pros services",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/french-drain-installation",
+          "type": "service",
+          "service": "French Drain Installation",
+          "intent": "Understand french drain installation in Tulsa",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/yard-drainage",
+          "type": "service",
+          "service": "Yard Drainage",
+          "intent": "Understand yard drainage in Tulsa",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/downspout-drainage",
+          "type": "service",
+          "service": "Downspout Drainage",
+          "intent": "Understand downspout drainage in Tulsa",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/stormwater-control",
+          "type": "service",
+          "service": "Stormwater Control",
+          "intent": "Understand stormwater control in Tulsa",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "service-areas",
+          "type": "service-areas-hub",
+          "intent": "Confirm service availability in Tulsa",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "about",
+          "type": "about",
+          "intent": "Understand the Tulsa Drain Pros process",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "contact",
+          "type": "contact",
+          "intent": "Request an assessment",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "privacy",
+          "type": "legal",
+          "intent": "Privacy information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "terms",
+          "type": "legal",
+          "intent": "Terms information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "thank-you",
+          "type": "confirmation",
+          "intent": "Lead confirmation",
+          "indexState": "noindex"
+        }
+      ]
+    },
+    {
+      "schemaVersion": 2,
+      "siteKey": "ws-crawl-space",
+      "directory": "ws-crawl-space",
+      "brand": "WS Crawl Space",
+      "domain": "wscrawlspace.com",
+      "trade": "Crawlspace",
+      "city": "Winston-Salem",
+      "state": "NC",
+      "stage": "staging",
+      "clone": {
+        "id": "welborn-garage",
+        "label": "Welborn Garage",
+        "contract": "literal-homepage-structure"
+      },
+      "brandSystem": {
+        "boardFile": "WS Crawl Space.jpeg",
+        "boardSha256": "07934584daf09868e203127ac487c519aeb83f3eb5eba784a7397c57f9eace8e",
+        "status": "approved-board-assets-extracted",
+        "colors": {
+          "primary": "#0D1B2A",
+          "secondary": "#C48F2C",
+          "accent": "#6B7280",
+          "neutral": "#F2F3F5"
+        },
+        "typography": {
+          "heading": {
+            "family": "Anton",
+            "fallback": "'Anton', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "body": {
+            "family": "DM Sans",
+            "fallback": "'DM Sans', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          },
+          "accent": {
+            "family": "Space Grotesk",
+            "fallback": "'Space Grotesk', Arial, Helvetica, sans-serif",
+            "licenseStatus": "file-not-supplied"
+          }
+        },
+        "logoSlots": {
+          "primary": "assets/brand/ws-crawl-space/brandmark.svg",
+          "raster": "assets/brand/ws-crawl-space/brandmark.png",
+          "icon": "assets/brand/ws-crawl-space/brand-icon.png",
+          "favicon": "assets/brand/ws-crawl-space/favicon.png"
+        }
+      },
+      "contact": {
+        "phone": "336-842-0660",
+        "tel": "+13368420660",
+        "phoneStatus": "not-in-callrail-inventory",
+        "publicAddress": null,
+        "addressStatus": "not-supplied"
+      },
+      "gbp": {
+        "status": "not-verified",
+        "url": null,
+        "reviewUrl": null,
+        "verificationSource": "LLG Portfolio workbook"
+      },
+      "services": [
+        [
+          "crawlspace-encapsulation",
+          "Crawlspace Encapsulation"
+        ],
+        [
+          "crawlspace-drainage",
+          "Crawlspace Drainage"
+        ],
+        [
+          "moisture-control",
+          "Crawlspace Moisture Control"
+        ],
+        [
+          "dehumidifier-solutions",
+          "Crawlspace Dehumidifier Solutions"
+        ]
+      ],
+      "serviceArea": {
+        "primaryCity": "Winston-Salem",
+        "state": "NC",
+        "adjacentCities": [],
+        "status": "primary-city-only"
+      },
+      "evidence": {
+        "reviews": "pending-approved-records",
+        "projectPhotos": "pending-attributable-assets",
+        "sharedTradePhotos": "generic-service-use-only",
+        "claims": "pending-verification"
+      },
+      "routing": {
+        "status": "disabled-until-recipient-and-forwarding-test",
+        "activeClientRecipient": "cloudflare-only",
+        "llgCopyRecipient": "cloudflare-only",
+        "smsCapability": "disabled"
+      },
+      "indexing": {
+        "siteState": "noindex",
+        "productionEligible": false,
+        "blockers": [
+          "routing approval",
+          "claim review",
+          "phone forwarding test",
+          "canonical/domain approval"
+        ]
+      },
+      "analytics": {
+        "cloudflareWebAnalytics": "pending-production-domain",
+        "searchConsole": "pending-production-domain",
+        "ga4": "not-planned"
+      },
+      "pages": [
+        {
+          "slug": "",
+          "type": "home",
+          "intent": "Crawlspace help in Winston-Salem",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services",
+          "type": "services-hub",
+          "intent": "Compare WS Crawl Space services",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/crawlspace-encapsulation",
+          "type": "service",
+          "service": "Crawlspace Encapsulation",
+          "intent": "Understand crawlspace encapsulation in Winston-Salem",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/crawlspace-drainage",
+          "type": "service",
+          "service": "Crawlspace Drainage",
+          "intent": "Understand crawlspace drainage in Winston-Salem",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/moisture-control",
+          "type": "service",
+          "service": "Crawlspace Moisture Control",
+          "intent": "Understand crawlspace moisture control in Winston-Salem",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "services/dehumidifier-solutions",
+          "type": "service",
+          "service": "Crawlspace Dehumidifier Solutions",
+          "intent": "Understand crawlspace dehumidifier solutions in Winston-Salem",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "service-areas",
+          "type": "service-areas-hub",
+          "intent": "Confirm service availability in Winston-Salem",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "about",
+          "type": "about",
+          "intent": "Understand the WS Crawl Space process",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "contact",
+          "type": "contact",
+          "intent": "Request an assessment",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "privacy",
+          "type": "legal",
+          "intent": "Privacy information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "terms",
+          "type": "legal",
+          "intent": "Terms information",
+          "indexState": "noindex"
+        },
+        {
+          "slug": "thank-you",
+          "type": "confirmation",
+          "intent": "Lead confirmation",
+          "indexState": "noindex"
+        }
+      ]
+    }
+  ]
+}

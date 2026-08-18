@@ -1,0 +1,66 @@
+{
+  "siteKey": "dallas-drain-guys",
+  "stage": "staging",
+  "currentCrawlContract": {
+    "metaRobots": "noindex,nofollow",
+    "robotsTxt": "Disallow: /",
+    "xRobotsTag": "noindex, nofollow",
+    "sitemap": "empty"
+  },
+  "productionCandidate": {
+    "origin": "https://dallasdrainguys.com",
+    "urls": [
+      {
+        "path": "/",
+        "canonical": "https://dallasdrainguys.com/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/",
+        "canonical": "https://dallasdrainguys.com/services/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/french-drain-installation/",
+        "canonical": "https://dallasdrainguys.com/services/french-drain-installation/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/yard-drainage/",
+        "canonical": "https://dallasdrainguys.com/services/yard-drainage/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/downspout-drainage/",
+        "canonical": "https://dallasdrainguys.com/services/downspout-drainage/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/services/stormwater-control/",
+        "canonical": "https://dallasdrainguys.com/services/stormwater-control/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/service-areas/",
+        "canonical": "https://dallasdrainguys.com/service-areas/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/about/",
+        "canonical": "https://dallasdrainguys.com/about/",
+        "indexState": "pending-approval"
+      },
+      {
+        "path": "/contact/",
+        "canonical": "https://dallasdrainguys.com/contact/",
+        "indexState": "pending-approval"
+      }
+    ]
+  },
+  "releaseBlockers": [
+    "routing approval",
+    "claim review",
+    "phone forwarding test",
+    "canonical/domain approval"
+  ]
+}

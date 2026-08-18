@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "siteKey": "nashville-crawlspace",
+  "sourceType": "brand-board-jpeg",
+  "sourceFile": "Nashville Crawlspace.jpeg",
+  "sha256": "b0f4dd73af6748193d81bb95186ce9bdcbc97468dc4c2d72e2cc734adb94a51a",
+  "dimensions": {
+    "width": 1600,
+    "height": 900
+  },
+  "observations": [
+    "four printed brand colors",
+    "heading, body, and accent font roles",
+    "logo, wordmark, icon, and favicon examples"
+  ],
+  "confidence": "high",
+  "assetPolicy": "board is token evidence; website logo slots remain placeholders until source vector files are supplied"
+}

@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "siteKey": "new-orleans-french-drain",
+  "sourceType": "brand-board-jpeg",
+  "sourceFile": "New Orleans French Drain.jpeg",
+  "sha256": "e7ba8c3e3c226ee9f7dacb6d5348e7c95e27aa23d0d0d56c01e4523dfa225875",
+  "dimensions": {
+    "width": 1600,
+    "height": 900
+  },
+  "observations": [
+    "four printed brand colors",
+    "heading, body, and accent font roles",
+    "logo, wordmark, icon, and favicon examples"
+  ],
+  "confidence": "high",
+  "assetPolicy": "board is token evidence; website logo slots remain placeholders until source vector files are supplied"
+}
